@@ -167,7 +167,7 @@ Weapons are separated into different tables sorted by skill specialization and o
 |:-|:-:|:-:|:-:|:-:|:-:|:-|
 | Unarmed | - | STR B | +2 | Unarmed | - | Nonlethal, Swift |
 | Cestus | 1 | STR+r4 B | +4 | Unarmed | ½kg | Momentum, Swift |
-| Claws | 5 | STR+r4 P/S | +6 | Unarmed | ½kg | Bypass 1, Swift |
+| Claw | 5 | STR+r4 P/S | +6 | Unarmed | ½kg | Bypass 1, Swift |
 | Knuckle | 3 | STR+r6 B | +6 | Unarmed | ½kg | Momentum, Swift |
 | Hand Wraps (2) | 1 | STR+r2 B | +4 | Unarmed | ¼kg | Nonlethal, Swift |
 | Punch Dagger | 10 | STR+r6 P/S | +8 | Unarmed | ½kg | Bypass 2, Swift |

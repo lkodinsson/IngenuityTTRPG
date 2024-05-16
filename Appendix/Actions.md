@@ -24,17 +24,13 @@
 
 **Action Type:** One Action
 
-Make an attack on a target with one of your wielded weapons or with your bare hands. When making an attack, first roll your appropriate combat skill against your target's deflection. A result of a graze, success, or critical, are all considered a hit, and a failure is considered a miss.
+Make an attack against a target with one of your weapons or with your bare hands. When making an attack, first roll your appropriate combat skill against your target's deflection. A result of a graze, success, or critical, are all considered a hit, and a failure is considered a miss.
 
 On a hit, you then roll your weapon's damage. Damage from successful hits are reduced by the target's damage reduction. Damage from grazing hits are reduced by 5 in addition to the target's damage reduction. The minimum amount of damage that is dealt by a hit is 1 damage. Critical hits both ignore damage reduction and deal bonus damage as specified by the weapon used.
 
-Additional attacks made during the same turn get a -5 penalty to hit for each attack made before it in the same turn. This penalty applies to all forms of attack actions (such as maneuvers) except for reactions (such as by a readied action). This is known as the *multiple attack penalty*.
+Additional attacks made during the same turn get a -5 penalty to hit for each attack made before it in the same turn. This penalty applies to all forms of attack actions (such as maneuvers) except for reactions. This is known as the *multiple attack penalty*.
 
 Attacks made against enemies who cannot see you, or who are surrounded on two opposite sides, are made with advantage. These are known as *sneak attacks* and *flanking attacks* respectively. You do not need to be contributing to a flank to make a flanking attack (such as making a ranged attack against a flanked target). If you make an attack that is both a sneak attack and a flanking attack it will provide you double advantage on that attack roll.
-
-<!--
-On a hit, you then roll your weapon's damage. Both grazing hits and successful hits are reduced by the target's damage reduction. Damage from grazing hits are then further reduced by half. The minimum amount of damage that is dealt by a hit is 1 damage. Critical hits both ignore damage reduction and deal bonus damage as specified by the weapon used.
--->
 
 ---
 
@@ -72,7 +68,7 @@ You become prone. Ranged attacks against prone characters are made with disadvan
 **Action Time:** Reaction or Free Reaction  
 **Stamina Cost:** 1
 
-As a free reaction you may roll your evasion to defend against an attack instead of using your deflection. If the incoming attack grazes against your evasion roll, then the incoming attack is considered a failure instead of a graze. After you evade, you may drop prone. Instead of dropping prone you may move up to 1m, but the evade must be done as a normal reaction (instead of a free reaction).
+As a free reaction you may use your evasion to defend against an attack instead of using your deflection. If the incoming attack grazes against your evasion roll, then the incoming attack is considered a failure instead of a graze. After you evade, you may drop prone. Instead of dropping prone you may move up to 1m, but the evade must be done as a normal reaction (instead of a free reaction).
 
 ---
 
@@ -107,11 +103,10 @@ Use a wielded item with the parry feature to defend against an attack, adding it
 
 **Action Type:** Two Actions
 
-Declare any action type of two actions or less to instead use as a reaction given a specified trigger of your choice. For example: while standing at the end of a hallway, you can ready an attack action against any targets that come into view (such as from a room attached to that hallway). Readied actions are performed immediately, even if that means they might happen in the middle of, or before, another action. This can include spells, maneuvers, or any other special abilities or actions.
+Declare any action with an action type of two actions or less to instead use as a reaction given a specified trigger of your choice. Readied actions when triggered are performed immediately, even if that means they might happen in the middle of, or before, another action. This can include maneuvers, powers, or any other special abilities or actions. If an attack or maneuver is readied by this action, then it is effected by the multiple attack penalty as if it was taken during your turn (normally reactions are not effected by the multiple attack penalty). For example: while standing at the end of a hallway, you can ready an attack action against any targets that come into view (such as from a room attached to that hallway).
 
 This action may only be taken as your last action during your turn.
 
-<!-- Could instead be variable action type equivalent to the action readied... but then it's an exploit to always get one attack without the multiple attack penalty... I mean it kind of already is, but at least it costs an extra action. -->
 
 ---
 

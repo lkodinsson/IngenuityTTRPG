@@ -131,7 +131,7 @@ Move up to three times your speed in a straight line over a distance of at least
 **Duration:** 1 Round (if stunned)  
 **Resist:** Fortitude
 
-Make a melee attack. If the weapon you use does not deal blunt damage or you make this attack unarmed, suffer a -1 penalty to hit and damage. This attack always deals blunt damage. If successful and the target has zero endurance (after damage), the target becomes unconscious. Otherwise, the target becomes stunned.
+Make a melee attack. If the weapon you use does not deal blunt damage or you make this attack unarmed, suffer a -1 penalty to hit and damage. This attack always deals blunt damage. If the attack hits and the target has zero endurance (after damage), the target becomes unconscious. Otherwise, the target becomes stunned.
 
 ## Crippling Strike
 
@@ -144,7 +144,7 @@ Make a melee attack. If the weapon you use does not deal blunt damage or you mak
 **Duration:** 2 Rounds  
 **Resist:** Fortitude
 
-Make an attack. If successful, the target has their movement speed reduced to half and gets -1 to hit with attacks for the duration. Additionally, if this maneuver was performed as a readied action, then the target cannot move for the rest of the turn that they were hit.
+Make an attack. If the attack hits, the target has their movement speed reduced to half and gets -1 to hit with attacks for the duration. Additionally, if this maneuver was performed as a readied action, then the target cannot move for the rest of the turn that they were hit.
 
 Increase the penalty to -2 if you are at least exceptional (r12) in the Athletics skill.
 
@@ -158,7 +158,7 @@ Increase the penalty to -2 if you are at least exceptional (r12) in the Athletic
 
 **Resist:** Willpower
 
-Make a melee attack. If successful, trade places with your target if they are within 1m.
+Make a melee attack. If the attack hits, trade places with your target if they are within 1m.
 
 ## Disarm
 
@@ -182,7 +182,7 @@ Make a combat check with a -1 penalty against a target within melee range. If su
 
 **Resist:** Willpower
 
-Make a melee attack with +1 to hit. If successful, the target must lose concentration on an ability or effect. If they do, they cannot perform that ability on their next turn. Additionally, if the target is in the middle of an extended action or readying an action, then that action becomes interrupted and is not performed.
+Make a melee attack with +1 to hit. If the attack hits, the target must lose concentration on an ability or effect. If they do, they cannot perform that ability on their next turn. Additionally, if the target is in the middle of an extended action or readying an action, then that action becomes interrupted and is not performed.
 
 ## Double Shot
 
@@ -204,7 +204,7 @@ Make a two ranged attacks with a single attack roll with -2 to hit against two d
 
 **Resist:** Perception
 
-Make an agility check against any number of targets to hide in plain sight, making it easy to perform sneak attacks against those targets or run away undetected. If successful, you must then follow up with a move action or lose the benefits of this maneuver.
+Make an agility check against any number of targets to hide in plain sight, making it easy to perform sneak attacks against those targets or run away undetected. If successful, you must then immediately follow up with a move action or lose the benefits of this maneuver.
 
 ## Feint
 
@@ -295,7 +295,7 @@ Trade places with an adjacent ally (within 1m) who is being attacked, become the
 
 **Resist:** Fortitude
 
-Make an attack with +2 to hit against a target who is attacking an ally. This attack occurs before the target's attack. If successful, the target gets -2 to their attack roll to hit that ally.  
+Make an attack with +2 to hit against a target who is attacking an ally. This attack occurs before the target's attack. If the attack hits, the target gets -2 to their attack roll to hit that ally.  
 
 ## Intimidating Strike
 
@@ -320,7 +320,7 @@ Make a charisma check against a target within melee range. If successful, the ta
 
 **Resist:** Fortitude
 
-Make an attack with -2 to hit. If successful, the target becomes prone.
+Make an attack with -2 to hit. If the attack hits, the target becomes prone.
 
 ## Leap Strike
 
@@ -330,7 +330,7 @@ Make an attack with -2 to hit. If successful, the target becomes prone.
 **Stamina Cost:** 1  
 **Action Speed:** Standard
 
-Make an agility check if leaping over an obstacle (1m between you and your target) against a difficulty of 10 or an athletics check if leaping over a distance (of at least 2m, but up to half your speed) against a difficulty of 10. If successful, move that distance and make an attack with +1 to hit and damage.
+Make an agility check if leaping over an obstacle (1m between you and your target) against a difficulty of 10 or an athletics check if leaping over a distance (of at least 2m, but up to half your speed) against a difficulty of 10. If successful, move that distance and make an attack with +1 to hit and damage. Otherwise, move half that distance (rounded up) if possible, and do not make an attack against the target.
 
 ## Opportunity Strike
 
@@ -367,7 +367,7 @@ You may spend an additional 1 stamina to increase the critical threshold reducti
 **Duration:** 1 Round  
 **Resist:** Fortitude
 
-Make an attack with a projectile weapon. If successful, the target cannot move for the duration.
+Make an attack with a projectile weapon. If the attack hits, the target cannot move for the duration.
 
 ## Point-blank Shot
 
@@ -390,7 +390,7 @@ Make an attack with a projectile weapon against a target 2m or closer. This atta
 **Duration:** 1 Round  
 **Resist:** Fortitude (for reduced effect)
 
-Make an attack with a weapon. If successful, make a medicine check to inflict sickness 3 upon the target, or sickness 1 if the target resists. This causes it to perform tasks worse and suffer loss of health over a short period of time. Whenever the duration of this effect is met, the target may resist the sickness. If they fail, they lose 2 health, otherwise they lose 1 health and reduce the degree of effect of the sickness by 1.
+Make an attack with a weapon. If the attack hits, make a medicine check to inflict sickness 3 upon the target, or sickness 1 if the target resists. This causes it to perform tasks worse and suffer loss of health over a short period of time. Whenever the duration of this effect is met, the target may attempt resist the sickness again. If they fail, they lose 2 health, otherwise they lose 1 health and reduce the degree of effect of the sickness by 1.
 
 If this effect is applied to a target that is already effected by this kind of poison, the greatest degree of effect takes precedence.
 
@@ -457,7 +457,7 @@ The next time you take the reload action this turn, it is one action speed faste
 
 **Resist:** Fortitude
 
-Make an attack with a shield or similar item as if it was a weapon that deals r6 blunt damage and +6 critical damage. If successful, move with the target or knock them back 1m. If they can't be moved or knocked back because there is not enough room, then gain advantage to your damage roll.
+Make an attack with a shield or similar item as if it was a weapon that deals r6 blunt damage and +6 critical damage. If the attack hits, move with the target or knock them back 1m. If they can't be moved or knocked back because there is not enough room, then gain advantage to your damage roll.
 
 ## Spell Deflection
 
@@ -487,7 +487,7 @@ Roll your evasion to resist a spell instead of making the normal resist roll. If
 **Stamina Cost:** 1  
 **Action Speed:** Standard
 
-Make an attack with +1 to hit. If successful, cast a spell with a range of touch and a speed of standard or faster against the same target. The target gets a -2 penalty to resist that spell. That spell is cast as a part of this attack (so its cast speed is ignored).
+Make an attack with +1 to hit. If the attack hits, cast a spell with a range of touch and a speed of standard or faster against the same target. The target gets a -2 penalty to resist that spell. That spell is cast as a part of this attack (so its cast speed is ignored).
 
 ## Taunt
 
@@ -512,7 +512,7 @@ Make a charisma check against a target within 20m. If successful, the target get
 
 **Resist:** Agility
 
-Make a melee attack dealing blunt damage, with -2 to hit, and dealing half damage. If successful, the target becomes prone. Unless this skill is made using a weapon with the trip feature, it can only be made unarmed. If this maneuver is used with a weapon that has the trip feature, you don't suffer the -2 to hit.
+Make a melee attack dealing blunt damage, with -2 to hit, and dealing half damage. If the attack hits, the target becomes prone. Unless this skill is made using a weapon with the trip feature, it can only be made unarmed. If this maneuver is used with a weapon that has the trip feature, you don't suffer the -2 to hit.
 
 ## Triple Shot
 

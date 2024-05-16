@@ -776,7 +776,7 @@ This spell's focus cost increases by 1 and difficulty increases by 2 for each ad
 **Target:** Self  
 **Duration:** 24 hours (concentration)
 
-You gain the ability to properly communicate with animals. This provides advantage to wild empathy checks, and allows you to receive a responses you can understand. While you are capable of articulating more advanced concepts, the animal is less capable. Most responses received will be either in very simple sentences or as an emotion. You may still require their trust before you receive a truthful response. Attempts to articulate complex concepts beyond the scope of a wild animal will be completely misunderstood.
+You gain the ability to properly communicate with animals. This provides advantage to wild empathy checks, and allows you to receive a response you can understand. While you are capable of articulating more advanced concepts, the animal is less capable. Most responses received will be either in very simple sentences or as an emotion. You may still require their trust before you receive a truthful response. Attempts to articulate complex concepts beyond the scope of a wild animal will be completely misunderstood.
 
 ***Graze:*** Only a single message may be sent back and forth, then the effect is lost.
 

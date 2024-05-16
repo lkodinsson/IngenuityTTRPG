@@ -6,29 +6,29 @@ The process of creating a character is a series of small steps. A character is m
 
 ### Ancestry
 
-It is not guaranteed that a genre has a multitude of ancestry options, but Humans are usually an available option. The ancestry you pick will provide bonuses to your primary stats, a ancestry ability, and determine your size and movement speed.
+It is not guaranteed that a genre has a multitude of ancestry options, but *humans* or various human *heritages* are usually an available option. The ancestry you pick will provide bonuses to your primary stats, a ancestry ability, and determine your size and movement speed.
 
-Click [here](/Core/Characters/Ancestries.md) for the list of ancestries.
+Click [here](/Features/Ancestries.md) for the list of ancestries.
 
 ### Background
 
 Backgrounds are the profession or history of your character before they left that life behind them to become an adventurer or hero (or whatever the genre you are playing calls them). The background you choose will provide bonuses to some of your skills.
 
-Click [here](/Core/Characters/Backgrounds.md) for the list of backgrounds.
+Click [here](/Features/Backgrounds.md) for the list of backgrounds.
 
 ### Archetype
 
 Archetypes get you on the path to building a character with a strong theme, but they do not limit any of your character advancement options. Essentially they are a title that provides you with some benefits, much like backgrounds. They determine what skills and abilities you start with.
 
-Click [here](/Core/Characters/Archetypes.md) for the list of archetypes.
+Click [here](/Features/Archetypes.md) for the list of archetypes.
 
 ### Trait
 
-Traits are unique abilities that only you possess. This part of character creation is entirely up to you (and your Game Master). Generally traits are special things you can do or have. They provide opportunities to roleplay in a unique way, or help make your character stand out from others with a similar background or archetype. They can be mundane or magical in nature, and are something you can describe in a couple sentences. Traits should provide some degree of actual mechanical benefit, but the exact benefit is to be determined by the context of your adventure and what your Game Master determines is fair.
+Traits are unique abilities that only you possess. This part of character creation is entirely up to you (and your Game Master). Traits are generally special things you can do or have. They provide opportunities to roleplay in a unique way, or help make your character stand out from others with a similar background or archetype. They can be mundane or magical in nature, and are something you can describe in a couple sentences. Traits should provide some degree of actual mechanical benefit, but the exact benefit is to be determined by the context of your adventure and what your Game Master determines is fair.
 
 The trait you decide upon can be something very similar to an existing talent or spell, but the obvious drawback is that you don't get some other type of unique ability.
 
-Click [here](/Core/Characters/Traits.md) for a list of example traits.
+Click [here](/Features/Traits.md) for a list of example traits.
 
 ### Starting Stats
 
@@ -179,18 +179,14 @@ For example: if you are improving a primary stat from a roll value of r12 to a r
 | 18 | 70 | r18 | Powerful |
 | 20 | 90 | r20 | Epic |
 
-#### Experience Checkpoints
-
-There is also a second way that primary stats are improved: as your total experience gained reaches certain checkpoints you get additional bonuses to your stats for free. For every 50 total experience points gained, you will choose one of your primary stats and apply an additional +1 bonus to it. You may only choose a single primary stat twice to receive this bonus.
-
 ### Acquiring Talents
 
 While stats and skills typically represent incremental numerical improvements to characters, talents can be acquired to provide more range of ability.
 
-Talents that provide minor abilities cost 4 experience, while those that provide more major abilities cost 8 experience. Some talents can be acquired more than once, such as the [toughness](/Core/Characters/Talents.md#toughness) and [extra maneuver](/Core/Characters/Talents.md#extra-maneuver) talents. These talents may have steps, similar to stats and skills. Each time they are acquired, they will cost 1 more experience for each time you have already acquired that talent.
+Talents that provide minor abilities cost 4 experience, while those that provide more major abilities cost 8 experience. Some talents can be acquired more than once, such as the [toughness](/Core/Characters/Talents.md#toughness) and [extra maneuver](/Features/Talents.md#extra-maneuver) talents. These talents may have steps, similar to stats and skills. Each time they are acquired, they will cost 1 more experience for each time you have already acquired that talent.
 
 For example: The first time you acquire the toughness talent it will cost 4 experience, but the second and third times will each cost 5 and 6.
 
 Although some talents are associated with certain archetypes, there are no restrictions stopping any character from acquiring another archetype's starting talent so long as all other requirements are met.
 
-Click [here](/Core/Characters/Talents.md) for the list of talents.
+Click [here](/Features/Talents.md) for the list of talents.

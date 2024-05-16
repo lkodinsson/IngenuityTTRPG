@@ -88,7 +88,7 @@ Additionally, any weapon or object can also be thrown as if it has *Thrown 2m/20
 
 **Cleave** Additional attacks made against new targets don’t suffer from the multiple attack penalty.
 
-**Large** This weapon is treated as being unfit at 1m, but also is too large to make attacks while next to walls, ceilings, or obstacles within 1m (or more if they have the unfit feature). If used within a 1m range of friendly characters, you have a chance to hit them instead if you fail to hit your target (roll an attack with disadvantage to hit a random adjacent ally).
+**Large** This weapon is treated as being unfit at 1m, but also is too large to make attacks with while next to walls, ceilings, or obstacles within your unfit distance. If your target is within 1m of other characters, you have a chance to hit them instead if you fail to hit your target (apply your attack to hit roll to a random adjacent target instead).
 
 **Mechanical** This weapon does not add strength to damage, and can be preloaded before attacking with it.
 
@@ -98,23 +98,23 @@ Additionally, any weapon or object can also be thrown as if it has *Thrown 2m/20
 
 **Parry** When you use this item to perform a parry action, add the given value to your Deflection.
 
-**Ranged** Attacks made work normally up to the first given range. Attacks beyond that range get -1 to hit for each additional multiple of that range between you and the target. Attacks can only be made up to a maximum of the second given range. If only one range paramter is given, then that is also the maximum range. If used within a 1m range of friendly characters, you have a chance to hit them instead if you fail to hit your target (roll an attack with disadvantage to hit a random adjacent ally).
+**Ranged** Attacks made work normally up to the first given range. Attacks beyond that range get -1 to hit for each additional multiple of that range between you and the target. Attacks can only be made up to a maximum of the second given range. If only one range parameter is given, then that is also the maximum range. If your target is within 1m of other characters, you have a chance to hit them instead if you fail to hit your target (apply your attack to hit roll to a random adjacent target instead).
 
-**Reach** Functions like the ranged feature, but attacks are still considered melee.
+**Reach** Functions like the ranged feature, but attacks are still considered melee. Failing to hit your target does not result in possibly hitting an adjacent target like ranged weapons, unless the weapon is also large.
 
 **Reload** Attacks can only be made by first taking the time to reload the weapon (as specified). Reloading the weapon in this way requires the use of both hands.
 
-**Swift** Additional attacks made with this weapon have their multiple attack penalty reduced by 1 (from -4 to -3).
+**Swift** Additional attacks made with this weapon have their multiple attack penalty reduced by 1 (from -5 to -4).
 
 **Thrown** Attacks can be made as if they were ranged, but the weapon must then be retrieved after use.
 
-**Trip** Attacks with this weapon can be made as a standard action that costs 1 stamina. That attack deals blunt damage, is made with -2 to hit, and deals half damage. If successful, the target can use agility to resist being tripped or drop prone.
+**Trip** This weapon provides a bonus when using it to perform the [trip](/Features/Maneuvers#trip) maneuver.<!--Attacks with this weapon can be made as a standard action that costs 1 stamina. That attack deals blunt damage, is made with -2 to hit, and deals half damage. If successful, the target can use agility to resist being tripped or drop prone.-->
 
 **Two-Handed (melee)** Attacks may be made two-handed with an advantage to damage. Attacks made single-handed get -1 to hit, and a disadvantage to damage.
 
 **Two-Handed (ranged)** Attacks must be made with two hands. If the weapon is not mechanical it will also get an advantage to damage.
 
-**Unfit** Attacks made at the given range or closer get -2 to hit.
+**Unfit** Attacks made at the given range or closer get disadvantage to hit.
 
 **Versatile (melee)** Attacks may be made two-handed with an advantage to damage and -1 to hit. Attacks made single-handed are made normally.
 

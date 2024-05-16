@@ -1,7 +1,6 @@
 # Character Flaws
 
-
-
+<!--
 # WORKSHOP
 
 claustrophobia
@@ -135,3 +134,4 @@ After you take a long rest, roll willpower and record the result. Once until you
 ---
 
 A number of times equal to this talent's rank if you fail to cast a spell, you may instead replace that spell with another spell that is one tier lower.
+-->

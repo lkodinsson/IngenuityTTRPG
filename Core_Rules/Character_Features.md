@@ -43,7 +43,7 @@ Resolve is the determination, intuition, and spirituality of your character. It 
 
 ### Secondary Stats
 
-Characters also have several *secondary stats*: *health*, *endurance*, *stamina*, *focus*, *fortitude*, *initiative*, *willpower*, *deflection*, *evasion*, *speed*, and *size*. These stats are derived from other sources, such as your primary stats, other character features, and your equipment. For example: *armour rating* and *damage reduction* are determined by what your character is wearing, while *speed* and *size* are determined by your character's ancestry. The first four of the secondary stats (health, endurance, stamina, and focus) are also considered *resources*. Resources have current and maximum values, and they may be spent or damaged.
+Characters also have several *secondary stats*: *health*, *endurance*, *stamina*, *focus*, *fortitude*, *reflexes*, *willpower*, *deflection*, *evasion*, *speed*, and *size*. These stats are derived from other sources, such as your primary stats, other character features, and your equipment. For example: *armour rating* and *damage reduction* are determined by what your character is wearing, while *speed* and *size* are determined by your character's ancestry. The first four of the secondary stats (health, endurance, stamina, and focus) are also considered *resources*. Resources have current and maximum values, and they may be spent or damaged.
 
 <!--
 ##### Table: Secondary Stats
@@ -54,7 +54,7 @@ Characters also have several *secondary stats*: *health*, *endurance*, *stamina*
 | Stamina (ST) | Max DEX |
 | Focus (FP) | Max INT |
 | Fortitude (FORT) | STR + RES |
-| Initiative (INIT) | DEX + RES |
+| Reflexes (REFL) | DEX + RES |
 | Willpower (WILL) | INT + RES |
 | Deflection (DEF) | RES + AR |
 | Evasion (EVA) | DEX + AR |
@@ -64,15 +64,15 @@ For example: if you have a strength of r12, then you have a maximum strength of 
 
 #### Resources
 
-Some secondary stats act as resources, and managing these resources allows that character to survive difficult circumstances and perform exceptional abilities. All resource stats are represent by *maximum* and *current* values, where the amount of that resource you can have is limited by its maximum, and may be spent until they run out. *Health* and *endurance* are used to measure how well your character is surviving damage and physical stress, with endurance being easy to recover and health being difficult to recover. The other two resources are spent to perform special abilities, with *stamina* being used for physical abilities and *focus* being used for mental abilities.
+Some secondary stats act as resources, and managing these resources allows that character to survive difficult circumstances and perform exceptional abilities. All resource stats are represented by *current* and *maximum* values, where your current amount of that resource you can have is limited by its maximum, and may be spent until it runs out. *Health* and *endurance* are used to measure how well your character is surviving damage and physical stress, with endurance being easy to recover and health being difficult to recover. The other two resources are spent to perform special abilities, with *stamina* being used for physical abilities and *focus* being used for mental abilities.
 
-#### Reflexes
+#### Resistances
 
-When things happen to and around your character, some stats are used to measure your character's response to those events. These stats are basically a form of reflex. *Fortitude* prepares your body for a physical challenge, *initiative* prepares the body to move and detect, and *willpower* prepares the mind to assess or resist influence. In some cases the Game Master may even secretly resolve the use of your character's reflexes (especially initiative), if there is any potential that an outcome should be a secret to your character.
+When things happen to and around your character, some stats are used to measure your character's response to those events. These stats are basically a form of reflex. *Fortitude* prepares your body for a physical challenge, *reflexes* prepares the body to move and detect, and *willpower* prepares the mind to assess or mitigate influence. In some cases the Game Master may even secretly resolve the use of your character's resistances (especially reflexes), if there is any potential that an outcome should be a secret to your character.
 
 #### Defenses
 
-In contrast to reflexes, the defensive stats of *deflection* and *evasion* are active and decided by player choice. In more direct combat encounters, you will have the choice when attacked to use your choice of deflection or evasion. Deflection being the option to take the threat head on, and evasion allowing you the chance to avoid it entirely. Evasion can be the safer option, but it also requires that you spend your stamina.
+In contrast to resistances, the defensive stats of *deflection* and *evasion* are active and decided by player choice. In more direct combat encounters, you will have the choice when attacked to use your choice of deflection or evasion. Deflection being the option to take the threat head on, and evasion allowing you the chance to avoid it entirely. Evasion can be the safer option, but it also requires that you spend your stamina.
 
 #### Innate
 
@@ -95,9 +95,9 @@ Stamina is used to perform tricks, maneuvers, and certain physical actions.
 
 Focus is used to use powers, cast spells, and perform special abilities.
 
-### Initiative (INIT)
+### Reflexes (REFL)
 
-Initiative is your ability to react first in a moment of conflict, and in other rare circumstances.
+Reflexes are your ability to react first in a moment of conflict, and in other rare circumstances.
 
 ### Armour Rating (AR)
 
@@ -143,11 +143,21 @@ Size is measured in size categories. Most characters will normally be considered
 | Huge | 3m~4m | 150kg~500kg | +3 | -2 | +1 |
 -->
 
-## Archetypes
+## Ancestries
+
+Where your character both comes from geographically and genetically are represented by their *ancestry*. This primarily determines your character's appearance and any natural abilities they have, including modifiers to their primary stats, size, and speed. Classic fantasy races like *orcs*, *elves*, and *dwarves* are all types of ancestries, but this can even extend to your lineage or heritage like if you were *british*, *danish*, or *japanese*.
+
+## Archetypes and Backgrounds
+
+*Archetypes*, also called *classes*, are the core that a character is built from. Essentially they are a title that provides you with your initial set of abilities and provide context to the capabilities of a character. Although archetypes are responsible for what abilities you start with they are in no way a limitation on what your character can learn and become; there is no limit to the amount of change that a character can go through. For example: your character could start as a *fighter*, then later develop a deep understanding of magic and acquire the same abilities as a *wizard*.
+
+*Backgrounds* function similarly to archetypes as they provide a title and a description, but they are more a reflection of a character's past than a character's present. In this way, the bonuses they provide to a character are much smaller, but they are still a meaningful part of that character's identity. 
+
+Each character will have a single archetype and background that defines who they are.
 
 ## Skills
 
-Skills represent practice in performing various groups of tasks and make certain types of actions easier for your character to perform. Like primary stats, skill values are represented by roll values. All skills have associated primary stats that are rolled with that skill together whenever they are performed.
+*Skills* represent practice in performing various groups of tasks and make certain types of actions easier for your character to perform. Like primary stats, skill values are represented by roll values. All skills have associated primary stats that are rolled together with that skill whenever they are performed.
 
 ##### Table: Skill Steps
 | Roll Value | Step Name |
@@ -163,11 +173,11 @@ Skills represent practice in performing various groups of tasks and make certain
 | r18 | Expert |
 | r20 | Master |
 
-All characters can use *any* skill even in they are not trained in that skill. If you do, then you will only get any roll value from that skill's associated stat, because untrained skills have no roll value provided. This means that it is very difficult to succeed with any skills untrained, as the difference between trained and untrained is largest individual gap.
-
 ### Skill Checks
 
-If you have taken an action and success is not guaranteed, you will need to make a *skill check*. You will roll your skill and associated primary stat together and compare the result to a *difficulty value* determined secretly by the Game Master. The result of any skill check is determined by its relationship to the difficulty value. This can result in varying degrees of success or failure. For example: you attempt to leap over a large pit. This requires an athletics check, which is associated with your strength stat. If you have a strength of r12, and an athletics of r4, you will roll r16. If you were not trained in athletics you would still at least roll your strength of r12.
+If you have taken an action and success is not guaranteed, you will need to make a *skill check*. You will roll your skill and associated primary stat together and compare the result to a *difficulty value* determined secretly by the Game Master. The result of any skill check is determined by its relationship to the difficulty value. This can result in varying degrees of success or failure. For example: you attempt to leap over a large pit. This requires an athletics check, which is associated with your strength stat. If you have a strength of r12, and an athletics of r4, you will roll r16.
+
+All characters can use any skill even in they are not trained in that skill. If you do, then you will only get any roll value from that skill's associated stat, because untrained skills have no roll value provided. This means that it is very difficult to succeed with any skills untrained, as the difference between trained and untrained is largest individual gap. For example: If you were not trained in athletics you would still at least roll your strength.
 
 In other circumstances where two characters are making a comparison of the same skill, those characters will instead need to make *opposed checks*. The results of an opposed check basically only have success or failure for the opposing characters, with the exception of ties. Grazes are not possible in opposed checks. For example: two characters want to compare physical ability and engage in an arm wrestling contest. They will both make athletics checks, with the character rolling highest winning the arm wrestle.
 
@@ -176,7 +186,7 @@ In other circumstances where two characters are making a comparison of the same 
 Challenges exist at various difficulties represented by a name and a value. The names of these difficulties can be used as a rough metric for determining the difficulty of any challenge, most of which will exist within the *easy* to *challenging* difficulty range. Anything considered a difficulty of *ambitious* or harder is much rarer.
 
 ##### Table: Challenge Difficulties
-| Difficulty<br/>Value | Difficulty Name |
+| Difficulty<br/>Value | Difficulty<br/>Name |
 |:-:|:-|
 | 5 | Very Easy |
 | 10 | Easy |
@@ -188,20 +198,22 @@ Challenges exist at various difficulties represented by a name and a value. The 
 | 40 | Improbable |
 <!--| 50 | Impossible |-->
 
-Given a roll against any difficulty value, there are multiple possible outcomes: *failure*, *graze*, *success*, or *critical success*. When you match or exceed the difficulty value, you succeed. Other outcomes depend on how far away you are from the difficulty value. Rolling 10 or more above the difficulty value is a critical success. Rolling below the difficulty is a graze, unless you roll 10 or less below the difficulty, which is a fail. The exact nature of a graze is determined by context and the Game Master: often it is a success with a cost but it can sometimes be failure with a positive benefit. Typically when characters interact, one is rolling to set the difficulty value for the other. These two values then create the comparison allowing for varying degrees of successs. For example: A character attacks another and the defender rolls deflection to defend. If the attacker succeeds, they deal full damage, but on a graze they deal half damage.
+Given a roll against any difficulty value, there are multiple possible outcomes: *failure*, *graze*, *success*, or *critical success*. When you match or exceed the difficulty value, you succeed. Other outcomes depend on how far away you are from the difficulty value. Rolling 10 or more above the difficulty value is a critical success, which provides additional benefits. Rolling below the difficulty is a graze, unless you roll 10 or less below the difficulty, which is a fail. The exact nature of a graze is determined by context and the Game Master: often it is a success with a cost but it can sometimes be failure with a positive benefit. Failures often suffer lasting consequences.
 
 ##### Table: Outcome vs Difficulty, Expanded
 | Difficulty | Fail | Graze | Success | Critical |
 |:-:|:-:|:-:|:-:|:-:|
-| <nobr>5 (Very Easy)</nobr> | <nobr>-5 or less</nobr> | -4~4 | 5~14 | <nobr>15 or higher</nobr> |
-| <nobr>10 (Easy)</nobr> | <nobr>0 or less</nobr> | 1~9 | 10~19 | <nobr>20 or higher</nobr> |
-| <nobr>15 (Moderate)</nobr> | <nobr>5 or less</nobr> | 6~14 | 15~24 | <nobr>25 or higher</nobr> |
-| <nobr>20 (Hard)</nobr> | <nobr>10 or less</nobr> | 11~19 | 20~29 | <nobr>30 or higher</nobr> |
-| <nobr>25 (Challenging)</nobr> | <nobr>15 or less</nobr> | 16~24 | 25~34 | <nobr>35 or higher</nobr> |
-| <nobr>30 (Ambitious)</nobr> | <nobr>20 or less</nobr> | 21~29 | 30~39 | <nobr>40 or higher</nobr> |
-| <nobr>35 (Absurd)</nobr> | <nobr>25 or less</nobr> | 26~34 | 35~44 | <nobr>45 or higher</nobr> |
-| <nobr>40 (Improbable)</nobr> | <nobr>30 or less</nobr> | 31~39 | 40~49 | <nobr>50 or higher</nobr> |
-<!--| <nobr>50 (Impossible)</nobr> | <nobr>40 or less</nobr> | 41~49 | 50~59 | <nobr>60 or higher</nobr> |-->
+| <nobr>5 (Very Easy)</nobr> | <nobr>-5 or less</nobr> | <nobr>-4 to 4</nobr> | <nobr>5 to 14</nobr> | <nobr>15 or higher</nobr> |
+| <nobr>10 (Easy)</nobr> | <nobr>0 or less</nobr> | <nobr>1 to 9</nobr> | <nobr>10 to 19</nobr> | <nobr>20 or higher</nobr> |
+| <nobr>15 (Moderate)</nobr> | <nobr>5 or less</nobr> | <nobr>6 to 14</nobr> | <nobr>15 to 24</nobr> | <nobr>25 or higher</nobr> |
+| <nobr>20 (Hard)</nobr> | <nobr>10 or less</nobr> | <nobr>11 to 19</nobr> | <nobr>20 to 29</nobr> | <nobr>30 or higher</nobr> |
+| <nobr>25 (Challenging)</nobr> | <nobr>15 or less</nobr> | <nobr>16 to 24</nobr> | <nobr>25 to 34</nobr> | <nobr>35 or higher</nobr> |
+| <nobr>30 (Ambitious)</nobr> | <nobr>20 or less</nobr> | <nobr>21 to 29</nobr> | <nobr>30 to 39</nobr> | <nobr>40 or higher</nobr> |
+| <nobr>35 (Absurd)</nobr> | <nobr>25 or less</nobr> | <nobr>26 to 34</nobr> | <nobr>35 to 44</nobr> | <nobr>45 or higher</nobr> |
+| <nobr>40 (Improbable)</nobr> | <nobr>30 or less</nobr> | <nobr>31 to 39</nobr> | <nobr>40 to 49</nobr> | <nobr>50 or higher</nobr> |
+<!--| <nobr>50 (Impossible)</nobr> | <nobr>40 or less</nobr> | <nobr>41 to 49</nobr> | <nobr>50 to 59</nobr> | <nobr>60 or higher</nobr> |-->
+
+Typically when characters interact with each other, one is rolling to set the difficulty value for the other. These two values then create the comparison allowing for varying degrees of successs the same as normal tasks. For example: A character attacks another and the defender rolls deflection to defend. If the attacker succeeds, they deal full damage, but on a graze they deal half damage. Failures in this case would result in simply missing or harmmlessly bouncing off their defenses.
 
 <!--
 <sup>Click [here](/Appendix/Expanded_Tables#table-outcome-vs-difficulty-expanded) for an expanded table.</sup>
@@ -225,7 +237,7 @@ Skills fit into several categories, each one interacting primarily with differen
 
 In the rules for each individual skill, they are each given a table detailing common tasks that you should expect along with that task's difficulty. Additionally, each skill is also broadly applicable to any other tasks not listed that fall within that skill's description. Some skills are very widely applicable like *athletics* and *agility* for nearly all physical tasks, *knowledge* for most mental tasks, and *charisma* for most social tasks. Other skills like *contacts* or *craft* have a much more narrow degree of application, yet can still be very useful.
 
-<sup>Click [here](/Appendix/Skills) for the rules for each individual skill.</sup>
+<sup>Click [here](/Features/Skills) for the rules for each individual skill.</sup>
 
 #### General Skills
 
@@ -233,37 +245,21 @@ The majority of skills that exist are general skills, each one fulfilling a diff
 
 #### Combat Skills
 
-Making attacks with a character requires the use of combat skills, all of which use dexterity as their associated stat: *unarmed*, *archery*, *finesse*, and *martial*. Making attacks with various weapons requires specialized training so each combat skill improves different categories of weapons, although some weapons are flexible enough that they can also be used with multiple different combat skills. Combat skills also provide characters with special abilities called *maneuvers*.
-
-<!-- Firearms skills? Light Firearms, Heavy Firearms? -->
+Making attacks with a character requires the use of combat skills, all of which use dexterity as their associated stat: *archery*, *finesse*, *firearms*, *martial*, and *unarmed*. Making attacks with various weapons requires specialized training so each combat skill improves different categories of weapons, although some weapons are flexible enough that they can also be used with multiple different combat skills. Combat skills also provide characters with special abilities called *maneuvers* at specific skill steps: trained (r4), practiced (r8), exceptional (r12), accomplished (r16), and master (r20).
 
 #### Power Skills
 
-*Powers* are special abilites that allow you to perform supernatural feats beyond the normal physical limitations of your character. They either are an extension of the mind or the body: *psionics* or *super*. These abilities are both acquired and performed similar to maneuvers like from combat skills. Power skills each have their own special rules, making these types of skills the most complicated but also versatile skills available to characters. Each of these skills also come with their own sub-categories called specializations to further differentiate characters and their abilities.
+*Powers* are special abilites that allow you to perform supernatural feats beyond the normal physical limitations of your character: *metapowers*, *psionics*, and *superpowers*. These abilities are both acquired and performed similar to maneuvers like from combat skills, but are acquired at every skill rank instead. Power skills each have their own special rules, making these types of skills the most complicated but also versatile skills available to characters. Each of these skills also come with their own sub-categories called specializations to further differentiate characters and their abilities that use the same power skills.
 
 #### Spellcasting Skills
 
-Powers also come in another form called *spells* which are performed by spellcasting skills: *animism*, *faith*, *ki*, *sorcery*, and *wizardry*. Both spells and spellcasting skills operate the same as powers and power skills, but with one minor difference: the manifestation of these powers come from a magical source instead of being an extension of your physical body. This means that while spells are considered magical, the normal powers are not. Various other powers and abilities will interact differently with each other depending on whether they are magical or non-magical.
+Powers also come in another form called *spells* which are performed by spellcasting skills: *animism*, *faith*, *ki*, *sorcery*, and *wizardry*. Both spells and spellcasting skills operate the same way as powers and power skills even using many of the same abilities, but with one minor difference: the manifestation of these powers come from a magical source. Various powers and abilities may interact differently with each other depending on whether they are magical or non-magical. For example: an ability that can dispel magical effects will not work on effects that come from normal power skills, and will only interact with abilities that come from spells.
 
 #### Languages
 
-?
+The languages that a character can speak are also represented as a type of skill. Normally, when your character speaks their native language you don't need to make any skills checks. However, whenever your character tries to use a language that they aren't native in, they will usually need to make a skill check with that language.
 
-<!--
-*Languages* are also represented by a skill that a character has, but in most cases player characters will all have access to the same base language (called *common*) to simplify player to player communication.
-
-When characters are created they are considered native speakers of their starting languages. If any characters wish to learn new languages they will need to acquire them exactly the same way that one would acquire a new complex skill. Therefore, non-native languages have values as roll values. Languages as skills are associated with intelligence.
-
-Whenever your character tries to read, write, speak, or listen to a language that they aren't native in, they will usually need to make a skill check with that language. Once you become a master of that language, it is functionally the same as if you were native in that Language, so you will no longer need to roll to determine success.
--->
-
-## Ancestries
-
-?
-
-## Backgrounds
-
-?
+If any characters wish to learn new languages they will need to acquire them the same way that they would acquire other skills, and just like other skills non-native languages have values as roll values. Languages as skills are associated with intelligence. Once you become a master of that language, it is functionally the same as if you were native in that language, so you will no longer need to roll to determine success.
 
 ## Talents
 

@@ -104,7 +104,7 @@ Governance without rule of law can quickly devolve into chaos. Without the guide
 
 ## Ki
 
-All things have some form of spirit, and ki is a manifestation of spirit in the form of an aura. Control over ki is control over one's own auras. Typically this form of magic is performed by those who meditate on the deeper parts of themselves. Those who can control their auras are known as sōhei​ or monks. Ki has four different specializations to choose from which are the four auras: *genki*, *kiai*, *shouki*, and *yuuki*.
+All things have some form of spirit, and ki is a manifestation of spirit in the form of an aura. Control over ki is control over one's own auras. Typically this form of magic is performed by those who meditate on the deeper parts of themselves. Those who can control their auras are known as sōhei or monks. Ki has four different specializations to choose from which are the four auras: *genki*, *kiai*, *shouki*, and *yuuki*.
 
 Monks do not require or use scrolls or spell books. You acquire a new spell from your specialization when you advance your ki skill. You can take this skill multiple times to learn how to control different auras. When you cast a spell using this skill, even if you have multiple specializations, you must cast that spell with the skill you learned it from. Each specialization casts spells using a different primary stat.
 

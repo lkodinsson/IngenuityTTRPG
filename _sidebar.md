@@ -14,8 +14,8 @@
 	- [Backgrounds](/Features/Backgrounds)<!---->
 	- [Traits](/Features/Traits)<!---->
 	- [Skills](/Features/Skills)
-	- [Talents](/Features/Talents)<!---->
-	- [Maneuvers](/Features/Maneuvers)<!---->
+	- [Talents](/Features/Talents)
+	- [Maneuvers](/Features/Maneuvers)
 	- [Powers](/Features/Powers)<!---->
 - **Equipment**
 	- [Currencies](/Equipment/Currencies)<!---->
@@ -30,12 +30,13 @@
 	- [Item Crafting](/Customization/Item_Crafting)<!---->
 - **Extended Systems**
 	- [Character Flaws](/Extended_Systems/Character_Flaws)<!---->
-	- [Epic Characters](/Extended_Systems/Epic_Characters)<!---->
+	- [Epic Characters](/Extended_Systems/Epic_Characters)
 	- [Advanced Ailments](/Extended_Systems/Advanced_Ailments)<!---->
 ---
 - **Game Master's Guide**
 	- [Running an Adventure](/GMG/Running_an_Adventure)<!---->
 <!--	- [Sample Adventures](/GMG/Sample_Adventures)-->
+<!--	- [Random Tables]-->
 - **World Systems**
 	- [World Building](/World_Systems/World_Building)<!---->
 	- [Professions and Wages](/World_Systems/Professions_and_Wages)<!---->

@@ -64,18 +64,18 @@ Often you will need to make numerical comparisons or add and subtract small valu
 
 #### Archetypes, Backgrounds, and Ancestries
 
-Each character is made out of various parts that each define who they are, what they do, what they know, and where they come from. Archetypes provide the bulk of what a character is capable of, while their background and their ancestry primarily determine their history. Each of these properties come together to influence many of your character's stats which determine how well they can perform their various abilities.
+Each character is made out of various parts which define who that character is, what they do, what they know, and where they come from. Archetypes provide the bulk of what a character is capable of while their background and their ancestry primarily determine their history. Each of these properties come together to influence many of your character's stats which determine how well they can perform their various abilities.
 
 #### Traits and Motivations
 
-When you create a character you also get to design two unique properties of that character. Traits are abilities that only your character can perform, and motivations are the reason your character takes any actions at all. Together these features work to provide a unique play experience, even if your character shares the same archetype, background, and/or ancestry as another.
+When you create a character you also get to design two unique properties of that character. Traits are abilities that only your character can perform and motivations are the reason your character takes any actions at all. Together these features work to provide a unique play experience even if your character shares the same archetype, background, and/or ancestry as another character.
 
 #### Adventures and Rewards
 
-Each adventure that character participates in is both prepared by and controlled by the Game Master. The goal of an adventure is to provide both risks and opportunities for characters to express themselves by rising to the challenges presented. In addition to the various material rewards like treasures and special items, acting according to your character's motivation also provides bonus experience both to you and another character. Experience points can then be spent to improve and acquire new abilities.
+Each adventure that a character participates in is both prepared by and controlled by the Game Master. The goal of an adventure is to provide both risks and opportunities for characters to express themselves by rising to the challenges presented. In addition to the various material rewards like treasures and special items, acting according to your character's motivation also provides bonus experience both to you and another character. Experience points can then be spent to improve and acquire new abilities.
 
 ## Genres
 
 There are many different worlds and environments that can be played in, worlds featuring one or more of: elves, wizards, dragons, robots, detectives, dinosaurs, cowboys, vikings, samurai, vampires, werewolves, aliens, racecars, superheroes, hackers, secret agents, and endless more. Content presented in **MARS** is categorized into *genres* which present these many different ideas into coherent groups. These genres are: *prehistoric*, *ancient*, *medieval*, *renaissance*, *industrial*, *post-industrial*, *space*, *historical*, *fantasy*, *steampunk*, *cyberpunk*, and *sci-fantasy*. These genres are often combined and some popular combinations include: *medieval fantasy*, *post-industrial cyberpunk*, *space sci-fantasy*, and *prehistoric steampunk*.
 
-Various parts of the game's content such as playable character archetypes, backgrounds, and ancestries, will have genres listed next to their entries to signal their intended play genre. However, this is not a hard limitation and Game Masters are free to mix and match any of the game's content as they see fit.
+Various parts of the game's content such as playable character archetypes, backgrounds, and ancestries, will have genres listed next to their entries to signal their intended genre of play. However, this is not a hard limitation and Game Masters are free to mix and match any of the game's content as they see fit.
