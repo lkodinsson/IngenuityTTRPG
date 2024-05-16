@@ -2,9 +2,9 @@
 	"test": {
 		"link": "[test link](/Core_Rules/Introduction)",
 		"table": [
-			"| A | B<br/><nobr>and C</nobr> |",
-			"|:-:|:-:|",
-			"| [1](/Core_Rules/Character_Features) | [2](/Core_Rules/Encounters_and_Abilities) |"
+			"| A | B<br/><nobr>and C</nobr> | D |",
+			"|:-:|:-:|:-:|",
+			"| [1](/Core_Rules/Character_Features) | [2](/Core_Rules/Encounters_and_Abilities) | {{{test.link}}} |"
 		]
 	}
 }
