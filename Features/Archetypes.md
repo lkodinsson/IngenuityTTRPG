@@ -10,7 +10,7 @@
 {{{test.link}}}
 
 {{#test.table}}
-{{{.}}}
+{{.}}
 {{/test.table}}
 
 ---
