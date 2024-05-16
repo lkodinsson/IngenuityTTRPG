@@ -544,7 +544,7 @@ You can maintain concentration on an additional number of abilities as determine
 
 ##### Table: Mental Balance Steps & Cost
 | Step Cost | Total Cost | Bonus |
-|:-:|:-:|:-:|:-:|
+|:-:|:-:|:-:|
 | 10 | 10 | +1 |
 | 11 | 21 | +2 |
 | 12 | 33 | +3 |
@@ -658,7 +658,7 @@ Recover a number of uses of per rest abilities the first time you take a break e
 
 ##### Table: Power Nap Steps & Cost
 | Step Cost | Total Cost | Ability Uses<br/>Recovered |
-|:-:|:-:|:-:|:-:|
+|:-:|:-:|:-:|
 | 10 | 10 | +1 |
 | 11 | 21 | +2 |
 | 12 | 33 | +3 |

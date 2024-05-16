@@ -20,6 +20,8 @@
 
 Generals skills each have tables listing various common tasks at their expected difficulties.
 
+---
+
 #### Agility (DEX)
 
 Light and fast movement are the work of agility. This skill allows you to perform dives, flips, walk silently, hide in dark areas, and squeeze into tight spaces. When hiding from other characters, agility checks are made against their perception.
@@ -49,6 +51,8 @@ Light and fast movement are the work of agility. This skill allows you to perfor
 | ...a 7m drop | 30 (Ambitious) |
 | ...a 8m drop | 35 (Absurd) |
 | ...a 9m drop | 40 (Improbable) |
+
+---
 
 #### Athletics (STR)
 
@@ -82,6 +86,8 @@ You use the strength of your body to manipulate the world around you and move wi
 | ...across a rushing river | 25 (Challenging) |
 | Pushing a small boulder over | 30 (Ambitious) |
 
+---
+
 #### Charisma (RES)
 
 The capacity to convince others to follow your lead, whether that means through intimidation, deception, or appealing to emotion. The use of charisma is not limited to coercing others to follow your lead, it also includes the effort to get others to appeal to your genuine interest or to read the intent of others. Most of the time, charisma checks are made against another character's willpower to determine the difficulty. Whether that character wants to believe you or not will also increase or decrease this difficulty by giving them advantage or disadvantage respectively.
@@ -95,6 +101,8 @@ The capacity to convince others to follow your lead, whether that means through 
 | ...an above average person | 20 (Hard) |
 | ...a smart or confident person | 25 (Challenging) |
 | ...a genius or doubtless person | 30 (Ambitious) |
+
+---
 
 #### Contacts (RES)
 
@@ -131,6 +139,8 @@ Sometimes you just know someone who can get what you need done, and if you don't
 | ...a notable contact for a cost | 25 (Challenging) |
 | ...a regular contact for free | 35 (Absurd) |
 | ...a favour from a notable contact for free | 40 (Improbable) |
+
+---
 
 #### Craft (INT)
 
@@ -170,6 +180,8 @@ Craft can also be used to make higher quality custom equipment. When doing so, i
 
 <sup>Click [here](/Customization/Item_Crafting) to go the page dedicated to item crafting.</sup>
 
+---
+
 #### Knowledge (INT)
 
 Knowledge represents your ability to recall information. It can be anything from the widely available to the potentially unknown, such as historical events, people, or organizations to secret societies, or the occult. Primarly this skill is used to recall information specifically linked to your character's background, archetype, and other skills. Recalling information outside your character's expertise is much more difficult. This skill can also be used to make effective work studying new topics, with difficulty depending on your level of familiarity.
@@ -197,6 +209,8 @@ Knowledge represents your ability to recall information. It can be anything from
 | ...advanced topics outside of your expertise | 35 (Absurd) |
 | ...secret topics outside of your expertise | 40 (Improbable) |
 
+---
+
 #### Medicine (INT)
 
 This skill is important for anyone seeking to apply medicines and treat wounds, injuries, or illnesses. It can also be used to recognize materials, chemicals, and plants with medicinal properties, and recall information on medicines and herbs.
@@ -215,6 +229,8 @@ This skill is important for anyone seeking to apply medicines and treat wounds, 
 | Treating... | - |
 | ...a resting [wounded](/Appendix/Conditions#wounded) character | 15 (Moderate) |
 | ...a resting [bloodied](/Appendix/Conditions#bloodied) character | 25 (Challenging) |
+
+---
 
 #### Perception (DEX)
 
@@ -248,6 +264,8 @@ Perception is used to track animals, monsters, or people, to detect stealthy ind
 | ...something you know a little about | 20 (Hard) |
 | ...something you that is new to you | 25 (Challenging) |
 | ...something you have never heard about before | 30 (Absurd) |
+
+---
 
 #### Sleight (DEX)
 
@@ -286,6 +304,8 @@ Whether its traps, locks, pockets, or just fancy tricks, all such things are wit
 | ...a strong knot | 25 (Challenging) |
 | ...a complex knot | 30 (Ambitious) |
 
+---
+
 #### Wild Empathy (RES)
 
 In the wild, many animals are unfriendly or fearful towards the majority of people. This skill allows you to speak to and calm down such animals. It can also be used to convince certain animals, like guard dogs, that you are friendly much in the same way you could use charisma to persuade someone. While this skill does not provide the ability to understand animals directly, it does provide the ability to share in confidence and trust, and to form an emotional bond with animals. Some animals that spend lots of time around people, like cats and dogs, are also capable of responding to very simple spoken requests once this trust is assured. The types of animals that do not might instead respond to simple gestures that can signal basic requests. This includes directing domesticated animals like cattle and horses.
@@ -321,6 +341,8 @@ In the wild, many animals are unfriendly or fearful towards the majority of peop
 | ...an angry beast | 30 (Ambitious) |
 | ...an angry ferocious beast | 35 (Absurd) |
 
+---
+
 ## Combat Skills
 
 ##### Table: Combat Skills
@@ -332,25 +354,37 @@ In the wild, many animals are unfriendly or fearful towards the majority of peop
 | [Martial](#martial-dex) | Dexterity |
 | [Unarmed](#unarmed-dex) | Dexterity |
 
+---
+
 #### Archery (DEX)
 
 Archery includes the use of all weapons that involve slow moving projectiles, such as bows and throwing weapons.
+
+---
 
 #### Finesse (DEX)
 
 Combat with small or precise weapons. This skill is dedicated to utilizing fast attacks to constantly threaten opponents and find openings and weak spots.
 
+---
+
 #### Firearms (DEX)
 
 ?
+
+---
 
 #### Martial (DEX)
 
 Combat with heavy or broad weapons. Although it is not as likely to get as many good strikes on an opponent as someone trained in finesse, it is more likely to deliever stronger blows even without striking the weak points as martial weapons are generally heavier and more impactful.
 
+---
+
 #### Unarmed (DEX)
 
 Unarmed combat involves anything from complex martial arts to boxing. Unarmed combat is the least likely to deal lethal blows, but is important for anyone who might find themselves often fighting without a weapon or improvising with simpler weapons.
+
+---
 
 ## Power Skills
 
@@ -361,17 +395,25 @@ Unarmed combat involves anything from complex martial arts to boxing. Unarmed co
 | [Psionics](#psionics-int) | Intelligence |
 | [Superpowers](#superpowers-res) | Resolve |
 
+---
+
 #### Metapowers
 
 ?
+
+---
 
 #### Psionics (INT)
 
 ?
 
+---
+
 #### Superpowers (RES)
 
 ?
+
+---
 
 ## Spellcasting Skills
 
@@ -383,7 +425,6 @@ Unarmed combat involves anything from complex martial arts to boxing. Unarmed co
 | [Ki](#ki) | Variable |
 | [Sorcery](#sorcery-res) | Resolve |
 | [Wizardry](#wizardry-int) | Intelligence |
-
 
 ##### Table: Spell Learning Tier Limit
 | Roll Value | Step Name | Highest Tier |
@@ -397,6 +438,8 @@ Unarmed combat involves anything from complex martial arts to boxing. Unarmed co
 | r16 | Accomplished | 3 (Greater) |
 | r18 | Expert | 3 (Greater) |
 | r20 | Master | 4 (Heroic) |
+
+---
 
 #### Animism (RES)
 
@@ -425,6 +468,8 @@ All things must come to an end. This is the mantra of entropy, and you are an ag
 ##### Harmony
 
 Nature is the universal machine to which all existing things are cogs. This machine cannot exist without its pieces holding it together. It is your mission to maintain all things that exist to satisfy the universal machine.
+
+---
 
 #### Faith (RES)
 
@@ -478,6 +523,8 @@ Freedom in all forms matters more to you than any one rule can provide. Although
 ##### Authority
 
 Governance without rule of law can quickly devolve into chaos. Without the guide of authority, actions are easily taken with disregard for consequence. This reckless behaviour can very easily have unintended effects. It is safer to follow law than act without guidance.
+
+---
 
 #### Ki
 
@@ -535,6 +582,8 @@ This is the spirit that holds your body and mind together to act as a single for
 | r14 | Disciplined | 1 Focus into 4 Endurance |
 | r20 | Master | 1 Focus into 5 Endurance |
 
+---
+
 #### Sorcery (RES)
 
 Sorcery is the natural style of spellcasting. It has seven specializations of a philosophical nature and are the seven classical elements: *air*, *earth*, *fire*, *water*, *light*, *darkness*, and *arcane*. In addition to this, sorcerers may instead choose any specialization available to the other spellcasting skills. Choosing an external specialization does not grant any other bonuses from spellcasting skill; it only provides access to that category of spells. For example: you could choose the wizardry specializations of: *augury*, *conjuration*, *enchantment*, *evocation*, or *transmutation*.
@@ -579,6 +628,8 @@ As a counter to light, darkness is about concealment. Darkness is not simply evi
 
 The power of arcane represents the space between space. Many things that one might describe as blatantly magical are more accurately arcane. Arcane is a powerful force that seems to defy the normal rules that might apply to the other elements.
 
+---
+
 #### Wizardry (INT)
 
 Wizardry is the educated style of spellcasting. It has five different specializations which are the five schools of magic: *augury*, *conjuration*, *enchantment*, *evocation*, and *transmutation*. The knowledge of spells in this way is represented by written material called scrolls which are essentially a page's worth of information for casting a single spell.
@@ -610,6 +661,8 @@ Evokers are normally known for one simple thing: destruction. It is true that ev
 ##### Transmutation
 
 Transmuters can change one thing into something else, or repair what is broken. Transmutation focuses on the alteration of physical things, and does not necessarily provide results that one would assume are of a magical nature.
+
+---
 
 ## Languages
 
