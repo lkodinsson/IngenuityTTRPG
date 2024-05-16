@@ -11,7 +11,7 @@ test: "[test link](/Core_Rules/Introduction/)"
 
 | [](#) | [](#), [](#), [](#), [](#), [](#) | [](#) |  |  |
 
-{{test}}
+{{test.link}}
 
 ---
 | [Artificer](#artificer) | [](#), [](#), [](#), [](#), [](#) | [](#) |  |  |
