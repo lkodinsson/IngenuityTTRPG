@@ -1,8 +1,3 @@
 {
-	"Always_Prepared": [
-		"[Always Prepared](/Features/Talents#always-prepared)",
-		{
-			"entry": "| [Always Prepared](/Features/Talents#always-prepared) | 10 | 5 | INT 11+, Sleight | Any |"
-		}
-	]
+	"Always_Prepared": "[Always Prepared](/Features/Talents#always-prepared)"
 }
