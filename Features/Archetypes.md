@@ -1,7 +1,3 @@
----
-test: "[test link](/Core_Rules/Introduction/)"
----
-
 # Archetypes
 
 ##### Table: Archetypes
