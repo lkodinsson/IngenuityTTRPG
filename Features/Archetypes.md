@@ -9,7 +9,9 @@
 
 {{{test.link}}}
 
-{{{#test.table}}}
+{{#test.table}}
+{{{.}}}
+{{/test.table}}
 
 ---
 | [Artificer](#artificer) | [](#), [](#), [](#), [](#), [](#) | [](#) |  |  |
