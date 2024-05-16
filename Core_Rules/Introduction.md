@@ -11,7 +11,7 @@ As a player you will interact inside a world controlled by a Game Master who det
 Most roleplaying games typically use standard [dice notation](https://en.wikipedia.org/wiki/Dice_notation) to describe what dice to roll. MARS uses a modified version of dice notation called *roll value*, which is used to represent many of the game's numeric values. It is used as a shorthand for one or more dice that you will roll when you need to perform any game action using whatever stat, skill, talent, or ability, that has that roll value. Roll values will typically have one or two numbers like so: *r14+1*. The first number following the *r* represents the roll value--and therefore what dice to roll--and the second value represents a numerical modifier as a plus or minus.
 
 ##### Table: Roll Values
-| Roll Value | Dice to Roll | Number of Dice |
+| Roll Value | Dice to Roll | Number<br/><nobr>of Dice</nobr> |
 |:-:|:-|:-:|
 | r4 | 1d4 | 1 |
 | r6 | 1d6 | 1 |
