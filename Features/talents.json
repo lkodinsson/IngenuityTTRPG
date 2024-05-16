@@ -4,5 +4,7 @@
 		{
 			"entry": "| [Always Prepared](#always-prepared) | 10 | 5 | INT 11+, Sleight | Any |"
 		}
-	]
+	],
+	"test": "test",
+	"test.entry": "| test | test |"
 }

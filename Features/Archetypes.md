@@ -22,9 +22,17 @@ Artificers are gifted craftspersons that are capable of inventing all kinds of d
 
 **Recommended Equipment** Alchemy toolkit, alchemical base, rough gemstones, latchet crossbow
 
-**Test** {{{Charisma}}}/{{{Knowledge}}} (r6), {{{Craft}}} (r6), {{{Perception}}} (r6), {{{Sleight}}} (r6), {{{Wizardry}}} (Any) (r6)
+##### Test
 
-**Test 2** {{{Always_Prepared.entry}}}
+{{{Charisma}}}/{{{Knowledge}}} (r6), {{{Craft}}} (r6), {{{Perception}}} (r6), {{{Sleight}}} (r6), {{{Wizardry}}} (Any) (r6)
+
+{{{Always_Prepared}}}
+
+{{{Always_Prepared.entry}}}
+
+{{{test}}}
+
+{{{test.entry}}}
 
 ---
 | [](#) | [](#), [](#), [](#), [](#), [](#) | [](#) |  |  |
