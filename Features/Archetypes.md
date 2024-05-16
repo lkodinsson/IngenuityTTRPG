@@ -7,12 +7,6 @@
 
 | [](#) | [](#), [](#), [](#), [](#), [](#) | [](#) |  |  |
 
-{{{test.link}}}
-
-{{#test.table}}
-{{{.}}}
-{{/test.table}}
-
 ---
 | [Artificer](#artificer) | [](#), [](#), [](#), [](#), [](#) | [](#) |  |  |
 #### Artificer
@@ -27,6 +21,9 @@ Artificers are gifted craftspersons that are capable of inventing all kinds of d
 **Primary Stat** Artificers must start with a maximum intelligence of 11 or greater.
 
 **Recommended Equipment** Alchemy toolkit, alchemical base, rough gemstones, latchet crossbow
+
+**Test** {{{Charisma}}}/{{{Knowledge}}} (r6), {{{Craft}}} (r6), {{{Perception}}} (r6), {{{Sleight}}} (r6), {{{Wizardry}}} (Any) (r6)
+**Test 2** {{{Always_Prepared}}}
 
 ---
 | [](#) | [](#), [](#), [](#), [](#), [](#) | [](#) |  |  |
