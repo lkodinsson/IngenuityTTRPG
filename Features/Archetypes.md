@@ -9,6 +9,8 @@
 
 {{{test.link}}}
 
+{{{test.table}}}
+
 ---
 | [Artificer](#artificer) | [](#), [](#), [](#), [](#), [](#) | [](#) |  |  |
 #### Artificer

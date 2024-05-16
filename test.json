@@ -1,5 +1,10 @@
 {
 	"test": {
-		"link": "[test link](/Core_Rules/Introduction)"
+		"link": "[test link](/Core_Rules/Introduction)",
+		"table": [
+			"| A | B |",
+			"|:-:|:-:|",
+			"| 1 | 2 |"
+		]
 	}
 }
