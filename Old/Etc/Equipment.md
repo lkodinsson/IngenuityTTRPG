@@ -157,7 +157,7 @@ If they are strapped to the arm or shoulder, they allow the use of that arm's ha
 | Parrying Shield | - | 8 | 2kg | Parry r10 |
 | Light Hybrid Shield | - | 10 | 3kg | Parry r6, Block 3, Durability 10 |
 | Heavy Hybrid Shield | 1 | 12 | 5kg | Parry r4, Block 4, Durability 12 |
-| Blocking Shield | 1 | 14 | 8kg | Block 5, Durability 15 |
+| Blocking Shield | 1 | 14 | 8kg | Block 5, Durability 14 |
 
 ## Armour Features
 
@@ -165,11 +165,11 @@ If they are strapped to the arm or shoulder, they allow the use of that arm's ha
 
 **Critical Defense** Increase the threshold required to land a critical hit against you from an attack by 1.
 
-**Durability** This item is capable of absorbing a limited amount of damage as specified. Items with spent durability must be repaired to recover their durability. An item with zero durability is considered broken, and cannot be used until repaired.
+**Durability** The item is capable of absorbing a limited amount of damage by performing the block action. Any spent durability must be repaired to be recovered. At zero durability the item becomes broken, rendering it unusable until repaired.
 
-**Guiding** Attacks with ranged weapons can be made at a distance of two range degrees before suffering any penalties from range.
+**Guiding** Attacks with ranged weapons can be made one additional degree of range before suffering from any range penalties.
 
-**Identity Obscuring** Depending on the degree that your face is obscured it is a challenge for others to discern your identity.
+**Identity Obscuring** Each piece of identity obscuring equipment you wear increases the difficulty to discern your identity by 10 (from a base difficulty of 10). This only works if you are not wearing any visible and notable personal items.
 
 **Limited Vision** You have a disadvantage to perception.
 
@@ -186,14 +186,14 @@ Various types of equipment can also be given various properties making them bett
 Properties effect different types of equipment differently, and are limited to only those as specified below.
 
 ##### Table: Equipment Quality Properties
-| Name | Cost<br/>Adjustment | Weapons | Body Armour | Shields |
-|:-|:-|:-|:-|:-|
-| Improvised | ×½ | -1 to hit and damage | -1 to AR and DR | -4 to durability |
-| Crude | ×¾ | -1 to hit | -1 to AR | -2 to durability |
-| Fine | ×2 or +10<sup>1</sup> | +1 to hit | +1 to AR | +2 to durability |
-| Superior | ×3 or +40<sup>1</sup> | +1 to hit and damage | +1 to AR and DR | +4 to durability |
-| Exceptional | ×6 or +150<sup>1</sup> | +2 to hit, +1 to damage | +2 to AR, +1 to DR | +7 to durability |
-| Masterwork | ×10 or +360<sup>1</sup> | +2 to hit and damage | +2 to AR and DR | +10 to durability |
+| Name | Cost<br/>Adjustment | Weapons | Body Armour | Shields (with Block) | Shields (with Parry) |
+|:-|:-|:-|:-|:-|:-|
+| Improvised | ×½ | -1 to hit and damage | -1 to AR and DR | -1 to block and -3 to durability | -2 to parry |
+| Crude | ×¾ | -1 to hit | -1 to AR | -2 to durability | -1 to parry |
+| Fine | ×2 or +10<sup>1</sup> | +1 to hit | +1 to AR | +2 to durability | +1 to parry |
+| Superior | ×3 or +40<sup>1</sup> | +1 to hit and damage | +1 to AR and DR | +1 to block and +3 to durability | +2 to parry |
+| Exceptional | ×6 or +150<sup>1</sup> | +2 to hit, +1 to damage | +2 to AR, +1 to DR | +1 to block and +5 to durability | +3 to parry |
+| Masterwork | ×10 or +360<sup>1</sup> | +2 to hit and damage | +2 to AR and DR | +2 to block and +6 to durability | +4 to parry |
 
 ##### Table: Equipment Weight Properties
 | Name | Cost<br/>Adjustment | Weight<br/>Adjustment | Strength<br/>Adjustment |

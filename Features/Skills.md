@@ -30,27 +30,27 @@ Light and fast movement are the work of agility. This skill allows you to perfor
 | Task | Difficulty |
 |:-|:-|
 | Silently hiding from... | - |
-| ...an untrained opponent | 10 (Easy) |
-| ...a trained opponent | 15 (Moderate) |
-| ...a proficient opponent | 20 (Hard) |
-| ...a master opponent | 25 (Challenging) |
+| ...an untrained opponent | 3 (Easy) |
+| ...a trained opponent | 6 (Moderate) |
+| ...a proficient opponent | 9 (Hard) |
+| ...a master opponent | 12 (Challenging) |
 | Squeezing through a tight space as a... | - |
-| ...small sized character | 10 (Easy) |
-| ...medium sized character | 20 (Hard) |
-| ...large sized character | 30 (Ambitious) |
-| Balancing on slippery surface | 15 (Moderate) |
+| ...small sized character | 3 (Easy) |
+| ...medium sized character | 9 (Hard) |
+| ...large sized character | 15 (Ambitious) |
+| Balancing on slippery surface | 6 (Moderate) |
 | Walking across... | - |
-| ...a beam | 15 (Moderate) |
-| ...a slippery beam | 20 (Hard) |
-| ...a tightrope | 25 (Challenging) |
+| ...a beam | 6 (Moderate) |
+| ...a slippery beam | 9 (Hard) |
+| ...a tightrope | 12 (Challenging) |
 | Falling safely after... | - |
-| ...a 3m drop | 10 (Easy) |
-| ...a 4m drop | 15 (Moderate) |
-| ...a 5m drop | 20 (Hard) |
-| ...a 6m drop | 25 (Challenging) |
-| ...a 7m drop | 30 (Ambitious) |
-| ...a 8m drop | 35 (Absurd) |
-| ...a 9m drop | 40 (Improbable) |
+| ...a 3m drop | 3 (Easy) |
+| ...a 4m drop | 6 (Moderate) |
+| ...a 5m drop | 9 (Hard) |
+| ...a 6m drop | 12 (Challenging) |
+| ...a 7m drop | 15 (Ambitious) |
+| ...a 8m drop | 18 (Absurd) |
+| ...a 9m drop | 21 (Improbable) |
 
 ---
 
@@ -62,29 +62,29 @@ You use the strength of your body to manipulate the world around you and move wi
 | Task | Difficulty |
 |:-|:-|
 | Breaking... | - |
-| ...a rusty lock | 15 (Moderate) |
-| ...a normal lock | 20 (Hard) |
-| ...a sturdy lock | 30 (Ambitious) |
+| ...a rusty lock | 6 (Moderate) |
+| ...a normal lock | 9 (Hard) |
+| ...a sturdy lock | 15 (Ambitious) |
 | Climbing... | - |
-| ...a single story with rope | 15 (Moderate) |
-| ...a few stories with rope | 20 (Hard) |
-| ...a jagged or irregular surface | 20 (Hard) |
-| ...a ledge without rope or tools | 25 (Challenging) |
-| ...a sheer surface without rope or tools | 30 (Ambitious) |
+| ...a single story with rope | 6 (Moderate) |
+| ...a few stories with rope | 9 (Hard) |
+| ...a jagged or irregular surface | 9 (Hard) |
+| ...a ledge without rope or tools | 12 (Challenging) |
+| ...a sheer surface without rope or tools | 15 (Ambitious) |
 | Jumping... | - |
-| ...a distance of 3m | 10 (Easy) |
-| ...a distance of 4m | 15 (Moderate) |
-| ...a distance of 5m | 20 (Hard) |
-| ...a distance of 6m | 25 (Challenging) |
-| ...a distance of 7m | 30 (Ambitious) |
-| ...a distance of 8m | 35 (Absurd) |
-| ...a distance of 9m | 40 (Improbable) |
+| ...a distance of 3m | 3 (Easy) |
+| ...a distance of 4m | 6 (Moderate) |
+| ...a distance of 5m | 9 (Hard) |
+| ...a distance of 6m | 12 (Challenging) |
+| ...a distance of 7m | 15 (Ambitious) |
+| ...a distance of 8m | 18 (Absurd) |
+| ...a distance of 9m | 21 (Improbable) |
 | Swimming... | - |
-| ...a moderate distance | 15 (Moderate) |
-| ...a long distance | 20 (Hard) |
-| ...across an active river | 20 (Hard) |
-| ...across a rushing river | 25 (Challenging) |
-| Pushing a small boulder over | 30 (Ambitious) |
+| ...a moderate distance | 6 (Moderate) |
+| ...a long distance | 9 (Hard) |
+| ...across an active river | 9 (Hard) |
+| ...across a rushing river | 12 (Challenging) |
+| Pushing a small boulder over | 15 (Ambitious) |
 
 ---
 
@@ -96,11 +96,11 @@ The capacity to convince others to follow your lead, whether that means through 
 | Task | Difficulty |
 |:-|:-|
 | Convincing... | - |
-| ...a below average or gullible person | 10 (Easy) |
-| ...an average person | 15 (Moderate) |
-| ...an above average person | 20 (Hard) |
-| ...a smart or confident person | 25 (Challenging) |
-| ...a genius or doubtless person | 30 (Ambitious) |
+| ...a below average or gullible person | 3 (Easy) |
+| ...an average person | 6 (Moderate) |
+| ...an above average person | 9 (Hard) |
+| ...a smart or confident person | 12 (Challenging) |
+| ...a genius or doubtless person | 15 (Ambitious) |
 
 ---
 
@@ -112,33 +112,33 @@ Sometimes you just know someone who can get what you need done, and if you don't
 | Task | Difficulty |
 |:-|:-|
 | Learning if you personally know... | - |
-| ...a common person in a familiar small population | 15 (Moderate) |
-| ...an uncommon person in a familiar small population | 20 (Hard) |
-| ...a common person in a familiar large population | 25 (Challenging) |
-| ...an uncommon person in a familiar large population | 30 (Ambitious) |
-| ...a public figure | 35 (Absurd) |
-| ...a secretive person | 40 (Improbable) |
+| ...a common person in a familiar small population | 6 (Moderate) |
+| ...an uncommon person in a familiar small population | 9 (Hard) |
+| ...a common person in a familiar large population | 12 (Challenging) |
+| ...an uncommon person in a familiar large population | 15 (Ambitious) |
+| ...a public figure | 18 (Absurd) |
+| ...a secretive person | 21 (Improbable) |
 | Learning the location of... | - |
-| ...someone who wants to be found | 10 (Easy) |
-| ...someone you know | 15 (Moderate) |
-| ...someone you know who doesn't want to be found | 20 (Hard) |
-| ...someone you don't know | 25 (Challenging) |
-| ...someone you don't know who doesn't want to be found | 35 (Absurd) |
-| ...public services | 10 (Easy) |
-| ...private services | 20 (Hard) |
-| ...criminal services | 30 (Ambitious) |
+| ...someone who wants to be found | 3 (Easy) |
+| ...someone you know | 6 (Moderate) |
+| ...someone you know who doesn't want to be found | 9 (Hard) |
+| ...someone you don't know | 12 (Challenging) |
+| ...someone you don't know who doesn't want to be found | 18 (Absurd) |
+| ...public services | 3 (Easy) |
+| ...private services | 9 (Hard) |
+| ...criminal services | 15 (Ambitious) |
 | Networking to learn... | - |
-| ...public information about a public person | 10 (Easy) |
-| ...public information about a regular person | 15 (Moderate) |
-| ...private information about a common person | 20 (Hard) |
-| ...private information about an uncommon person | 25 (Challenging) |
-| ...private information about a public figure | 30 (Ambitious) |
-| ...private information about a secretive person | 35 (Absurd) |
+| ...public information about a public person | 3 (Easy) |
+| ...public information about a regular person | 6 (Moderate) |
+| ...private information about a common person | 9 (Hard) |
+| ...private information about an uncommon person | 12 (Challenging) |
+| ...private information about a public figure | 15 (Ambitious) |
+| ...private information about a secretive person | 18 (Absurd) |
 | Networking to request a favour from... | - |
-| ...a regular contact for a cost | 15 (Moderate) |
-| ...a notable contact for a cost | 25 (Challenging) |
-| ...a regular contact for free | 35 (Absurd) |
-| ...a favour from a notable contact for free | 40 (Improbable) |
+| ...a regular contact for a cost | 6 (Moderate) |
+| ...a notable contact for a cost | 12 (Challenging) |
+| ...a regular contact for free | 18 (Absurd) |
+| ...a favour from a notable contact for free | 21 (Improbable) |
 
 ---
 
@@ -150,31 +150,31 @@ Adventurers may often find themselves in unexpected situations. Crafting can all
 | Task | Difficulty |
 |:-|:-|
 | Creating... | - |
-| ...a basic improvised weapon | 10 (Easy) |
-| ...a specialized improvised weapon | 15 (Moderate) |
-| ...a mechanical improvised weapon | 20 (Hard) |
-| ...a rope from sheets or clothing | 10 (Easy) |
-| ...a weak knot | 10 (Easy) |
-| ...an average knot | 15 (Moderate) |
-| ...a strong knot | 20 (Hard) |
-| ...a complex knot | 25 (Challenging) |
-| ...a simple trap | 15 (Moderate) |
-| ...a advanced trap | 20 (Hard) |
-| ...a complex trap | 25 (Challenging) |
+| ...a basic improvised weapon | 3 (Easy) |
+| ...a specialized improvised weapon | 6 (Moderate) |
+| ...a mechanical improvised weapon | 9 (Hard) |
+| ...a rope from sheets or clothing | 3 (Easy) |
+| ...a weak knot | 3 (Easy) |
+| ...an average knot | 6 (Moderate) |
+| ...a strong knot | 9 (Hard) |
+| ...a complex knot | 12 (Challenging) |
+| ...a simple trap | 6 (Moderate) |
+| ...a advanced trap | 9 (Hard) |
+| ...a complex trap | 12 (Challenging) |
 | Learning how to use... | - |
-| ...a device similiar to a familiar device | 15 (Moderate) |
-| ...a simple device | 20 (Hard) |
-| ...a complex device | 25 (Challenging) |
-| ...a completely alien device | 35 (Absurd) |
+| ...a device similiar to a familiar device | 6 (Moderate) |
+| ...a simple device | 9 (Hard) |
+| ...a complex device | 12 (Challenging) |
+| ...a completely alien device | 18 (Absurd) |
 | Repairing... | - |
-| ...a damaged piece of non-mechanical equipment | 15 (Moderate) |
-| ...a damaged piece of mechanical equipment | 25 (Challenging) |
-| ...a damaged simple mechanism | 20 (Hard) |
-| ...a damaged complex mechanism | 30 (Ambitious) |
-| ...a damaged unrecognized mechanism | 40 (Improbable) |
-| ...a resting damaged artificial character | 20 (Hard) |
-| ...a resting bloodied artificial character | 30 (Ambitious) |
-| Stabilize a dying artificial character | 20 (Hard) |
+| ...a damaged piece of non-mechanical equipment | 6 (Moderate) |
+| ...a damaged piece of mechanical equipment | 12 (Challenging) |
+| ...a damaged simple mechanism | 9 (Hard) |
+| ...a damaged complex mechanism | 15 (Ambitious) |
+| ...a damaged unrecognized mechanism | 21 (Improbable) |
+| ...a resting damaged artificial character | 9 (Hard) |
+| ...a resting bloodied artificial character | 15 (Ambitious) |
+| Stabilize a dying artificial character | 9 (Hard) |
 
 Craft can also be used to make higher quality custom equipment. When doing so, it will require that you have a toolkit dedicated to the type of craft work you want to pursue (or a workshop containing those tools), and most importantly, a background, archetype, or other form of skillset that relates to the type of items you are crafting. If you do not possess some measure of these things, you can always work together with other characters.
 
@@ -190,24 +190,24 @@ Knowledge represents your ability to recall information. It can be anything from
 | Task | Difficulty |
 |:-|:-|
 | Performing research on... | - |
-| ...simple topics within your expertise | 10 (Easy) |
-| ...uncommon topics within your expertise | 15 (Moderate) |
-| ...advanced topics within your expertise | 20 (Hard) |
-| ...secret topics within your expertise | 25 (Challenging) |
-| ...simple topics outside of your expertise | 20 (Hard) |
-| ...uncommon topics outside of your expertise | 25 (Challenging) |
-| ...advanced topics outside of your expertise | 30 (Ambitious) |
-| ...secret topics outside of your expertise | 35 (Absurd) |
+| ...simple topics within your expertise | 3 (Easy) |
+| ...uncommon topics within your expertise | 6 (Moderate) |
+| ...advanced topics within your expertise | 9 (Hard) |
+| ...secret topics within your expertise | 12 (Challenging) |
+| ...simple topics outside of your expertise | 9 (Hard) |
+| ...uncommon topics outside of your expertise | 12 (Challenging) |
+| ...advanced topics outside of your expertise | 15 (Ambitious) |
+| ...secret topics outside of your expertise | 18 (Absurd) |
 | Recalling information on... | - |
-| ...common knowledge | 10 (Easy) |
-| ...simple topics within your expertise | 15 (Moderate) |
-| ...uncommon topics within your expertise | 20 (Hard) |
-| ...advanced topics within your expertise | 25 (Challenging) |
-| ...secret topics within your expertise | 30 (Ambitious) |
-| ...simple topics outside of your expertise | 25 (Challenging) |
-| ...uncommon topics outside of your expertise | 30 (Ambitious) |
-| ...advanced topics outside of your expertise | 35 (Absurd) |
-| ...secret topics outside of your expertise | 40 (Improbable) |
+| ...common knowledge | 3 (Easy) |
+| ...simple topics within your expertise | 6 (Moderate) |
+| ...uncommon topics within your expertise | 9 (Hard) |
+| ...advanced topics within your expertise | 12 (Challenging) |
+| ...secret topics within your expertise | 15 (Ambitious) |
+| ...simple topics outside of your expertise | 12 (Challenging) |
+| ...uncommon topics outside of your expertise | 15 (Ambitious) |
+| ...advanced topics outside of your expertise | 18 (Absurd) |
+| ...secret topics outside of your expertise | 21 (Improbable) |
 
 ---
 
@@ -219,16 +219,16 @@ This skill is important for anyone seeking to apply medicines and treat wounds, 
 | Task | Difficulty |
 |:-|:-|
 | Recognizing... | - |
-| ...common dangerous plants and materials | 10 (Easy) |
-| ...uncommon dangerous plants and materials | 20 (Hard) |
-| ...rare dangerous plants and materials | 30 (Challenging) |
-| ...common medicinal plants | 15 (Moderate) |
-| ...uncommon medicinal plants | 25 (Challenging) |
-| ...rare medicinal plants | 35 (Absurd) |
-| Stabilize a dying character | 20 (Hard) |
+| ...common dangerous plants and materials | 3 (Easy) |
+| ...uncommon dangerous plants and materials | 9 (Hard) |
+| ...rare dangerous plants and materials | 12 (Challenging) |
+| ...common medicinal plants | 6 (Moderate) |
+| ...uncommon medicinal plants | 12 (Challenging) |
+| ...rare medicinal plants | 18 (Absurd) |
+| Stabilize a dying character | 9 (Hard) |
 | Treating... | - |
-| ...a resting [wounded](/Appendix/Conditions#wounded) character | 15 (Moderate) |
-| ...a resting [bloodied](/Appendix/Conditions#bloodied) character | 25 (Challenging) |
+| ...a resting [wounded](/Appendix/Conditions#wounded) character | 6 (Moderate) |
+| ...a resting [bloodied](/Appendix/Conditions#bloodied) character | 12 (Challenging) |
 
 ---
 
@@ -240,30 +240,32 @@ Perception is used to track animals, monsters, or people, to detect stealthy ind
 | Task | Difficulty |
 |:-|:-|
 | Detecting... | - |
-| ...an inattentive opponent | 5 (Very Easy) |
-| ...an average opponent | 10 (Easy) |
-| ...a trained opponent | 15 (Moderate) |
-| ...a proficient opponent | 20 (Hard) |
-| ...a master opponent | 25 (Challenging) |
+| ...an inattentive opponent | 2 (Very Easy) |
+| ...an average opponent | 3 (Easy) |
+| ...a trained opponent | 6 (Moderate) |
+| ...a proficient opponent | 9 (Hard) |
+| ...a master opponent | 12 (Challenging) |
 | Finding... | - |
-| ...obvious clues | 15 (Moderate) |
-| ...ordinary clues | 20 (Hard) |
-| ...subtle clues | 25 (Challenging) |
-| ...obscured clues | 30 (Ambitious) |
-| ...a secret door | 30 (Ambitious) |
-| ...a needle in a hay stack | 40 (Improbable) |
+| ...obvious clues | 6 (Moderate) |
+| ...ordinary clues | 9 (Hard) |
+| ...subtle clues | 12 (Challenging) |
+| ...obscured clues | 15 (Ambitious) |
+| ...a secret door | 18 (Absurd) |
+| ...a needle in a hay stack | 21 (Improbable) |
 | Noticing... | - |
-| ...a simple trap | 20 (Hard) |
-| ...a complex trap | 25 (Challenging) |
-| ...a magical or concealed trap | 30 (Ambitious) |
+| ...an obvious trap | 6 (Moderate) |
+| ...a simple trap | 9 (Hard) |
+| ...a complex trap | 12 (Challenging) |
+| ...a magical or concealed trap | 15 (Ambitious) |
 | Recognizing... | - |
-| ...a partially obscured identity | 20 (Hard) |
-| ...a heavily obscured identity | 30 (Ambitious) |
+| ...a partially obscured identity | 9 (Hard) |
+| ...a heavily obscured identity | 15 (Ambitious) |
 | Tracking... | - |
-| ...something you know a lot about | 15 (Moderate) |
-| ...something you know a little about | 20 (Hard) |
-| ...something you that is new to you | 25 (Challenging) |
-| ...something you have never heard about before | 30 (Absurd) |
+| ...something you recently noticed | 3 (Easy) |
+| ...something you know a lot about | 6 (Moderate) |
+| ...something you know a little about | 9 (Hard) |
+| ...something you that is new to you | 12 (Challenging) |
+| ...something you have never heard about before | 18 (Absurd) |
 
 ---
 
@@ -275,71 +277,72 @@ Whether its traps, locks, pockets, or just fancy tricks, all such things are wit
 | Task | Difficulty |
 |:-|:-|
 | Concealing... | - |
-| ...a very small item | 10 (Easy) |
-| ...a small item | 15 (Moderate) |
-| ...a moderate item | 20 (Hard) |
-| ...a large item | 30 (Ambitious) |
+| ...a very small item | 3 (Easy) |
+| ...a small item | 6 (Moderate) |
+| ...a moderate item | 9 (Hard) |
+| ...a large item | 15 (Ambitious) |
 | Disabling... | - |
-| ...a simple trap | 15 (Moderate) |
-| ...an advanced trap | 20 (Hard) |
-| ...a complex trap | 25 (Challenging) |
-| ...a magical trap | 35 (Absurd) |
+| ...a simple trap | 6 (Moderate) |
+| ...an advanced trap | 9 (Hard) |
+| ...a complex trap | 12 (Challenging) |
+| ...a magical trap | 18 (Absurd) |
 | Opening... | - |
-| ...a simple lock | 15 (Moderate) |
-| ...a rusty lock | 20 (Hard) |
-| ...a complex lock | 25 (Challenging) |
-| ...a jammed lock | 35 (Absurd) |
+| ...a simple lock | 6 (Moderate) |
+| ...a rusty lock | 9 (Hard) |
+| ...a complex lock | 12 (Challenging) |
+| ...a jammed lock | 18 (Absurd) |
 | Picking... | - |
-| ...a worn item like a watch | 15 (Moderate) |
-| ...a bag or pouch | 20 (Hard) |
-| ...an outer pocket | 25 (Challenging) |
-| ...an inner pocket | 30 (Ambitious) |
-| ...a worn item like a watch with a distraction or in a crowd | 10 (Easy) |
-| ...a bag or pouch with a distraction or in a crowd | 15 (Moderate) |
-| ...an outer pocket with a distraction or in a crowd | 20 (Hard) |
-| ...an inner pocket with a distraction or in a crowd | 25 (Challenging) |
+| ...a worn item like a watch | 6 (Moderate) |
+| ...a bag or pouch | 9 (Hard) |
+| ...an outer pocket | 12 (Challenging) |
+| ...an inner pocket | 15 (Ambitious) |
+| ...a worn item like a watch with a distraction or in a crowd | 3 (Easy) |
+| ...a bag or pouch with a distraction or in a crowd | 6 (Moderate) |
+| ...an outer pocket with a distraction or in a crowd | 9 (Hard) |
+| ...an inner pocket with a distraction or in a crowd | 12 (Challenging) |
 | Untying... | - |
-| ...a weak knot | 15 (Moderate) |
-| ...an average knot | 20 (Hard) |
-| ...a strong knot | 25 (Challenging) |
-| ...a complex knot | 30 (Ambitious) |
+| ...a damaged knot| 3 (Easy) |
+| ...a weak knot | 6 (Moderate) |
+| ...an average knot | 9 (Hard) |
+| ...a strong knot | 12 (Challenging) |
+| ...a complex knot | 15 (Ambitious) |
 
 ---
 
-#### Wild Empathy (RES)
+#### Taming (RES)
 
 In the wild, many animals are unfriendly or fearful towards the majority of people. This skill allows you to speak to and calm down such animals. It can also be used to convince certain animals, like guard dogs, that you are friendly much in the same way you could use charisma to persuade someone. While this skill does not provide the ability to understand animals directly, it does provide the ability to share in confidence and trust, and to form an emotional bond with animals. Some animals that spend lots of time around people, like cats and dogs, are also capable of responding to very simple spoken requests once this trust is assured. The types of animals that do not might instead respond to simple gestures that can signal basic requests. This includes directing domesticated animals like cattle and horses.
 
-##### Table: Wild Empathy Common Tasks
+##### Table: Taming Common Tasks
 | Task | Difficulty |
 |:-|:-|
 | Calming... | - |
-| ...a startled domesticated beast | 15 (Moderate) |
-| ...a startled wild beast | 20 (Hard) |
-| ...a startled ferocious wild beast | 25 (Challenging) |
-| ...an angry domesticated beast | 25 (Challenging) |
-| ...an angry wild beast | 30 (Ambitious) |
-| ...an angry ferocious wild beast | 35 (Absurd) |
+| ...a startled domesticated beast | 6 (Moderate) |
+| ...a startled wild beast | 9 (Hard) |
+| ...a startled ferocious wild beast | 12 (Challenging) |
+| ...an angry domesticated beast | 12 (Challenging) |
+| ...an angry wild beast | 15 (Ambitious) |
+| ...an angry ferocious wild beast | 18 (Absurd) |
 | Directing... | - |
-| ...a calm domesticated beast | 10 (Easy) |
-| ...a calm wild beast | 15 (Moderate) |
-| ...a startled domesticated beast | 15 (Moderate) |
-| ...a calm ferocious wild beast | 20 (Hard) |
-| ...a startled wild beast | 20 (Hard) |
-| ...a startled ferocious wild beast | 25 (Challenging) |
-| ...an angry domesticated beast | 25 (Challenging) |
-| ...an angry wild beast | 30 (Ambitious) |
-| ...an angry ferocious wild beast | 35 (Absurd) |
+| ...a calm domesticated beast | 3 (Easy) |
+| ...a calm wild beast | 6 (Moderate) |
+| ...a startled domesticated beast | 6 (Moderate) |
+| ...a calm ferocious wild beast | 9 (Hard) |
+| ...a startled wild beast | 9 (Hard) |
+| ...a startled ferocious wild beast | 12 (Challenging) |
+| ...an angry domesticated beast | 12 (Challenging) |
+| ...an angry wild beast | 15 (Ambitious) |
+| ...an angry ferocious wild beast | 18 (Absurd) |
 | Frightening... | - |
-| ...a startled meek beast | 10 (Easy) |
-| ...a calm meek beast | 15 (Moderate) |
-| ...a startled beast | 15 (Moderate) |
-| ...a calm beast | 20 (Hard) |
-| ...a startled ferocious beast | 20 (Hard) |
-| ...a calm ferocious beast | 25 (Challenging) |
-| ...an angry meek beast | 25 (Challenging) |
-| ...an angry beast | 30 (Ambitious) |
-| ...an angry ferocious beast | 35 (Absurd) |
+| ...a startled meek beast | 3 (Easy) |
+| ...a calm meek beast | 6 (Moderate) |
+| ...a startled beast | 6 (Moderate) |
+| ...a calm beast | 9 (Hard) |
+| ...a startled ferocious beast | 9 (Hard) |
+| ...a calm ferocious beast | 12 (Challenging) |
+| ...an angry meek beast | 12 (Challenging) |
+| ...an angry beast | 15 (Ambitious) |
+| ...an angry ferocious beast | 18 (Absurd) |
 
 ---
 
@@ -348,39 +351,39 @@ In the wild, many animals are unfriendly or fearful towards the majority of peop
 ##### Table: Combat Skills
 | Name | Primary Stat |
 |:-|:-:|
-| [Archery](#archery-dex) | Dexterity |
-| [Finesse](#finesse-dex) | Dexterity |
-| [Firearms](#firearms-dex) | Dexterity |
-| [Martial](#martial-dex) | Dexterity |
-| [Unarmed](#unarmed-dex) | Dexterity |
+| [Archery](#archery) | Variable |
+| [Finesse](#finesse) | Variable |
+| [Firearms](#firearms) | Variable |
+| [Martial](#martial) | Variable |
+| [Unarmed](#unarmed) | Variable |
 
 ---
 
-#### Archery (DEX)
+#### Archery
 
 Archery includes the use of all weapons that involve slow moving projectiles, such as bows and throwing weapons.
 
 ---
 
-#### Finesse (DEX)
+#### Finesse
 
 Combat with small or precise weapons. This skill is dedicated to utilizing fast attacks to constantly threaten opponents and find openings and weak spots.
 
 ---
 
-#### Firearms (DEX)
+#### Firearms
 
-?
+Precision with fast moving projectile weapons. Typically firearms are mechanical or use gunpowder. Projectiles fired from these weapons are typically easy to aim and are very powerful, but can also be very expensive.
 
 ---
 
-#### Martial (DEX)
+#### Martial
 
 Combat with heavy or broad weapons. Although it is not as likely to get as many good strikes on an opponent as someone trained in finesse, it is more likely to deliever stronger blows even without striking the weak points as martial weapons are generally heavier and more impactful.
 
 ---
 
-#### Unarmed (DEX)
+#### Unarmed
 
 Unarmed combat involves anything from complex martial arts to boxing. Unarmed combat is the least likely to deal lethal blows, but is important for anyone who might find themselves often fighting without a weapon or improvising with simpler weapons.
 
@@ -426,48 +429,34 @@ Unarmed combat involves anything from complex martial arts to boxing. Unarmed co
 | [Sorcery](#sorcery-res) | Resolve |
 | [Wizardry](#wizardry-int) | Intelligence |
 
-##### Table: Spell Learning Tier Limit
-| Roll Value | Step Name | Highest Tier |
-|:-:|:-|:-|
-| r4 | Trained | 1 (Cantrip) |
-| r6 | Adept | 1 (Cantrip) |
-| r8 | Practiced | 2 (Lesser) |
-| r10 | Proficient | 2 (Lesser) |
-| r12 | Exceptional | 2 (Lesser) |
-| r14 | Disciplined | 3 (Greater) |
-| r16 | Accomplished | 3 (Greater) |
-| r18 | Expert | 3 (Greater) |
-| r20 | Master | 4 (Heroic) |
-
 ---
 
 #### Animism (RES)
 
-Nature is a fundamental force that governs reality, and animism allows you to connect to that force. There are three specializations you can choose from which are the three different ethos of animism: *balance*, *entropy* and *harmony*.
+Nature is a fundamental force that governs reality, and animism allows you to connect to that force. There are three specializations you can choose from which are the three different ethos of animism: *balance*, *cultivation*, and *entropy*.
 
 Animists do not require or use scrolls or spell books. Nature itself teaches you how to wield it. You can only have one animism specialization, as they are fundamentally conflicting representations of animism. You acquire a new spell from your specialization when you advance your animism skill.
 
-As you advance in animism you also get bonus spells at specific ranks depending on the specialization you choose. These ranks are trained (r4), practiced (r8), disciplined (r14), and master (r20). You get these spells in addition to the spells you learn from advancing normally.
+As you advance in animism you also get bonus spells at specific ranks depending on the specialization you choose. These ranks are trained (d4), proficient (d8), and master (d12). You get these spells in addition to the spells you learn from advancing normally.
 
 ##### Table: Animism Bonus Spells
-| Roll Value | Step Name | Bonus Spell |
+| Dice Value | Step Name | Bonus Spell |
 |:-:|:-|:-|
-| r4 | Trained | [Speak with Animals](/Features/Powers#speak-with-animals) |
-| r8 | Practiced | [Animal Form](/Features/Powers#animal-form) |
-| r14 | Disciplined | ? |
-| r20 | Master | ? |
+| d4 | Trained | [Speak with Animals](/Features/Powers#speak-with-animals) |
+| d8 | Proficient | [Animal Form](/Features/Powers#animal-form), or ? |
+| d12 | Master | ? |
 
 ##### Balance
 
 Life and death are two sides of the same coin. Those that seek to control one or the other misrepresent the duality of nature. It is only by recognizing this balance that you can see nature as it truly is.
 
+##### Cultivation
+
+Nature is the universal machine to which all existing things are cogs. This machine cannot exist without its pieces holding it together. It is your mission to maintain all things that exist to satisfy the universal machine.
+
 ##### Entropy
 
 All things must come to an end. This is the mantra of entropy, and you are an agent that represents this notion. Although you do not seek to destroy without cause, you will not hesitate to fulfil the inevitable truth.
-
-##### Harmony
-
-Nature is the universal machine to which all existing things are cogs. This machine cannot exist without its pieces holding it together. It is your mission to maintain all things that exist to satisfy the universal machine.
 
 ---
 
@@ -491,14 +480,23 @@ Like most other spellcasting skills, you will pick a specialization. However, un
 
 Clerics do not require or use scrolls or spell books. You can only have one faith specialization, as it represents the core of your character's philosophical ideologies. You acquire a new spell from your specialization when you advance your faith skill. The spells available for you to choose are determined by each ideology chosen, rather than strictly the specialization itself.
 
-As you advance in faith you also get bonus spells at specific ranks, depending on the specialization you choose. These ranks are practiced (r8), disciplined (r14), and master (r20). You get these spells in addition to spells you learn from advancing normally.
+As you advance in faith you also get bonus spells at specific ranks, depending on the specialization you choose. These ranks are trained (d4), proficient (d8), and master (d12). You get these spells in addition to spells you learn from advancing normally.
 
+##### Table: Faith Bonus Spells
+| Dice Value | Step Name | Charity | Community | Peace | Service | Anarchy | War | Justice | Order |
+|:-:|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+| d4 | Trained | ? | ? | ? | ? | ? | ? | ? | ? |
+| d8 | Proficient | ? | ? | ? | ? | ? | ? | ? | ? |
+| d12 | Master | ? | ? | ? | ? | ? | ? | ? | ? |
+
+<!--
 ##### Table: Faith Bonus Spells
 | Roll Value | Step Name | Charity | Community | Peace | Service | Anarchy | War | Justice | Order |
 |:-:|:-|:-|:-|:-|:-|:-|:-|:-|:-|
 | r8 | Practiced | [Mend](/Features/Powers#mend) | [Bless](/Features/Powers#bless) | [Inspire](/Features/Powers#inspire) | [Seek Guidance](/Features/Powers#seek-guidance) | [Curse](/Features/Powers#curse) | [Magic Weapon](/Features/Powers#magic-weapon) | [Spirit Communion](/Features/Powers#spirit-communion) | [Suggestion](/Features/Powers#suggestion) |
 | r14 | Disciplined | ? | ? | ? | ? | ? | ? | ? | ? |
 | r20 | Master | ? | ? | ? | ? | ? | ? | ? | ? |
+-->
 
 ##### Altruism
 
@@ -532,55 +530,30 @@ All things have some form of spirit, and ki is a manifestation of spirit in the 
 
 Monks do not require or use scrolls or spell books. You acquire a new spell from your specialization when you advance your ki skill. You can take this skill multiple times to learn how to control different auras. When you cast a spell using this skill, even if you have multiple specializations, you must cast that spell with the skill you learned it from. Each specialization casts spells using a different primary stat.
 
-Monks of varying specializations can control the energies that govern their bodies. As you advance your ki skill, at specific ranks you gain the ability to convert your resources to another resource as a free action. These ranks are trained (r4), practiced (r8), disciplined (r14), and master (r20). Each specialization has its own resource conversion ability.
+As you advance in ki you also get bonus spells at specific ranks, depending on the specialization you choose. These ranks are trained (d4), proficient (d8), and master (d12). You get these spells in addition to spells you learn from advancing normally.
+
+##### Table: Ki Bonus Spells
+| Dice Value | Step Name | Genki | Kiai | Shouki | Yuuki |
+|:-:|:-|:-|:-|:-|:-|
+| d4 | Trained | ? | ? | ? | ? |
+| d8 | Proficient | ? | ? | ? | ? |
+| d12 | Master | ? | ? | ? | ? |
 
 ##### Genki "Vigour" (STR)
 
 Control of the body, mastery of strength. Genki is the spirit of flesh and might. This aura can be utilized to increase your combat potential and push your strength beyond the natural limits one might think is possible.
 
-##### Table: Genki Resource Conversion
-| Roll Value | Step Name | Resource<br/>Conversion |
-|:-:|:-|:-|
-| r4 | Trained | 5 Endurance into 1 Stamina |
-| r8 | Practiced | 4 Endurance into 1 Stamina |
-| r14 | Disciplined | 3 Endurance into 1 Stamina |
-| r20 | Master | 2 Endurance into 1 Stamina |
-
 ##### Kiai "Projection" (DEX)
 
 Kiai is the spirit of your movement and the air you breathe, the air that feeds your body and mind. With the use of this aura your movements will become fast and effortless, the air around you will become an extension of your body.
-
-##### Table: Kiai Resource Conversion
-| Roll Value | Step Name | Resource<br/>Conversion |
-|:-:|:-|:-|
-| r4 | Trained | 5 Focus into 1 Stamina |
-| r8 | Practiced | 4 Focus into 1 Stamina |
-| r14 | Disciplined | 3 Focus into 1 Stamina |
-| r20 | Master | 2 Focus into 1 Stamina |
 
 ##### Shouki "Mind" (INT)
 
 Mastery of mind allows you to rely on the power of your thoughts and consciousness rather than the strength of your muscles. Your body will act as a mere vessel holding the extending reach of your mind.
 
-##### Table: Shouki Resource Conversion
-| Roll Value | Step Name | Resource<br/>Conversion |
-|:-:|:-|:-|
-| r4 | Trained | 5 Stamina into 1 Focus |
-| r8 | Practiced | 4 Stamina into 1 Focus |
-| r14 | Disciplined | 3 Stamina into 1 Focus |
-| r20 | Master | 2 Stamina into 1 Focus |
-
 ##### Yuuki "Courage" (RES)
 
 This is the spirit that holds your body and mind together to act as a single force. With the embodiment of courage you need not body nor mind alone to prove yourself.
-
-##### Table: Yuuki Resource Conversion
-| Roll Value | Step Name | Resource<br/>Conversion |
-|:-:|:-|:-|
-| r4 | Trained | 1 Focus into 2 Endurance |
-| r8 | Practiced | 1 Focus into 3 Endurance |
-| r14 | Disciplined | 1 Focus into 4 Endurance |
-| r20 | Master | 1 Focus into 5 Endurance |
 
 ---
 
@@ -590,15 +563,14 @@ Sorcery is the natural style of spellcasting. It has seven specializations of a 
 
 Sorcerers do not require or use scrolls or spell books; the magic sorcerers wield manifests from force of will rather than education. You acquire a new spell from your specialization when you advance your sorcery skill. You can take this skill multiple times to learn how to cast from different specializations. When you cast a spell using this skill, even if you have multiple specializations, you must cast that spell with the specialization you learned it from.
 
-Sorcerers have it a bit easier than others when it comes to casting spells (as it feels like a natural extension of the self). As you advance in the sorcery skills, at specific ranks you can choose one of your learned spells to become a signature spell. These ranks are trained (r4), practiced (r8), disciplined (r14), and master (r20). All signature spells get a reduced casting difficulty and focus cost based on your advancement. This reduction only applies to spells within the same specialization (if you have multiple sorcery specializations you track each specialization's bonuses separately). 
+Sorcerers have it a bit easier than others when it comes to casting spells (as it feels like a natural extension of the self). As you advance in the sorcery skill, your spells get a reduction to their spellcasting difficulty and a luck roll bonus. These ranks are trained (d4), proficient (d8), and master (d12). These bonuses to spells only apply within the same specialization (if you have multiple sorcery specializations you track each specialization's bonuses separately). Additionally, whenever you cast a spell and it critically succeeds, you recover 1 focus.
 
-##### Table: Sorcery Signature Spell Difficulty Reduction
-| Roll Value | Step Name | Difficulty<br/>Reduction | Focus Cost<br/>Reduction |
+##### Table: Sorcery Spell Difficulty Reduction
+| Dice Value | Step Name | Difficulty<br/>Reduction | Luck<br>Bonus |
 |:-:|:-|:-:|:-:|
-| r4 | Trained | -2 | - |
-| r8 | Practiced | -3 | -1 |
-| r14 | Disciplined | -4 | -1 |
-| r20 | Master | -5 | -2 |
+| d4 | Trained | -1 | +1 |
+| d8 | Proficient | -2 | +2 |
+| d12 | Master | -3 | +3 |
 
 ##### Air
 
@@ -632,15 +604,13 @@ The power of arcane represents the space between space. Many things that one mig
 
 #### Wizardry (INT)
 
-Wizardry is the educated style of spellcasting. It has five different specializations which are the five schools of magic: *augury*, *conjuration*, *enchantment*, *evocation*, and *transmutation*. The knowledge of spells in this way is represented by written material called scrolls which are essentially a page's worth of information for casting a single spell.
+Wizardry is the educated style of spellcasting. It has five different specializations which are the five schools of magic: *augury*, *conjuration*, *enchantment*, *evocation*, and *transmutation*. Wizards trained in a school of magic have learned both the basic rules for casting spells of that type, and have learned to master specific spells in that school. Trained wizards can cast spells that they have learned, have scrolls for, or through improvisation.
 
-When you advance your wizardry skill you get both a spell learned from that specialization and a scroll of that spell. Having spells learned and having scrolls for spells both contribute to your ability to cast spells. There are three different ways to cast spells using wizardry: *casting a learned spell*, *using a spell scroll*, and *improvising a spell*.
+When you advance your wizardry skill you both learn and acquire a scroll of a spell from that specialization. Scrolls are instructions for casting spells written on a piece of paper that are usually stored in a spellbook.
 
-When you cast a learned spell or cast a spell using a scroll, you may use any specialization you have that the spell belongs to. If you have both the spell learned and have a scroll, it is cast normally. If you only meet one of these conditions, then that spell is cast with disadvantage. Anyone (even non-wizards) may attempt to use scrolls to cast spells in specializations that they do not have, but they will only roll their intelligence (and with the usual disadvantage). Similarly, wizards may also use scrolls to cast spells that they are not advanced enough to learn using their skill (with disadvantage).
+Wizards may cast any spell within their specialization limited by their skill rank, what spells they have learned, and what scrolls that they have access to. If the desired spell is not learned nor is a scroll available, you may *improvise the spell* to cast it. Casting a spell this way increases the difficulty by 3. If you have that spell learned *or* a scroll is available, this difficulty increase is reduced to 1. If the spell is both learned and a scroll is available, the spell is simply cast at the normal difficulty. The highest tier spell you can improvise without a scroll is the highest tier that you could learn from advancement. This means that you can improvise spells beyond that tier with a scroll available.
 
-If a spell is not learned and a spell scroll is not available, spells may also be improvised. In this way, you may cast any spell from a specialization that you have. If you do, that spell is cast with double disadvantage. This can provide a great deal of flexibility to powerful wizards, but it is quite difficult.
-
-Scrolls can also be acquired by purchasing them from other wizards (including spells that you cannot yet learn directly from advancement). The [cost](/Equipment/Items#table-scrolls) scrolls depends on the tier of the spell.
+Outside of advancement, scrolls can also be acquired by purchasing them from other wizards (including spells that you cannot yet learn directly from advancement). The [cost](/Equipment/Magic_Items#table-scrolls) scrolls depends on the tier of the spell.
 
 ##### Augury
 
@@ -669,10 +639,10 @@ Transmuters can change one thing into something else, or repair what is broken. 
 ##### Table: Language Common Tasks
 | Task | Difficulty |
 |:-|:-|
-| Asking simple questions | 10 (Easy) |
-| Casual conversation | 20 (Hard) |
-| Technical conversation | 30 (Ambitious) |
-| Reading inscriptions, signs, or letters | 15 (Moderate) |
-| Reading newspapers or simple books | 20 (Hard) |
-| Reading instructional books | 25 (Challenging) |
-| Reading someone's lips | 20 (Hard) |
+| Asking simple questions | 3 (Easy) |
+| Casual conversation | 9 (Hard) |
+| Technical conversation | 15 (Ambitious) |
+| Reading inscriptions, signs, or letters | 6 (Moderate) |
+| Reading newspapers or simple books | 9 (Hard) |
+| Reading instructional books | 12 (Challenging) |
+| Reading someone's lips | 9 (Hard) |

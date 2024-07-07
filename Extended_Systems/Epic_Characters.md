@@ -1,41 +1,37 @@
-## Epic Characters
+# Epic Characters
 
-The upper limit of power that characters can achieve is high enough to overcome most but not all difficulty challenge ratings with consistency. In this way, certain challenges can remain significantly difficult yet technically achievable by utilizing circumstance and advantage. However, if you really want to push the upper power limit of characters, you can. This is useful for adventures where you want characters to act more like demigods or superheroes.
+The upper limit of power that characters can achieve is high enough to overcome many but not all difficulty challenge ratings with consistency. In this way, certain challenges can remain significantly difficult yet technically achievable by utilizing circumstancial bonuses and advantages. If you're looking for gameplay that has characters pushing beyond this limit and achieving the impossible, then this power level can be explored with epic characters. This is useful for adventures where you want characters to act more like demigods or superheroes.
 
-Epic characters have their growth accelerated and receive double the experience points. The tables for primary stats, skills, longevity, mindfulness, and toughness are all extended to accomodate the increase in experience:
+Epic characters receive what is called the epic die which is added to all skill checks. It advances similar to stats and skills, but with a greater cost.
 
-##### Table: Primary Stat Steps & Cost Extended
-| Step Cost | Total Cost | Dice Step | Step Name |
-|:-:|:-:|:-:|:-|
-| 22 | 22 | r22 | Heroic |
-| 24 | 46 | r24 | Fantastic |
-| 26 | 72 | r26 | Fabled |
-| 28 | 100 | r28 | Mythical |
-| 30 | 130 | r30 | Legendary |
+##### Table: Epic Die Steps & Cost
+| Step Cost | Total Cost | Dice Value | Step Name |
+| - | - | d4 | Epic |
+| 12 | 12 | d6 | Fantastic |
+| 16 | 28 | d8 | Fabled |
+| 20 | 48 | d10 | Mythical |
+| 24 | 72 | d12 | Legendary |
 
-##### Table: Skill Steps & Cost Extended
-| Step Cost | Total Cost | Dice Step | Step Name |
-|:-:|:-:|:-:|:-|
-| 11 | 11 | r22 | Prodigy |
-| 12 | 23 | r24 | Virtuoso |
-| 13 | 36 | r26 | Renowned |
-| 14 | 50 | r28 | Exalted |
-| 15 | 65 | r30 | Grandmaster |
+The epic die also provides its passive value as a bonus to fortitude, reflexes, willpower, and deflection.
+
+The talents Longevity, Mindfulness, and Toughness also have their tables expanded as detailed below.
 
 ##### Table: Longevity & Mindfulness Steps & Cost Extended
-| Step Cost | Total Cost | Bonus<br/>Endurance | Rest<br/>Bonus |
-|:-:|:-:|:-:|:-:|
-| 14 | 14 | +11 | +5 |
-| 15 | 29 | +12 | +6 |
-| 16 | 45 | +13 | +6 |
-| 17 | 62 | +14 | +7 |
-| 18 | 80 | +15 | +7 |
+| Step Cost | Total Cost | Maximum<br/>Bonus |
+|:-:|:-:|:-:|
+| 14 | 14 | +7 |
+| 16 | 30 | +8 |
+| 18 | 48 | +9 |
+| 20 | 68 | +10 |
+| 22 | 90 | +11 |
+| 24 | 114 | +12 |
 
 ##### Table: Toughness Steps & Cost Extended
-| Step Cost | Total Cost | Bonus<br/>Endurance | Rest<br/>Bonus |
-|:-:|:-:|:-:|:-:|
-| 14 | 14 | +22 | +11 |
-| 15 | 29 | +24 | +12 |
-| 16 | 45 | +26 | +13 |
-| 17 | 62 | +28 | +14 |
-| 18 | 80 | +30 | +15 |
+| Step Cost | Total Cost | Maximum<br/>Bonus |
+|:-:|:-:|:-:|
+| 14 | 14 | +14 |
+| 16 | 30 | +16 |
+| 18 | 48 | +18 |
+| 20 | 68 | +20 |
+| 22 | 90 | +22 |
+| 24 | 114 | +24 |

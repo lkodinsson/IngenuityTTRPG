@@ -12,13 +12,13 @@
 
 # Currency
 
-There are various types of currencies that represent the money your character needs to spend on items and goods. All of the values of items are represented by a cost in generic unit of money. Different currencies have a value relative to the generic unit of money which depends on the genre. In one genre the cost of an item may be measured in dollars ($) and in another the cost could measured in silver pieces (sp). Sometimes there may be additional currencies usable at the same time like nuyen (¥) or gold pieces (gp).
+There are various types of currencies that represent the money your character needs to spend on items and goods. All of the values of items are represented by a cost in a generic unit of money. Different currencies have a value relative to the generic unit of money. In one genre the cost of an item may be measured in dollars ($) and in another the cost could measured in silver pieces (sp). Sometimes there may be additional currencies usable at the same time like nuyen (¥) or gold pieces (gp).
 
 All characters start with 50 units of money which they can spend on starting equipment.
 
 ## Specific Currencies
 
-| <nobr>Currency Name</nobr> | Value | Multiplier | Genre |
+| <nobr>Currency Name</nobr> | Value | Multiplier | Genres |
 |:-|:-|:-|:-|
 | <nobr>Base Value</nobr> | 1 | 1 | - |
 | <nobr>Copper (cp)</nobr> | 0.1 | 10 | Ancient, Medieval |
@@ -59,17 +59,16 @@ All characters start with 50 units of money which they can spend on starting equ
 | Hat | 0.5 | ¼kg |
 | Lantern | 3 | 1kg |
 | Lantern oil (36 hours) | 3 | ¼kg |
-| Musical instrument | 10 | 1½kg |
+| Musical instrument | 20 | 2kg |
 | Rope, 20m | 3 | 3kg |
-| Toolkit, small<sup>2</sup> | 10 | 2kg |
-| Toolkit, large<sup>2</sup> | 25 | 5kg |
+| Toolkit<sup>2</sup> | 20 | 5kg |
 | Torch | 0.2 | 1kg |
 | Waterskin, empty | 2 | ¼kg |
 | Waterskin, full<sup>1</sup> | 2 | 2¼kg |
 
-<sup>1</sup> All characters start with a backpack, bedroll, common clothes (including a belt, gloves, and boots), flint & steel, four rations, and a full waterskin for free (these have a combined weight of 8½kg). Glasses are optional, but free if your character has poor vision. Tracking use of food and water is optional.
+<sup>1</sup> All characters start with a backpack, bedroll, common clothes, a belt, gloves, boots, flint & steel, four rations, and a full waterskin for free (these have a combined weight of 8½kg). Glasses are optional, but free if your character has poor vision. Tracking use of food and water is optional.
 
-<sup>2</sup> Toolkits contain all necessary tools to perform certain skillsets or crafts. When you buy a toolkit you must specify the skillset or craft it is for, rather than simply its size. For example, small toolkits could be used for cartography, cooking, fletching, jewelry making, lock picking, sewing, woodworking, and writing. Some skillsets require a larger amount of tools, such as alchemy, engineering, pottery, smithing, and trapmaking.
+<sup>2</sup> Toolkits contain all the necessary tools to perform certain activities. When you buy a toolkit you must specify the activity intended for it. For example: alchemy, cartography, cooking, engineering, fletching, jeweling, lock picking, medicine, pottery, sewing, smithing, trapmaking, woodworking, or writing.
 
 # Goods & Services
 
@@ -90,8 +89,8 @@ All characters start with 50 units of money which they can spend on starting equ
 ##### Table: Services
 | Name | Price |
 |:-|:-|
-| Inn, poor quality | 0.5 |
-| Inn, average quality | 1 |
+| Inn, poor quality | 1 |
+| Inn, average quality | 2 |
 | Inn, high quality | 5 |
 | Inn, very high quality | 10 |
 
@@ -126,8 +125,8 @@ Weapons are separated into different tables sorted by skill specialization and o
 | Name | Price | Damage | Crit | Type | Weight | Features |
 |:-|:-:|:-:|:-:|:-:|:-:|:-|
 | Club | 1 | STR+r6 B | +6 | Basic (Any) | 1kg | Momentum, Swift |
-| Handaxe | 2 | STR+r6 S | +6 | Basic (Any) | 1kg | Swift, Thrown 4m/40m |
-| Knife | 1 | STR+r4 P | +8 | Basic (Any) | ½kg | Swift, Thrown 4m/40m |
+| Handaxe | 2 | STR+r6 S | +6 | Basic (Any) | 1kg | Swift, Thrown 7m/42m |
+| Knife | 1 | STR+r4 P | +8 | Basic (Any) | ½kg | Swift, Thrown 7m/42m |
 | Sap | 1 | STR+r6 B | +6 | Basic (Any) | 1kg | Nonlethal, Swift |
 | Spearclub | 2 | STR+r6 B/P | +6 | Basic (Any) | 2kg | Momentum, Versatile |
 | Staff | 2 | STR+r6 B | +6 | Basic (Any) | 2kg | Backswing, Trip, Versatile |
@@ -135,32 +134,32 @@ Weapons are separated into different tables sorted by skill specialization and o
 ##### Table: Finesse Weapons
 | Name | Price | Damage | Crit | Type | Weight | Features |
 |:-|:-:|:-:|:-:|:-:|:-:|:-|
-| Dagger | 5 | STR+r4 P/S | +10 | Finesse | ½kg | Parry r4, Bypass 1, Swift, Thrown 3m/40m |
+| Dagger | 5 | STR+r4 P/S | +10 | Finesse | ½kg | Parry r4, Bypass 1, Swift, Thrown 6m/36m |
 | Dueling Sword | 15 | STR+r6 P/S | +8 | Finesse | 1kg | Bypass 1, Parry r6, Versatile |
 | Parrying Dagger | 10 | STR+r4 P/S | +8 | Finesse | ½kg | Parry r8, Swift |
-| Thrusting Dagger | 15 | STR+r4 P | +12 | Finesse | ½kg | Bypass 2, Swift, Thrown 3m/30m |
+| Thrusting Dagger | 15 | STR+r4 P | +12 | Finesse | ½kg | Bypass 2, Swift, Thrown 5m/30m |
 | Thrusting Sword | 15 | STR+r6 P | +10 | Finesse | 1kg | Bypass 1, Parry r6, Swift |
 
 ##### Table: Martial Weapons
 | Name | Price | Damage | Crit | Type | Weight | Features |
 |:-|:-:|:-:|:-:|:-:|:-:|:-|
-| Battleaxe | 10 | STR+r8 S | +6 | Martial | 3kg | Cleave, Versatile, Thrown 3m/30m |
-| Flail | 15 | STR+r8 B | +8 | Martial | 5kg | Backswing, Cleave, Large, Reach 2m |
+| Battleaxe | 10 | STR+r8 S | +6 | Martial | 3kg | Cleave, Versatile, Thrown 5m/30m |
+| Flail | 15 | STR+r10 B | +8 | Martial | 5kg | Backswing, Cleave, Large, Reach 2m |
 | Greataxe | 15 | STR+r10 S | +6 | Martial | 4kg | Cleave, Two-Handed, Reach 2m |
 | Greathammer | 15 | STR+r10 B | +8 | Martial | 4kg | Momentum, Two-Handed |
-| Greatsword | 15 | STR+r8 P/S | +6 | Martial | 4kg | Cleave, Two-Handed |
+| Greatsword | 15 | STR+r10 P/S | +6 | Martial | 4kg | Cleave, Two-Handed |
 | Mace | 10 | STR+r8 B | +8 | Martial | 3kg | Bypass 1, Momentum, Versatile |
 | Pike | 15 | STR+r8 P | +8 | Martial | 5½kg | Bypass 1, Large, Reach 4m, Two-Handed, Unfit 2m |
-| Poleaxe | 15 | STR+r8 P/S | +6 | Martial | 4kg | Trip, Two-Handed, Reach 2m |
+| Poleaxe | 15 | STR+r10 P/S | +6 | Martial | 4kg | Trip, Two-Handed, Reach 2m |
 | Spear | 10 | STR+r8 P | +6 | Martial | 3kg | Bypass 1, Two-Handed, Reach 2m |
 | Warhammer | 10 | STR+r8 B/P | +6 | Martial | 2kg | Bypass 1, Momentum, Swift |
 
 ##### Table: Ranged Weapons
 | Name | Price | Damage | Crit | Type | Weight | Features |
 |:-|:-:|:-:|:-:|:-:|:-:|:-|
-| Sling | 2 | STR+r6 B | +8 | Ranged | ½kg | Ranged 20m/400m, Versatile, Reload (Swift), Large |
-| Shortbow | 10 | STR+r6 P | +8 | Ranged | 1½kg | Ranged 25m/275m, Two-Handed |
-| Longbow | 20 | STR+r8 P | +8 | Ranged | 2½kg | Ranged 30m/330m, Two-Handed |
+| Sling | 2 | STR+r6 B | +8 | Ranged | ½kg | Ranged 50m/400m, Versatile, Reload (Swift), Large |
+| Shortbow | 10 | STR+r6 P | +8 | Ranged | 1½kg | Ranged 40m/280m, Two-Handed |
+| Longbow | 20 | STR+r8 P | +8 | Ranged | 2½kg | Ranged 50m/350m, Two-Handed |
 
 ##### Table: Unarmed Weapons
 | Name | Price | Damage | Crit | Type | Weight | Features |
@@ -179,14 +178,14 @@ Weapons are separated into different tables sorted by skill specialization and o
 | Curved Longsword | 10 | STR+r8 S | +8 | Finesse, Martial | 2kg | Parry r4, Cleave, Versatile |
 | Straight Sword | 5 | STR+r6 P/S | +6 | Finesse, Martial | 1kg | Parry r6, Swift |
 | Longsword | 10 | STR+r8 P/S | +6 | Finesse, Martial | 2kg | Parry r6, Versatile |
-| Javelin | 3 | STR+r6 P | +8 | Finesse, Martial, Ranged | 1kg | Thrown 10m/100m, Unfit 2m |
-| Shortspear | 5 | STR+r6 P | +6 | Finesse, Martial, Ranged | 2kg | Versatile, Thrown 6m/60m |
+| Javelin | 3 | STR+r6 P | +8 | Finesse, Martial, Ranged | 1kg | Thrown 17m/102m, Unfit 2m |
+| Shortspear | 5 | STR+r6 P | +6 | Finesse, Martial, Ranged | 2kg | Versatile, Thrown 12m/72m |
 | Warstaff | 10 | STR+r8 B | +6 | Martial, Unarmed | 3kg | Backswing, Reach 2m, Trip, Versatile |
 | Whip | 2 | STR+r6 S | +6 | Martial, Ranged | 1kg | Reach 2m/4m, Trip |
-| War Darts (10) | 5 | STR+r6 P | +8 | Martial, Ranged | 2kg | Swift, Thrown 5m/50m, Unfit 2m |
-| Latchet Crossbow | 15 | r16+4 P | +8 | Finesse, Martial, Ranged | 1½kg | Ranged 15m/150m, Versatile,<br/>Reload (Standard), Mechanical |
-| Crossbow | 30 | r20+6 P | +10 | Martial, Ranged | 4kg | Ranged 25m/250m, Two-Handed,<br/>Reload (Full-round), Mechanical |
-| Windlass Crossbow | 50 | r24+8 P | +10 | Martial, Ranged | 6kg | Bypass 1, Ranged 30m/300m, Two-Handed,<br/>Reload (Extended, 24 seconds), Mechanical |
+| War Darts (10) | 5 | STR+r4 P | +6 | Martial, Ranged | 2kg | Swift, Thrown 15m/90m, Unfit 2m |
+| Latchet Crossbow | 10 | r14+4 P | +8 | Finesse, Martial, Ranged | 1½kg | Ranged 10m/50m, Versatile,<br/>Reload (Standard), Mechanical |
+| Crossbow | 30 | r18+6 P | +10 | Martial, Ranged | 4kg | Ranged 40m/240m, Two-Handed,<br/>Reload (Full-round), Mechanical |
+| Windlass Crossbow | 50 | r22+8 P | +10 | Martial, Ranged | 6kg | Bypass 1, Ranged 50m/300m, Two-Handed,<br/>Reload (Extended, 24 seconds), Mechanical |
 
 ## Ammunition
 
@@ -205,11 +204,11 @@ Any object can be used as an improvised weapon, including other weapons. Objects
 ##### Table: Improvised Weapons
 | Name | Damage | Crit | Type | Features |
 |:-|:-:|:-:|:-:|:-|
-| Coin or Stone | STR+r2 B | +6 | Finesse/Ranged | Swift, Thrown 3m/40m |
-| Shield or Dish | STR+r6 B | +6 | Martial/Unarmed | Thrown 3m/30m |
-| Glass or Vial | STR+r2 B | +10 | Finesse/Ranged | Thrown 3m/30m |
+| Coin or Stone | STR+r2 B | +6 | Finesse/Ranged | Swift, Thrown 5m/35m |
+| Shield or Dish | STR+r6 B | +6 | Martial/Unarmed | Thrown 5m/30m |
+| Glass or Vial | STR+r2 B | +10 | Finesse/Ranged | Thrown 5m/30m |
 
-Additionally, any weapon or object can also be thrown as if it has *Thrown 2m/20m*.
+Additionally, any weapon or object can also be thrown as if it has *Thrown 4m/20m*.
 
 # Armour
 
@@ -247,16 +246,16 @@ Armour has several properties: *armour rating*, *damage reduction*, *strength re
 
 <sup>2</sup> Characters may start with gloves and boots for free.
 
-<sup>3</sup> Making unarmed attacks with a gauntlet on is considered attacking with a cestus.
+<sup>3</sup> Making unarmed attacks with a gauntlet is considered attacking with a cestus.
 
 ## Shields
 
 ##### Table: Shields
 | Name | Price | AR | STR Req | Material<br/>Type | Weight | Features |
 |:-|:-:|:-:|:-:|:-:|:-:|:-|
-| Light Buckler | 15 | - | 6 | Metal | 1½kg | Parry r8 |
+| Small Buckler | 15 | - | 6 | Metal | 1½kg | Parry r8 |
 | Buckler | 25 | - | 8 | Metal | 2kg | Parry r10 |
-| Leather Shield | 10 | - | 6 | Leather | 2kg | Parry r4, Block 2, Durability 8 |
+| Leather Shield | 5 | - | 6 | Leather | 2kg | Parry r6, Block 2, Durability 8 |
 | Small Shield | 15 | - | 8 | Wood | 3kg | Parry r6, Block 3, Durability 10 |
 | Medium Shield | 25 | 1 | 10 | Wood | 4kg | Parry r4, Block 4, Durability 12 |
-| Large Shield | 40 | 1 | 12 | Wood | 6kg | Block 5, Durability 15 |
+| Large Shield | 40 | 1 | 12 | Wood | 6kg | Block 5, Durability 14 |
