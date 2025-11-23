@@ -1,17 +1,4 @@
-# Table of Contents
-
-* [Improvised Crafting](#improvised-crafting)
-* [Downtime Crafting](#downtime-crafting)
-    * [Crafting Check](#crafting-check)
-    * [Free Materials](#free-materials)
-* [Alternate Methods](#alternate-methods)
-    * [Upgrading](#upgrading)
-    * [Bulk Crafting](#bulk-crafting)
-    * [Long-Term Crafting](#long-term-crafting)
-    * [Group Crafting](#group-crafting)
-    * [Incomplete Crafting](#incomplete-crafting)
-
-# Improvised Crafting
+## Improvised Crafting
 
 When under time pressure or with less than ideal means, certain tools and equipment can be improvised by crafting. This will involve a normal skill check to craft a single-use item for the purposes of overcoming a challenge. Items crafted in this way are not typically permanent items, but are more often alterations to the environment for the purposes of roleplaying.
 

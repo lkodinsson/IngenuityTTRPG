@@ -18,7 +18,7 @@
 | [Water Jet](/Fantasy/Spells.md#water-jet) | Swift | 3m | One creature,<br/>object, or point | Instant | No | Fortitude |
 
 ##### Table: All Lesser Spells (Tier 2 Spells)
-| Spell &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Action<br/>Speed | Range</br>(Radius) | Target | Duration | Concentration | Resist |
+| Spell &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Action<br/>Speed | Range<br/>(Radius) | Target | Duration | Concentration | Resist |
 |:-|:-:|:-:|:-:|:-:|:-:|:-:|
 | [Alter Size](/Fantasy/Spells.md#alter-size) | Standard | 3m | One creature<br/>or object | 5 minutes | Yes | Willpower |
 | [Animal Form](/Fantasy/Spells.md#animal-form) | Standard | None | Self | 24 hours | Yes | None |
@@ -45,20 +45,20 @@
 | [Water Breathing](/Fantasy/Spells.md#water-breathing) | Standard | 10m | One or more<br/>creatures | 30 minutes | Yes | Fortitude |
 
 ##### Table: All Greater Spells (Tier 3 Spells)
-| Spell &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Action<br/>Speed | Range</br>(Radius) | Target | Duration | Concentration | Resist |
+| Spell &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Action<br/>Speed | Range<br/>(Radius) | Target | Duration | Concentration | Resist |
 |:-|:-:|:-:|:-:|:-:|:-:|:-:|
 | [Blessing Chant](/Fantasy/Spells.md#blessing-chant) | Standard | 10m | One or more<br/>creatures | 5 minutes | Yes | Willpower |
 | [Cursing Chant](/Fantasy/Spells.md#cursing-chant) | Standard | 10m | One or more<br/>creatures | 5 minutes | Yes | Willpower |
 | [Detect Thoughts](/Fantasy/Spells.md#detect-thoughts) | Swift | 3m | One creature | Instant<br/>or 5 minutes | Optional | Willpower |
 | [Enhance](/Fantasy/Spells.md#enhance) | Standard | 6m | One creature | 12 seconds<br/>or 5 minutes | Optional | Willpower |
 | [Enhance Self](/Fantasy/Spells.md#enhance-self) | Swift | None | Self | 12 seconds<br/>or 5 minutes | Optional | None |
-| [Fireball](/Fantasy/Spells.md#fireball) | Standard | 30m<br/>(4m) | One creature,</br>object, or point | Instant | No | Fortitude |
+| [Fireball](/Fantasy/Spells.md#fireball) | Standard | 30m<br/>(4m) | One creature,<br/>object, or point | Instant | No | Fortitude |
 | [Knock](/Fantasy/Spells.md#knock) | Extended<br/>(1 minute) | Touch<br/>(10m to 60m) | One locked<br/>object | Instant | No | None |
 | [Restoration](/Fantasy/Spells.md#restoration) | Standard | Touch | One creature<br/>or object | Instant<br/>or 1 week | No | Willpower |
 | [Sleep](/Fantasy/Spells.md#sleep) | Full-round | 10m | One or more<br/>creatures | 1 minute,<br/>30 minutes,<br/>or 8 hours | No | Willpower |
 
 ##### Table: All Heroic Spells (Tier 4 Spells)
-| Spell &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Action<br/>Speed | Range</br>(Radius) | Target | Duration | Concentration | Resist |
+| Spell &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Action<br/>Speed | Range<br/>(Radius) | Target | Duration | Concentration | Resist |
 |:-|:-:|:-:|:-:|:-:|:-:|:-:|
 | [](/Fantasy/Spells.md#) |
 

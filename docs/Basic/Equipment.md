@@ -1,20 +1,5 @@
-# Table of Contents
 
-* [Currency](#currency)
-* [Adventuring Gear](#adventuring-gear)
-    * [Goods & Services](#goods--services)
-    * [Trade Goods](#trade-goods)
-* [Weapons](#weapons)
-    * [Ammunition](#ammunition)
-    * [Improvised Weapons](#improvised-weapons)
-    * [Weapon Features](#weapon-features)
-* [Armour](#armour)
-    * [Shields](#shields)
-    * [Armour Features](#armour-features)
-* [Equipment Properties](#equipment-properties)
-    * [Special Materials](#special-materials)
-
-# Currency
+## Currency
 
 There are various types of currency that represent the money your character needs to spend on items and goods. Each setting genre or setting may have a named baseline currency, in addition to various other currencies. Baseline currencies between genres are fundamentally equivalent.
 

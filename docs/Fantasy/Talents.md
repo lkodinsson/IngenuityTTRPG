@@ -10,7 +10,7 @@
 | [Divine Devotion](#divine-devotion) | 8 | 4 | RES 11+, Faith |
 | [Eldritch Infusion](#eldritch-infusion) | 4 | - | INT 11+ or RES 11+, Can cast spells |
 | [Esoteric Will](#esoteric-will) | 8 | 4 | RES 11+, Can cast spells |
-| [Extra Spell](#extra-spell) | 4</br>or 8 | ∞ | Can cast spells |
+| [Extra Spell](#extra-spell) | 4<br/>or 8 | ∞ | Can cast spells |
 | [Magic Resistance](#magic-resistance) | 8 | - | STR 11+, RES 13+ |
 | [Mental Balance](#mental-balance) | 8 | - | INT 13+, Can cast spells |
 | [Metamagic](#metamagic) | 8 | 14 | INT 13+ or RES 13+, Can cast 5+ spells |

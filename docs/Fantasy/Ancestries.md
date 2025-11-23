@@ -7,10 +7,10 @@
 | [Elf](#elf) | INT +2, DEX +1, STR -1 | Adaptation: Long Life<br/>and Niche: Wilderness | Medium | 6m |
 | [Halfling](#halfling) | DEX +2, RES +1, STR -1 | Brave<br/>and Fabled | Small | 6m |
 | [Human](#human) | Any two +1,<br/>and size modifiers | Grit<br/>and Versatility | Small to Large | 6m |
-| [Lizardfolk](#lizardfolk) | DEX +1, RES +1,<br/>and size modifiers | Regeneration<br>and Natural Weapons | Medium or Large | 6m |
+| [Lizardfolk](#lizardfolk) | DEX +1, RES +1,<br/>and size modifiers | Regeneration<br/>and Natural Weapons | Medium or Large | 6m |
 | [Lupine](#lupine) | STR +1, DEX +1,<br/>and size modifiers | Vigilance<br/>and Natural Weapons | Medium or Large | 6m |
 | [Machina](#machina) | Any two +1,<br/> and size modifiers | Construct<br/>and Low-light Vision | Small to Large | 6m |
-| [Orc](#orc) | STR +1, RES +1,<br/>and size modifiers | Headstrong<br>and Pain Tolerance | Medium or Large | 6m |
+| [Orc](#orc) | STR +1, RES +1,<br/>and size modifiers | Headstrong<br/>and Pain Tolerance | Medium or Large | 6m |
 | [Mycelian](#mycelian) | INT +1, RES +1,<br/>and size modifiers | Adaptation: Spores,<br/>and Fungal Body,<br/>and Grit | Small to Large | 5m |
 | [Vulpine](#vulpine) | DEX +1, INT +1,<br/>and size modifiers | Graceful,<br/>Low-light Vision,<br/>and Natural Weapons | Small or Medium | 6m |
 

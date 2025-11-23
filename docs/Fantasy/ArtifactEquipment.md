@@ -85,7 +85,7 @@ This is a masterwork heavy warhammer with a large head and a short handle. Carve
 
 Attuning to this item provides it the effect of electric elemental damage (from the spell [magic weapon (electric)](/Fantasy/Spells.md#magic-weapon)), and its user the spell effect of [feather fall](/Fantasy/Spells.md#feather-fall). Additionally, the item can be thrown as if it has the feature *thrown 4m/40m* (from the spell [feather fall](/Fantasy/Spells.md#feather-fall)). If thrown, it can be returned by the spell effect of [reaching](/Fantasy/Talents.md#metamagic) [telekinesis](/Fantasy/Spells.md#telekinesis). The combination of these two effects allows it to make ranged attacks a combined thrown and return distance of up to 12m (as long as it remains within 6m of its user) in a single turn before requiring the normal use of the *thrown* feature. It can even be thrown from a start position away from but within 6m of its user.
 
-The item is under a [limitation curse](/Fantasy/ItemCrafting.md#curses) that only allows those with a maximum strength of 16 or greater to lift and attune to the item.
+The item is under a [limitation curse](/Basic/ItemCrafting.md#curses) that only allows those with a maximum strength of 16 or greater to lift and attune to the item.
 
 ## Major Artifacts
 
