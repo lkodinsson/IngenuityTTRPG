@@ -6,8 +6,6 @@ pagination_label: Rules Index
 #pagination_next: null
 ---
 
-```mdx-code-block
 import DocCardList from '@theme/DocCardList';
 
 <DocCardList />
-```

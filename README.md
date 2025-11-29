@@ -2,11 +2,11 @@
 
 Work in Progress Roadmap
 
-Total Progress (4/47) [8.51%]
+Total Progress (4/49) [8.16%]
 
 ## Rules
 
-Progress (3/44) [6.82%]
+Progress (3/46) [6.52%]
 
 * ☑ (Index Page)
 
@@ -24,20 +24,22 @@ Progress (3/44) [6.82%]
     * ☐ Creating a Character
     * ☐ Advancing a Character
 
-* Reference (0/9) [0%]
+* Features (0/11) [0%]
     * ☐ (Index Page)
     * ☐ Ancestries
     * ☐ Backgrounds
     * ☐ Classes
-    * ☐ Talents
-    * ☐ Traits
+    * ☐ Skills
+    * ☐ Proficiencies
     * ☐ Maneuvers
     * ☐ Powers
+    * ☐ Talents
+    * ☐ Traits
     * ☐ Items
 
 * Extended Rules (0/10) [0%]
     * ☐ (Index Page)
-    * ☐ Biases and Flaws
+    * ☐ Biases and Flaws   
     * ☐ Classless Characters
     * ☐ Downtime Activities
     * ☐ Item Crafting

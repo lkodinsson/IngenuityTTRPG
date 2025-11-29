@@ -7,8 +7,6 @@ pagination_label: Resources Index
 sidebar_class_name: hidden
 ---
 
-```mdx-code-block
 import DocCardList from '@theme/DocCardList';
 
-<DocCardList />
-```
+<DocCardList />ocCardList />

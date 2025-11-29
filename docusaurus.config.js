@@ -190,7 +190,7 @@ const config = {
               },*/
               {
                 label: 'GitHub',
-                href: 'https://github.com/lkodinsson/ingenuityttrpg',
+                href: 'https://github.com/lkodinsson/ingenuityTTRPG',
               },
             ],
           },
