@@ -14,6 +14,6 @@ jobs:
             - name: Contributor List
               uses: akhilmhdh/contributors-readme-action@v2.3.11
               with:
-                readme_path: "credits.md"
+                readme_path: "docs/credits.md"
               env:
                   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
