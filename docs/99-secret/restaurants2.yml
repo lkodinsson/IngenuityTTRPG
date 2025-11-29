@@ -1,0 +1,17 @@
+- id: bin4
+  name: Bin4 Burger Lounge
+  description: |
+    Pretty fancy burgers.
+    Half fries half salad is the trick
+  tags:
+    - burgers
+    - salad
+    - fries
+- id: tacofino
+  name: Tacofino
+  description: |
+    Mmm Superveg
+- name: Board Game Cafe
+  description: |
+    Wait does that count as a restaurant?
+    I mean, you do usually order food there...
