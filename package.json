@@ -25,7 +25,8 @@
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "3.9.2",
-    "@docusaurus/types": "3.9.2"
+    "@docusaurus/types": "3.9.2",
+    "yaml-loader": "^0.8.1"
   },
   "browserslist": {
     "production": [

@@ -51,6 +51,21 @@ const config = {
         keywords: { boost: 10 },
       },
     }],
+    () => ({
+      name: "custom-yaml-loader",
+      configureWebpack() {
+        return {
+          module: {
+            rules: [
+              {
+                test: /\.ya?ml$/,
+                use: "yaml-loader",
+              },
+            ],
+          },
+        };
+      },
+    }),
   ],
 
   presets: [
