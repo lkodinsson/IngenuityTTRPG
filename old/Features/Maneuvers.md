@@ -54,6 +54,82 @@
 | Tripping Strike | Combat | Martial, Unarmed | 2 ST | Force a target to become prone by performing a melee attack |
 | Wild Strike | Combat | Martial, Unarmed | 1 ST | Perform a powerful melee attack at the cost of a defensive penalty |
 
+---
+
+#### Advancing Strike
+
+**Skills:** Combat  
+**Proficiencies:** Finesse, Martial, Unarmed  
+**Cost:** 1 Stamina
+
+Move 1m closer to a target, then make a melee attack with a +1 bonus against that target.
+
+---
+
+#### Alleviate
+
+**Skills:** Charisma, Taming  
+**Proficiencies:** Persuade  
+**Cost:** 1 Focus
+
+?
+
+---
+
+#### Anatomize
+
+**Skills:** Perception  
+**Proficiencies:** Anatomy  
+**Cost:** 2 Focus
+
+**Free action.** Make a perception test against the target's constitution. If you succeed, and for every 4 that you exceed the difficulty, choose one of the following: *health*, *endurance*, *stamina*, *focus*, *constitution*, *evasion*, *willpower*, *physical deflection*, *elemental deflection*, *conditions*, and *weaknesses*. For each option that you pick, you will receive that information about the target.
+
+---
+
+#### Arrow Catch
+
+**Skills:** Agility  
+**Proficiencies:** Dodge  
+**Cost:** 1 Stamina
+
+**Reaction.** Dodge an attack against an incoming arrow, bolt, or thrown weapon. If successful, the item is caught and becomes held in the hand. Unlike the normal dodge action, you cannot choose to drop prone, seek cover, or move up to 1m.
+
+---
+
+#### Crippling Attack
+
+**Skills:** Combat  
+**Proficiencies:** Any combat proficiency
+**Cost:** 2 Stamina
+
+Make an attack. If it hits, compare it against the target's fortitude. If successful, they become crippled for the combat or scene, reducing their movement speed by half.
+
+If this maneuver is performed as a reaction (such as by a readied action), then the target cannot move for the rest of their turn.
+
+---
+
+#### Crushing Strike
+
+**Skills:** Combat  
+**Proficiencies:** Martial, Unarmed  
+**Cost:** 1 Stamina
+
+Make a melee attack with a +1 bonus to damage. If the attack would not hit, get a bonus to the luck roll. This bonus is a +3 if the attack was made with bludgeoning weapon. Otherwise, it is only a +2.
+
+---
+
+#### Cutting Words
+
+**Skills:** Charisma, Taming  
+**Proficiencies:** Convince, Persuade  
+**Cost:** 1 Focus
+
+Make a test against a target using *charisma* (for humanoids) or *taming* (for other animals) by insulting it logically (using *intelligence* and *convince*) or emotionally (using *resolve* and *persuade*). If the target cannot understand the insult, then the test is made with disadvantage. If it cannot hear the insult, then the test automatically fails.
+
+The target takes typeless damage equal to the result of the test, which is reduced by the target's willpower. This damage *can* be reduced to zero and can only deal damage to the target's endurance. This damage cannot be blocked, evaded, or parried. The target may attempt a willpower defence test to reduce the damage if it would take any.
+
+---
+
 ##### Table: Maneuvers
 | Name | Action<br/>Type | Stamina<br/>Cost | Resist | Maneuver<br/>Type | Specializations |
 |:-|:-:|:-:|:-:|:-:|:-|

@@ -1,19 +1,11 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
+community:
+  label: Community
 
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
+content:
+  label: Content
 
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
+design:
+  label: Game Design
 
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+updates:
+  label: Updates

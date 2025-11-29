@@ -10,9 +10,10 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  favicon: 'img/favicon.ico',
+  title: 'Ingenuity',
+  tagline: 'There are no bad ideas',
+  favicon: 'img/IngenuityLogo.png',
+  //favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -42,13 +43,13 @@ const config = {
 
   plugins: [
     [require.resolve('docusaurus-lunr-search'), {
-      maxHits: 20,
+      maxHits: 6,
       fields: {
         title: { boost: 1 },
         content: { boost: 100 },
         keywords: { boost: 10 },
       },
-    }]
+    }],
   ],
 
   presets: [
@@ -60,20 +61,21 @@ const config = {
           sidebarPath: './sidebars.js',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/lkodinsson/ingenuityttrpg/tree/main/',
+          //editUrl:
+          //  'https://github.com/lkodinsson/ingenuityttrpg/tree/main/',
           routeBasePath: '/',
         },
         blog: {
-          showReadingTime: true,
+          routeBasePath: '/news',
+          showReadingTime: false,
           feedOptions: {
             type: ['rss', 'atom'],
             xslt: true,
           },
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/lkodinsson/ingenuityttrpg/tree/main/',
+          //editUrl:
+          //  'https://github.com/lkodinsson/ingenuityttrpg/tree/main/',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -95,45 +97,81 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: 'Ingenuity',
+        title: 'INGENUITY',
         logo: {
           alt: 'Ingenuity Logo',
-          src: 'img/logo.svg',
+          src: 'img/IngenuityLogo.png'
+          //src: 'img/logo.svg',
         },
         items: [
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+          /*{
+            type: 'doc',
+            sidebarId: 'rules',
             position: 'left',
-            label: 'Docs',
-          },
-          {to: '/blog', label: 'Blog', position: 'left'},
+            label: 'Rules',
+          },*/
+          {to: '/rules', label: 'Rules', position: 'left'},
+          {to: '/resources', label: 'Resources', position: 'left'},
+          {to: '/news', label: 'News', position: 'left'},
           {
             href: 'https://github.com/lkodinsson/ingenuityttrpg',
-            label: 'GitHub',
+            //label: 'GitHub',
+            'aria-label': 'GitHub repository',
+            className: "header-github-link",
             position: 'right',
           },
         ],
+      },
+      docs: {
+        sidebar: {
+          hideable: true,
+          autoCollapseCategories: true,
+        },
       },
       footer: {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Pages',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Home',
+                to: '/',
+              },
+              {
+                label: 'News',
+                to: '/news',
+              },
+              {
+                label: 'Contact',
+                to: '/contact',
+              },
+              {
+                label: 'License',
+                to: '/license',
+              },
+            ],
+          },
+          {
+            title: 'Sections',
+            items: [
+              {
+                label: 'Rules',
+                to: '/rules',
+              },
+              {
+                label: 'Resources',
+                to: '/resources',
               },
             ],
           },
           {
             title: 'More',
             items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
+              /*{
+                label: 'Discord',
+                href: 'https://discord.com/',
+              },*/
               {
                 label: 'GitHub',
                 href: 'https://github.com/lkodinsson/ingenuityttrpg',
@@ -141,7 +179,8 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Loki Karolius Odinsson<a style='color: white' href='/secret'>.</a> Built with Docusaurus.`
+        //copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,

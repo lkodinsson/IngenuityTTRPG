@@ -1,21 +1,30 @@
-## Powers
+---
+title: Powers
+---
 
 Powers are associated with *supernatural skills*, require spending a resource like *stamina* or *focus*, and must be individually learned before they can be used. They can only be learned by characters with both a matching skill *and* proficiency. Powers are separated into *tiers* and each tier requires a specific rank of a skill and proficiency before they can be learned.
 
 ##### Table: Power Tiers
 | Tier | Name | Skill | Proficiency |
 |:-:|:-:|:-:|:-:|
-| 1 | Basic | d4 | +1 |
+| 1 | Basic | d6 | +1 |
 | 2 | Intermediate | d8 | +2 |
-| 3 | Advanced | d12 | +3 |
+| 3 | Advanced | d10 | +3 |
+<!--| 4 | Ultimate | d12 | +4 |-->
 
-> ***Example***  
-> ?
+:::info Example
+
+?
+
+:::
 
 Powers can only be used with the specific skill that they were learned for. In order to use them with a different skill, they must be learned again for the other skill. Powers do not need to be learned again to be used with the same skill but different proficiency.
 
-> ***Example***  
-> ?
+:::info Example
+
+?
+
+:::
 
 Each of the supernatural skills that provide access to powers use them in different ways. Some of them may require that you spend *stamina* while others might require *focus*. Some of these skills might describe the use of those powers as *magical* while some might describe them as *nonmagical*. In any case, they generally follow the same steps:
 
@@ -27,8 +36,11 @@ Each of the supernatural skills that provide access to powers use them in differ
 
 All manuevers require a test to determine the degree of their effect and many of these are made as contests against other characters.
 
-> ***Example***  
-> ?
+:::info Example
+
+?
+
+:::
 
 ### Power Tiers
 
@@ -37,29 +49,37 @@ The type of resource used is determined by the skill providing the power, while 
 ##### Table: Power Tiers
 | Tier | Name | Cost | Difficulty |
 |:-:|:-:|:-:|:-:|
-| 1 | Basic | 1 | 3 (Easy) |
-| 2 | Intermediate | 2 | 6 (Moderate) |
-| 3 | Advanced | 3 | 9 (Hard) |
+| 1 | Basic | 1 | 4 (Simple) |
+| 2 | Intermediate | 2 | 6 (Standard) |
+| 3 | Advanced | 3 | 8 (Moderate) |
+<!--| 4 | Ultimate | 4 | 10 (Challenging) |-->
 
-> ***Example***  
-> ?
+:::info Example
 
-Powers get a -3 penalty for each power made before it during the same round. This is known as the *multiple power penalty*. Typically this only occurs in combat.
+?
+
+:::
+
+Powers get a -2 penalty for each power made before it during the same round. This is known as the *multiple power penalty*. Typically this only occurs in combat.
 
 ### Powers as Attacks
 
+Many powers allow you to make attacks that deliver additional effects. Attacks are made this way by using the result of the test for that power (if it is successful) as the roll for your attack.
 
+Attacks made this way are made as normal then provide an additional effect if they hit their target. When they do, you compare the result of your power test from your attack against a specified defence from that target. If that also succeeds, you apply the additional effect. No additional roll is required unless the power specifies multiple tests.
 
+:::info Example
 
-Many powers allow you to make attacks that deliver additional effects. Attacks are made this way by using the result of the test for that power if it is successful as the roll for your attack.
+?
 
-Attacks made this way are made as normal then provide an additional effect if they hit their target. When they do, you compare the result of your combat test from your attack against a specified defence from that target. If that also succeeds, you apply the additional effect. No additional roll is required unless the maneuver specifies multiple tests.
+:::
 
-> ***Example***  
-> ?
-
-Attacks made by maneuvers are also subject to the *multiple attack penalty*. This means that they receive a -3 penalty for each attack made before it during the same round. Typically this only occurs in combat.
+Attacks made by powers are *not* subject to the *multiple attack penalty* like normal attacks. Instead they are only subject to the *multiple power penalty*.
 
 ### Modifying Powers
 
 ?
+
+<!--Remove metapowers, instead put all those rules here-->
+<!--Also add an option to spend 1 focus to reduce the difficulty value of the power by 2-->
+<!--Modification points: passive value of power skill + proficiency for the power being used (minimum 2 (untrained, nonproficient), maximum 10 (double master))-->

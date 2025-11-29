@@ -1,4 +1,9 @@
-# Contact Info
+---
+sidebar_position: 11
+title: Contact
+pagination_prev: null
+pagination_next: null
+---
 
 Hello! 😊 My name is Loki Karolius Odinsson.
 
