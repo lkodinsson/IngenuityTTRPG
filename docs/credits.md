@@ -26,7 +26,7 @@ pagination_next: null
                 </a>
             </td>
 		</tr>
-	<tbody>
+	</tbody>
 </table>
 <!-- readme: contributors -end -->
 
