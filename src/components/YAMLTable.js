@@ -1,4 +1,5 @@
 import reactStringReplace from "react-string-replace";
+import Tooltip from "../components/Tooltip";
 import { allFeatureNamesRegex } from "./tables";
 import tableDataDefault from "./YAMLTable.yml";
 const headersDefault = ["Name", "Description"];
@@ -83,8 +84,8 @@ function YAMLTableRow({ tableData, values, align, filters, sort }) {
 		Object.keys(filters).every((key) =>
 			data[key].includes
 				? filters[key].some((filter) => data[key].includes(filter))
-				: data[key].includes(filters[key]),
-		),
+				: data[key].includes(filters[key])
+		)
 	);
 	return filteredData.sort(sortRule(sort)).map((data) => (
 		<tr>
@@ -105,8 +106,8 @@ function YAMLTableRow({ tableData, values, align, filters, sort }) {
 										</Tooltip>
 									) : (
 										match
-									),
-								)
+									)
+							  )
 							: displayValue}
 					</td>
 				);
