@@ -1,14 +1,28 @@
 name: Deploy to GitHub Pages
 
 on:
-    #   push:
-    #     branches:
-    #       - main
+    push:
+        branches:
+            - main
     workflow_dispatch:
 
 jobs:
+    contrib-readme-job:
+        runs-on: ubuntu-latest
+        name: A job to automate contributors in credits.md
+        permissions:
+            contents: write
+            pull-requests: write
+        steps:
+            - name: Contributor List
+              uses: Nebual/contributors-readme-action@v2.3.13
+              with:
+                  readme_path: "docs/credits.md"
+              env:
+                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     build:
         name: Build Docusaurus
+        needs: contrib-readme-job
         runs-on: ubuntu-latest
         steps:
             - uses: actions/checkout@v4
