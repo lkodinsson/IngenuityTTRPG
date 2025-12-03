@@ -2,9 +2,9 @@
 title: Core Rules
 ---
 
-Ingenuity shares many features with other role-playing systems: you control a *character*, your character has *stats* represented by numbers and dice, and special *abilities* your character can perform. As you progress you collect *experience points* but you do not gain levels by collecting experience like most other systems. Instead, you spend your experience points to upgrade your character and buy new abilities directly.
+Ingenuity shares many features with other role-playing systems: you control a _character_, your character has _stats_ represented by numbers and dice, and special _abilities_ your character can perform. As you progress you collect _experience points_ but you do not gain levels by collecting experience like most other systems. Instead, you spend your experience points to upgrade your character and buy new abilities directly.
 
-In a typical session the *game master* will describe the *situation* and then the players will describe their *actions*. This will go back and forth as the game master asks the players to roll dice, describes the outcome of their actions, and presents new situations. It is important as a player to focus on exploring the game as your character rather than always declaring the exact game actions that you intend to use.
+In a typical session the _game master_ will describe the _situation_ and then the players will describe their _actions_. This will go back and forth as the game master asks the players to roll dice, describes the outcome of their actions, and presents new situations. It is important as a player to focus on exploring the game as your character rather than always declaring the exact game actions that you intend to use.
 
 :::info Example
 
@@ -12,7 +12,7 @@ In a typical session the *game master* will describe the *situation* and then th
 **Player:** I sneak up close to the goblin, intending to deliver a sneak attack if they are alone.  
 **GM:** Make a test for Dexterity + Agility.  
 **Player:** Here we go... Oof. I rolled a 3.  
-**GM:** You step on a branch, alerting the goblin. They call out, *"who goes there?!"* They do not see you yet...
+**GM:** You step on a branch, alerting the goblin. They call out, _"who goes there?!"_ They do not see you yet...
 
 :::
 
@@ -42,13 +42,13 @@ Ingenuity uses standard [dice notation](https://en.wikipedia.org/wiki/Dice_notat
 
 :::caution Important
 
-Whenever you perform division, the resulting number is always *rounded up* unless otherwise specified.
+Whenever you perform division, the resulting number is always _rounded up_ unless otherwise specified.
 
 :::
 
 ### Passive Values
 
-Any value that is represented by dice also has what is called a *passive value*. This value is always slightly below your average roll, making it a useful tool for estimating your results. It is calculated by dividing the maximum value of the dice in half, plus or minus any additional modifiers.
+Any value that is represented by dice also has what is called a _passive value_. This value is always slightly below your average roll, making it a useful tool for estimating your results. It is calculated by dividing the maximum value of the dice in half, plus or minus any additional modifiers.
 
 :::info Example
 

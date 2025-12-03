@@ -34,16 +34,16 @@ pagination_next: null
 
 ### People
 
-* Ben Milton
-* Joseph R. Lewis
+- Ben Milton
+- Joseph R. Lewis
 
 ### Systems
 
-* Burning Wheel
-* Fate
-* GURPS
-* Knave
-* Pathfinder
-* Savage Worlds
-* Vagabond
-* *...and many more*
+- Burning Wheel
+- Fate
+- GURPS
+- Knave
+- Pathfinder
+- Savage Worlds
+- Vagabond
+- _...and many more_

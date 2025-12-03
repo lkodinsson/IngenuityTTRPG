@@ -6,18 +6,19 @@ The process of creating a character is a series of small steps, with each step b
 
 ## Archetype
 
-Your *archetype* is the core that a character is built from and acts as a starting position, rather than a strict limitation.
+Your _archetype_ is the core that a character is built from and acts as a starting position, rather than a strict limitation.
 
 ### Ancestry
 
 ?
 
 ##### Table: Ancestry Examples
-| Name | Description |
-|:-|:-|
-| Dwarf | ? |
-| Elf | ? |
-| Human | ? |
+
+| Name  | Description |
+| :---- | :---------- |
+| Dwarf | ?           |
+| Elf   | ?           |
+| Human | ?           |
 
 ### Background
 
@@ -34,12 +35,13 @@ Your *archetype* is the core that a character is built from and acts as a starti
 ?
 
 ##### Table: Class Examples
-| Name | Description |
-|:-|:-|
-| Cleric | ? |
-| Fighter | ? |
-| Rogue | ? |
-| Wizard | ? |
+
+| Name    | Description |
+| :------ | :---------- |
+| Cleric  | ?           |
+| Fighter | ?           |
+| Rogue   | ?           |
+| Wizard  | ?           |
 
 :::info Example
 
@@ -51,7 +53,7 @@ Your *archetype* is the core that a character is built from and acts as a starti
 
 ### Attributes
 
-Each character will start with two *good* attributes and two *weak* attributes. Good attributes have a value of d6, while weak attributes have a value of d4. If your class requires one or more attributes, you must assign those attributes as good.
+Each character will start with two _good_ attributes and two _weak_ attributes. Good attributes have a value of d6, while weak attributes have a value of d4. If your class requires one or more attributes, you must assign those attributes as good.
 
 :::info Example
 
@@ -64,12 +66,13 @@ Each character will start with two *good* attributes and two *weak* attributes. 
 Each resource is calculated by finding the maximum value of a corresponding attribute.
 
 ##### Table: Resource Calculations
-| Stat | Calculation |
-|:-|:-|
-| Health (HP) | 6 + Maximum STR |
+
+| Stat           | Calculation     |
+| :------------- | :-------------- |
+| Health (HP)    | 6 + Maximum STR |
 | Endurance (ED) | 6 + Maximum RES |
-| Stamina (ST) | 6 + Maximum DEX |
-| Focus (FC) | 6 + Maximum INT |
+| Stamina (ST)   | 6 + Maximum DEX |
+| Focus (FC)     | 6 + Maximum INT |
 
 <!--
 Alternatively:
@@ -85,14 +88,15 @@ FC = Max INT + Max INS
 
 :::
 
-Additionally, each class starts with one of three *talents* that increases a resource.
+Additionally, each class starts with one of three _talents_ that increases a resource.
 
 ##### Table: Resource Talent Bonus
-| Talent | Bonus |
-|:-|:-|
-| Toughness (+4) | +4 Endurance |
-| Longevity (+4) | +4 Stamina |
-| Mindfulness (+4) | +4 Focus |
+
+| Talent           | Bonus        |
+| :--------------- | :----------- |
+| Toughness (+4)   | +4 Endurance |
+| Longevity (+4)   | +4 Stamina   |
+| Mindfulness (+4) | +4 Focus     |
 
 :::info Example
 
@@ -102,14 +106,15 @@ Additionally, each class starts with one of three *talents* that increases a res
 
 ### Defences
 
-Each defence stat is a combination of your *passive resolve* and another attribute's passive value. As a reminder, the passive value of a stat is equal to half of its maximum roll.
+Each defence stat is a combination of your _passive resolve_ and another attribute's passive value. As a reminder, the passive value of a stat is equal to half of its maximum roll.
 
 ##### Table: Defence Calculations
-| Stat | Calculation |
-|:-|:-|
+
+| Stat               | Calculation               |
+| :----------------- | :------------------------ |
 | Constitution (CON) | Passive RES + Passive STR |
-| Evasion (EVA) | Passive RES + Passive DEX |
-| Willpower (WILL) | Passive RES + Passive INT |
+| Evasion (EVA)      | Passive RES + Passive DEX |
+| Willpower (WILL)   | Passive RES + Passive INT |
 
 :::info Example
 
@@ -119,15 +124,15 @@ Each defence stat is a combination of your *passive resolve* and another attribu
 
 ### Speed
 
-Your speed is a measurement in *meters* of how fast your character can move in a *single action* (2 seconds). <!--Normally, only the base speed matters. However, other speeds can be calculated if necessary.-->
+Your speed is a measurement in _meters_ of how fast your character can move in a _single action_ (2 seconds). <!--Normally, only the base speed matters. However, other speeds can be calculated if necessary.-->
 
-|  | Calculation |
-|:-|:-|
-| Speed | Size + Passive Dexterity + Passive Agility + Running Proficiency |
-<!--| Long Jump | (Size + Passive Strength + Passive Athletics + Jumping Proficiency) / 3 |
+|                | Calculation                                                              |
+| :------------- | :----------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| Speed          | Size + Passive Dexterity + Passive Agility + Running Proficiency         |
+| <!--           | Long Jump                                                                | (Size + Passive Strength + Passive Athletics + Jumping Proficiency) / 3 |
 | Vertical Climb | (Size + Passive Strength + Passive Athletics + Climbing Proficiency) / 4 |
-| Swimming | (Size + Passive Strength + Passive Athletics + Swimming Proficiency) / 6 |
-| High Jump | (Size + Passive Strength + Passive Athletics + Jumping Proficiency) / 8 |-->
+| Swimming       | (Size + Passive Strength + Passive Athletics + Swimming Proficiency) / 6 |
+| High Jump      | (Size + Passive Strength + Passive Athletics + Jumping Proficiency) / 8  | -->                                                                     |
 
 :::info Example
 
@@ -151,11 +156,11 @@ Your speed is a measurement in *meters* of how fast your character can move in a
 
 ### Motivation
 
-A character's *motivation* is their primary driving force for why they make their decisions. It should be describable in a couple sentences. Motivations should be capable of roughly answering the following questions:
+A character's _motivation_ is their primary driving force for why they make their decisions. It should be describable in a couple sentences. Motivations should be capable of roughly answering the following questions:
 
-* What does this character want?
-* Why does this character want that?
-* How does this character achieve that?
+- What does this character want?
+- Why does this character want that?
+- How does this character achieve that?
 
 :::info Example
 
@@ -186,10 +191,11 @@ When a character's ambition has been fulfilled it is usually replaced with a new
 ?
 
 ##### Table: Item Slots Calculations
-| Stat | Calculation |
-|:-|:-|
-| Encumbrance (ENC) | Hands + Size + Passive Strength |
-| Capacity (CAP) | Encumbrance + Passive Athletics + Lifting Proficiency |
+
+| Stat              | Calculation                                           |
+| :---------------- | :---------------------------------------------------- |
+| Encumbrance (ENC) | Hands + Size + Passive Strength                       |
+| Capacity (CAP)    | Encumbrance + Passive Athletics + Lifting Proficiency |
 
 :::info Example
 
@@ -206,9 +212,10 @@ When a character's ambition has been fulfilled it is usually replaced with a new
 ?
 
 ##### Table: Armour Defence Calculations
-| Stat | Calculation |
-|:-|:-|
-| Physical Defense (P.DEF) | Passive RES + Armour Rating (AR) |
+
+| Stat                      | Calculation                      |
+| :------------------------ | :------------------------------- |
+| Physical Defense (P.DEF)  | Passive RES + Armour Rating (AR) |
 | Elemental Defense (E.DEF) | Passive INT + Armour Rating (AR) |
 
 :::info Example

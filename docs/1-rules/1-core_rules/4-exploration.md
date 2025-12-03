@@ -4,7 +4,7 @@ title: Exploration
 
 ## Point Travel
 
-<!--As the players move from one location to another 
+<!--As the players move from one location to another
 
 When the characters are moving from one location to another to enter into new scenes, this is called a *point crawl*. This refers to the movement from one point to another.-->
 
@@ -19,8 +19,8 @@ Performing tasks also requires time. The amount of time required can be just a f
 
 :::info Example
 
-The players enter a new room filled with lots of things to interact with and information to collect.  
-For each task the players take while in the room, time will pass.  
+The players enter a new room filled with lots of things to interact with and information to collect.
+For each task the players take while in the room, time will pass.
 Whenever certain amounts of time pass, the game master may make hidden tests to determine potential new challenges.
 
 :::-->

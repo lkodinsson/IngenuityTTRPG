@@ -2,7 +2,7 @@
 title: Actions
 ---
 
-Any task or active ability that a character uses can be considered a type of *action* and all actions require some amount of *time* to complete. Different types of circumstances provide characters with various amounts of time to complete actions. While most actions require very little time, many complex or difficult tasks can require anywhere from 10 minutes to multiple hours to complete.
+Any task or active ability that a character uses can be considered a type of _action_ and all actions require some amount of _time_ to complete. Different types of circumstances provide characters with various amounts of time to complete actions. While most actions require very little time, many complex or difficult tasks can require anywhere from 10 minutes to multiple hours to complete.
 
 :::note
 
@@ -12,7 +12,7 @@ Time is a resource. Plan accordingly.
 
 ## Scenes
 
-When the game master describes the world for the players to interact, they are setting the *scene*. Once in a scene, players may take turns taking actions in any order they choose. Collectively those actions will take the characters about 5 to 10 minutes while in the scene.
+When the game master describes the world for the players to interact, they are setting the _scene_. Once in a scene, players may take turns taking actions in any order they choose. Collectively those actions will take the characters about 5 to 10 minutes while in the scene.
 
 :::tip Optional
 
@@ -28,11 +28,11 @@ The time spent during a scene can be ignored unless there is explicit time press
 
 ## Defensive Actions
 
-Before a character receives an attack they may decide to react with a *defensive action*, which is any reaction that allows you to *block*, *dodge*, *fortify*, *parry*, or *resist*.
+Before a character receives an attack they may decide to react with a _defensive action_, which is any reaction that allows you to _block_, _dodge_, _fortify_, _parry_, or _resist_.
 
 ### Dodge
 
-When you *dodge* an attack, instead of using your evasion, make a test using your dexterity attribute, agility skill, and dodge proficiency. If your result is less than your evasion, use your evasion instead.
+When you _dodge_ an attack, instead of using your evasion, make a test using your dexterity attribute, agility skill, and dodge proficiency. If your result is less than your evasion, use your evasion instead.
 
 :::info Example
 
@@ -48,7 +48,7 @@ After you dodge, even if you fail, you may drop prone, seek cover, and/or move u
 
 ### Fortify
 
-When you *fortify* against an effect, instead of using your constitution, make a test using your strength attribute, athletics skill, and fortitude proficiency. If your result is less than your constitution, use your constitution instead.
+When you _fortify_ against an effect, instead of using your constitution, make a test using your strength attribute, athletics skill, and fortitude proficiency. If your result is less than your constitution, use your constitution instead.
 
 :::info Example
 
@@ -58,7 +58,7 @@ When you *fortify* against an effect, instead of using your constitution, make a
 
 ### Resist
 
-When you *resist* against an effect, instead of using your willpower, make a test using your intelligence attribute, insight skill, and resistance proficiency. If your result is less than your willpower, use your willpower instead.
+When you _resist_ against an effect, instead of using your willpower, make a test using your intelligence attribute, insight skill, and resistance proficiency. If your result is less than your willpower, use your willpower instead.
 
 :::info Example
 
@@ -79,7 +79,7 @@ When a passive test fails that involves a *defence* stat, players may pay *stami
 | Evasion | 1 ST | Dexterity (Attribute) + Agility (Skill) + Dodge (Proficiency) |
 | Willpower | 1 FC | Intelligence (Attribute) + Insight (Skill) + Resistance (Proficiency) |
 
-> ***Example***  
+> ***Example***
 > Gundahar walks into a room, which begins to fill with *poisonous spores*.
 > The difficulty to prevent the poison is greater than their *fortitude*, so they will become poisoned.
 > The player controlling Gundahar wants to prevent this, so they attempt a *defence test*.
@@ -93,12 +93,12 @@ If this defence test fails, you may not try again by spending more resources.-->
 
 ## Fate Actions
 
-At any time, 1 point of *fate* may be spent to achieve any one of the following effects:
+At any time, 1 point of _fate_ may be spent to achieve any one of the following effects:
 
-* Ask the game master any one question about the current scene, which they must answer truthfully
-* Maximize a single die during one of your tests (including the luck die)
-* Take an additional action during your turn in combat
-* Choose one of endurance, stamina, or focus, to recover by half of their maximum
-* Reduce a single source of damage taken to half (after damage reduction)
-* Perform a character advancement during the current scene, reducing the experience cost to half
-<!--* Prevent your character from dying at the cost of inhibiting their motivation or ambition-->
+- Ask the game master any one question about the current scene, which they must answer truthfully
+- Maximize a single die during one of your tests (including the luck die)
+- Take an additional action during your turn in combat
+- Choose one of endurance, stamina, or focus, to recover by half of their maximum
+- Reduce a single source of damage taken to half (after damage reduction)
+- Perform a character advancement during the current scene, reducing the experience cost to half
+    <!--* Prevent your character from dying at the cost of inhibiting their motivation or ambition-->

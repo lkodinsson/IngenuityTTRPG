@@ -11,27 +11,28 @@ import tableData from '@site/src/components/tables/conditions.yml';
 import tableProficiencies from '@site/src/components/tables/proficiencies.yml';
 
 <Tabs
-    groupId='tables'
-    queryString='tables'
-    defaultValue='default'
-    values={[
-        {value:'default', label:'Default'},
-        {value:'conditions', label:'Conditions'},
-        {value:'proficiencies', label:'Proficiencies'},
-    ]}>
+groupId='tables'
+queryString='tables'
+defaultValue='default'
+values={[
+{value:'default', label:'Default'},
+{value:'conditions', label:'Conditions'},
+{value:'proficiencies', label:'Proficiencies'},
+]}>
 </Tabs>
 
 Example tables
 
 <Tabs
-    groupId='tables'
-    queryString='tables'
-    defaultValue='default'
-    values={[
-        {value:'default', label:''},
-        {value:'conditions', label:''},
-        {value:'proficiencies', label:''},
-    ]}
+groupId='tables'
+queryString='tables'
+defaultValue='default'
+values={[
+{value:'default', label:''},
+{value:'conditions', label:''},
+{value:'proficiencies', label:''},
+]}
+
 >
 
 <TabItem value='default'>

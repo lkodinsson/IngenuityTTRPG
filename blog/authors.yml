@@ -1,18 +1,18 @@
 shaymakesart:
-  name: Shay
-  title: Ingenuity Artist
-  image_url: https://github.com/shaymakesart.png
-  page:
-    permalink: '/all-shaymakesart-posts'
+    name: Shay
+    title: Ingenuity Artist
+    image_url: https://github.com/shaymakesart.png
+    page:
+        permalink: "/all-shaymakesart-posts"
 
 lkodinsson:
-  name: Loki Karolius Odinsson
-  title: Ingenuity RPG Designer
-  url: https://ingenuityrpg.com
-  image_url: https://github.com/lkodinsson.png
-  page:
-    permalink: '/all-loki-karolius-odinsson-posts'
-  socials:
-    email: lkodinsson+ingenuityrpg@gmail.com
-    github: lkodinsson
-    Ko-Fi: https://ko-fi.com/lkodinsson
+    name: Loki Karolius Odinsson
+    title: Ingenuity RPG Designer
+    url: https://ingenuityrpg.com
+    image_url: https://github.com/lkodinsson.png
+    page:
+        permalink: "/all-loki-karolius-odinsson-posts"
+    socials:
+        email: lkodinsson+ingenuityrpg@gmail.com
+        github: lkodinsson
+        Ko-Fi: https://ko-fi.com/lkodinsson

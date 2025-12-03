@@ -2,53 +2,54 @@
 title: Tests
 ---
 
-Whenever you attempt a task and success is not guaranteed, then you will need to make a *test*. To do so, you will roll a relevant *attribute* and *skill*, add any one relevant *proficiency* (if any), then compare your result to a secretly determined *difficulty value*. In order to succeed at the task, the result of the test must *meet or exceed* its difficulty.
+Whenever you attempt a task and success is not guaranteed, then you will need to make a _test_. To do so, you will roll a relevant _attribute_ and _skill_, add any one relevant _proficiency_ (if any), then compare your result to a secretly determined _difficulty value_. In order to succeed at the task, the result of the test must _meet or exceed_ its difficulty.
 
 :::info Example
 
 Fabian attempts to pick a locked door.  
-The game master determines that they will need to roll *dexterity* and *handling* for this test.  
-Fabian also has the *sleight* proficiency, which they can use for this task.  
+The game master determines that they will need to roll _dexterity_ and _handling_ for this test.  
+Fabian also has the _sleight_ proficiency, which they can use for this task.  
 With a dexterity of d6, a handling of d6, and a sleight of +1, Fabian rolls 2d6+1.  
 The test results in a value of 8, which the game master determines is enough to succeed at the task.
 
 :::
 
 ##### Table: Challenge Difficulties
-| Difficulty<br/>(Common) | Name | Difficulty<br/>(Rare) | Name |
-|:-:|:-|:-:|:-|
-| - | Trivial | 14 | Demanding |
-| 4 | Simple | 16 | Daunting |
-| 6 | Standard | 18 | Arduous |
-| 8 | Moderate | 20 | Ambitious |
-| 10 | Challenging | 22 | Absurd |
-| 12 | Complex | 24 | Improbable |
+
+| Difficulty<br/>(Common) | Name        | Difficulty<br/>(Rare) | Name       |
+| :---------------------: | :---------- | :-------------------: | :--------- |
+|            -            | Trivial     |          14           | Demanding  |
+|            4            | Simple      |          16           | Daunting   |
+|            6            | Standard    |          18           | Arduous    |
+|            8            | Moderate    |          20           | Ambitious  |
+|           10            | Challenging |          22           | Absurd     |
+|           12            | Complex     |          24           | Improbable |
 
 :::note
 
-The most common type of task is *trivial* (no test).  
-Tasks requiring a test will usually range in difficulty from *simple* (4) to *complex* (12).  
-Tasks with a difficulty of *demanding* (14) or higher are *much rarer*.
+The most common type of task is _trivial_ (no test).  
+Tasks requiring a test will usually range in difficulty from _simple_ (4) to _complex_ (12).  
+Tasks with a difficulty of _demanding_ (14) or higher are _much rarer_.
 
 :::
 
-All characters can perform *any* test, even if they are both untrained and nonproficient.
+All characters can perform _any_ test, even if they are both untrained and nonproficient.
 
 :::info Example
 
 Priscilla attempts to climb a single story wall using a rope and grappling hook.  
-The game master determines that they will need to roll *strength* and *athletics* for this test.  
+The game master determines that they will need to roll _strength_ and _athletics_ for this test.  
 However, Priscilla is not trained in athletics and does not have any relevant proficiency.  
 With only a strength of d4 and an athletics of d4 (untrained), Priscilla rolls 2d4.
 
 :::
 
-Tasks that are *trivial* never require tests. For some sufficiently proficient characters, even other more difficult tasks can also become effectively trivial. With a high enough bonus from a proficiency the lowest possible roll can catch up to some difficulty values.
+Tasks that are _trivial_ never require tests. For some sufficiently proficient characters, even other more difficult tasks can also become effectively trivial. With a high enough bonus from a proficiency the lowest possible roll can catch up to some difficulty values.
 
 :::info Example
 
 Over time Fabian improves his stats and attempts a familiar task: picking a locked door.  
-The game master notices that he has a +4 in *sleight*.  
+The game master notices that he has a +4 in _sleight_.  
 The lowest possible roll that Fabian can achieve is a 6 (two dice plus 4).  
 If the task has a difficulty of 6 or less, the game master can decide to skip the dice roll.
 
@@ -59,12 +60,13 @@ If the task has a difficulty of 6 or less, the game master can decide to skip th
 In situations where only one character can perform the task but other characters still want to help, they may instead assist the character performing the task. To do so, they must perform the exact same test using the same attribute, skill, and proficiency (if any). This provides a bonus to that character's test based on the highest threshold that the assisting character's roll meets or exceeds.
 
 ##### Table: Assist Thresholds
-| Threshold | Bonus |
-|:-:|:-:|
-| 4 (Simple) | +1 |
-| 8 (Moderate) | +2 |
-| 12 (Complex) | +3 |
-| 16 (Daunting) | +4 |
+
+|   Threshold   | Bonus |
+| :-----------: | :---: |
+|  4 (Simple)   |  +1   |
+| 8 (Moderate)  |  +2   |
+| 12 (Complex)  |  +3   |
+| 16 (Daunting) |  +4   |
 
 :::info Example
 
@@ -76,7 +78,7 @@ If multiple characters provide assistance simultaneously, use only the highest a
 
 ## Contests
 
-When two characters are making tests against each other, this is called a *contest*. Usually this means that one character is setting the difficulty for the other. These types of contests resolve the same way as normal tests.
+When two characters are making tests against each other, this is called a _contest_. Usually this means that one character is setting the difficulty for the other. These types of contests resolve the same way as normal tests.
 
 :::info Example
 
@@ -86,12 +88,12 @@ In this way, the guards are setting the difficulty for Markos' test.
 
 :::
 
-In circumstances where characters are performing the *same activity* against each other, they are both setting the difficulty for each other. Normally when performing a test you must meet or exceed the difficulty, but in this type of circumstance one of the characters must *exceed* the other.
+In circumstances where characters are performing the _same activity_ against each other, they are both setting the difficulty for each other. Normally when performing a test you must meet or exceed the difficulty, but in this type of circumstance one of the characters must _exceed_ the other.
 
 :::info Example
 
 Arnold and Siegmund engage in an arm wrestle.  
-The game master determines that they will both need to roll *strength* and *athletics*.  
+The game master determines that they will both need to roll _strength_ and _athletics_.  
 Arnold rolls an 11 and Siegmund rolls an 8.  
 Arnold beats Siegmund at the arm wrestle.
 
@@ -107,7 +109,7 @@ Alternatively, this can sometimes be resolved as a best-of-three or best-of-five
 
 ### Size Differences
 
-If there is a difference in size between two characters during a contest, the result of the test is modified by an amount equal to this difference. Typically this occurs for tasks that involve physical activites using *strength* or *dexterity*, such as trying to push or catch another creature.
+If there is a difference in size between two characters during a contest, the result of the test is modified by an amount equal to this difference. Typically this occurs for tasks that involve physical activites using _strength_ or _dexterity_, such as trying to push or catch another creature.
 
 :::info Example
 
@@ -119,13 +121,13 @@ When she rolls for the contest to catch the mouse, she will treat the mouse's ro
 
 ## Passive Tests
 
-Sometimes when characters interact with each other or the environment, some outcomes can be determined automatically by making a *passive test* using certain stats as a difficulty value. These stats are calculated using *passive values* from some of your other stats.
+Sometimes when characters interact with each other or the environment, some outcomes can be determined automatically by making a _passive test_ using certain stats as a difficulty value. These stats are calculated using _passive values_ from some of your other stats.
 
 :::info Example
 
-Siegmund decides to punch Arnold, making a test using his *strength* and *combat*.  
-In order to hit Arnold, he must meet or exceed his *evasion*.  
-Arnold's evasion is calculated from his passive *resolve*, *dexterity*, and *dodge* (proficiency).  
+Siegmund decides to punch Arnold, making a test using his _strength_ and _combat_.  
+In order to hit Arnold, he must meet or exceed his _evasion_.  
+Arnold's evasion is calculated from his passive _resolve_, _dexterity_, and _dodge_ (proficiency).  
 Arnold can rely on his evasion instead of making a roll to avoid being hit.
 
 :::
@@ -135,13 +137,13 @@ Sometimes these passive values also act like an automatic test result instead of
 :::info Example
 
 The players enter an area where a small creature is hiding in a bush nearby.  
-Rather than requiring the players to make a test (revealing that something is hidden), the game master will instead compare the *passive perception* of their characters against the difficulty to spot the creature.
+Rather than requiring the players to make a test (revealing that something is hidden), the game master will instead compare the _passive perception_ of their characters against the difficulty to spot the creature.
 
 :::
 
 ## Luck
 
-In addition to the dice you roll during a test, you will also roll a d20 called the *luck die*. If the luck die results in a value of *20 or greater*, then you receive a +4 to the result of your roll for that test. This does not guarantee success. Do not roll the luck die for passive tests.
+In addition to the dice you roll during a test, you will also roll a d20 called the _luck die_. If the luck die results in a value of _20 or greater_, then you receive a +4 to the result of your roll for that test. This does not guarantee success. Do not roll the luck die for passive tests.
 
 :::caution Important
 
@@ -152,17 +154,17 @@ Do not add the value of your luck die directly to your test roll.
 :::info Example
 
 Milo attempts to leap over a 3m pit.  
-The game master determines that they will need to roll *dexterity* and *agility* for this test.  
+The game master determines that they will need to roll _dexterity_ and _agility_ for this test.  
 Milo rolls their dexterity and agility for the test while also rolling their luck die.  
 Milo rolls a 9 for his test and a 20 on his luck die. He adds a +4 to his roll, resulting in a 13 for his test.
 
 :::
 
-In rare circumstances where only luck is a factor, you may instead be asked to make a *luck test*. If you do, roll the luck die on its own instead of making a normal test.
+In rare circumstances where only luck is a factor, you may instead be asked to make a _luck test_. If you do, roll the luck die on its own instead of making a normal test.
 
 ## Advantage and Disadvantage
 
-Circumstance, clever role-playing, or the use of one of your abilities may provide you with *advantage*. For each source of advantage that you have while performing a test, you may reroll one die of your choice and you may keep the better result.
+Circumstance, clever role-playing, or the use of one of your abilities may provide you with _advantage_. For each source of advantage that you have while performing a test, you may reroll one die of your choice and you may keep the better result.
 
 :::info Example
 
@@ -170,7 +172,7 @@ Circumstance, clever role-playing, or the use of one of your abilities may provi
 
 :::
 
-Conversely, you may sometimes find yourself with *disadvantage*. If you do, you must instead reroll one die with the greatest result and you *must* keep the worse result.
+Conversely, you may sometimes find yourself with _disadvantage_. If you do, you must instead reroll one die with the greatest result and you _must_ keep the worse result.
 
 :::caution Important
 
@@ -188,12 +190,12 @@ Paired instances of advantage and disadvantage cancel each other out. If you hav
 
 ## Failure
 
-When a test is performed and does not meet or exceed the difficulty, the test *fails* and the desired outcome is not achieved. However, this does not necessarily result in a dead end or that nothing happens. There may instead be additional consequences for failure, such as escalating risk. In this way, failure is more often a change of circumstances than it is a dead end. Failure should be viewed more as an opportunity to push your luck or explore alternate decisions.
+When a test is performed and does not meet or exceed the difficulty, the test _fails_ and the desired outcome is not achieved. However, this does not necessarily result in a dead end or that nothing happens. There may instead be additional consequences for failure, such as escalating risk. In this way, failure is more often a change of circumstances than it is a dead end. Failure should be viewed more as an opportunity to push your luck or explore alternate decisions.
 
 :::info Example
 
 Priscilla attempts to climb the side of a mansion up to the third floor using a rope and grappling hook.  
-The game master determines that they will need to roll *strength* and *athletics* for this test.  
+The game master determines that they will need to roll _strength_ and _athletics_ for this test.  
 With a dexterity of d4 and an ahtletics of d4, Priscilla rolls 2d4.  
 Unforunately, her test only results in a value of 4, which is well below the difficulty value, and she fails.
 
@@ -201,9 +203,9 @@ Unforunately, her test only results in a value of 4, which is well below the dif
 
 When a test is failed the player usually has three options:
 
-* Escalate the task
-* Modify the task
-* Abandon the task
+- Escalate the task
+- Modify the task
+- Abandon the task
 
 ### Escalating Tasks
 
@@ -211,7 +213,7 @@ When completing the task is greatly desired, it may be escalated. In this case, 
 
 :::info Example
 
-Priscilla wants to keep climbing the mansion's walls in spite of her lack of ability. She needs to get inside.   
+Priscilla wants to keep climbing the mansion's walls in spite of her lack of ability. She needs to get inside.  
 The game master determines that she may keep trying, but with the added risk of falling and receiving injury.
 
 :::

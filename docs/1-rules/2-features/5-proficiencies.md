@@ -12,25 +12,25 @@ Druids have proficiencies like <Tooltip name="cultivation" link="/" />
 ##### Table: Proficiencies
 
 <Tabs
-    groupId='tables'
-    queryString='tables'
-    defaultValue='all'
-    values={[
-        {value:'all', label:'All'},
-        {value:'activity', label:'Activity'},
-        {value:'animism', label:'Animism'},
-        {value:'combat', label:'Combat'},
-        {value:'communion', label:'Communion'},
-        {value:'crafting', label:'Crafting'},
-        {value:'environment', label:'Environment'},
-        {value:'influence', label:'Influence'},
-        {value:'ki', label:'Ki'},
-        {value:'knowledge', label:'Knowledge'},
-        {value:'psionics', label:'Psionics'},
-        {value:'sorcery', label:'Sorcery'},
-        {value:'superpowers', label:'Superpowers'},
-        {value:'wizardry', label:'Wizardry'},
-    ]}>
+groupId='tables'
+queryString='tables'
+defaultValue='all'
+values={[
+{value:'all', label:'All'},
+{value:'activity', label:'Activity'},
+{value:'animism', label:'Animism'},
+{value:'combat', label:'Combat'},
+{value:'communion', label:'Communion'},
+{value:'crafting', label:'Crafting'},
+{value:'environment', label:'Environment'},
+{value:'influence', label:'Influence'},
+{value:'ki', label:'Ki'},
+{value:'knowledge', label:'Knowledge'},
+{value:'psionics', label:'Psionics'},
+{value:'sorcery', label:'Sorcery'},
+{value:'superpowers', label:'Superpowers'},
+{value:'wizardry', label:'Wizardry'},
+]}>
 
 <TabItem value='all'>
     <YAMLTable
