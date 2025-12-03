@@ -1,3 +1,5 @@
+import reactStringReplace from 'react-string-replace';
+import { allFeatureNamesRegex } from './tables';
 import tableDataDefault from "./YAMLTable.yml";
 const headersDefault = ["Name", "Description"]
 const valuesDefault = ["name", "desc"]
@@ -87,11 +89,36 @@ function YAMLTableRow({tableData, values, align, filters, sort}) {
     return (
         filteredData.sort(sortRule(sort)).map(data => (
             <tr>
-                {values.map(value => (
-                    Array.isArray(data[`${value}`])
-                        ? <td style={{"text-align": align[values.indexOf(value)], "white-space": "pre"}}>{data[`${value}`].join(", ")}</td>
-                        : <td style={{"text-align": align[values.indexOf(value)], "white-space": "pre"}}>{data[`${value}`]}</td>
-                ))}
+                {values.map((value) => {
+                    const displayValue = Array.isArray(data[`${value}`])
+                        ? data[`${value}`].join(", ")
+                        : data[`${value}`];
+                    return (
+                        <td
+                            style={{
+                                "text-align": align[values.indexOf(value)],
+                                "white-space": "pre-wrap",
+                            }}
+                        >
+                            {value === "desc" || value === "body"
+                                ? reactStringReplace(
+                                        displayValue,
+                                        allFeatureNamesRegex,
+                                        (match, i) =>
+                                            match.toLowerCase() !==
+                                                data["name"].toLowerCase() &&
+                                            match !== "driving" ? (
+                                                <Tooltip key={i} name={match}>
+                                                    {match}
+                                                </Tooltip>
+                                            ) : (
+                                                match
+                                            )
+                                )
+                                : displayValue}
+                        </td>
+                    );
+                })}
             </tr>
         ))
     );

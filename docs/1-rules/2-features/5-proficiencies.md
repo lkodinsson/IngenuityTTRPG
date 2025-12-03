@@ -7,6 +7,8 @@ import TabItem from '@theme/TabItem';
 import YAMLTable from '@site/src/components/YAMLTable';
 import tableData from '@site/src/components/tables/proficiencies.yml';
 
+Druids have proficiencies like <Tooltip name="cultivation" link="/" />
+
 ##### Table: Proficiencies
 
 <Tabs

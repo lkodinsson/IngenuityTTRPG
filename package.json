@@ -21,7 +21,9 @@
     "docusaurus-lunr-search": "^3.6.0",
     "prism-react-renderer": "^2.3.0",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "react-string-replace": "^1.1.1",
+    "react-tooltip": "^5.30.0"
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "3.9.2",
