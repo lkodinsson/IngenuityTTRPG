@@ -1,9 +1,9 @@
-katlatze:
-  name: Katlatze
+shaymakesart:
+  name: Shay
   title: Ingenuity Artist
-  image_url: https://github.com/katlatze.png
+  image_url: https://github.com/shaymakesart.png
   page:
-    permalink: '/all-katlatze-posts'
+    permalink: '/all-shaymakesart-posts'
 
 lkodinsson:
   name: Loki Karolius Odinsson

@@ -1,7 +1,7 @@
 ---
 #slug: first-update
 title: First Update
-authors: [katlatze, lkodinsson]
+authors: [shaymakesart, lkodinsson]
 tags: [updates]
 ---
 

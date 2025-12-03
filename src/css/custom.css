@@ -102,3 +102,7 @@ html[data-theme='dark'] .navbar__title {
 }
 somehow add better centering for this when larger than 32x32  
 */
+
+.tabs[role="tablist"] {
+  flex-wrap: wrap;
+}

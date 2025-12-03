@@ -1,5 +1,5 @@
 ---
-title: Reference
+title: Features
 ---
 
 import DocCardList from '@theme/DocCardList';

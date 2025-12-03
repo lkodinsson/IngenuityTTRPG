@@ -1,0 +1,358 @@
+- name: Alchemy
+  type: Crafting
+  desc: Craft potions and transmute materials
+
+- name: Aristocrat
+  type: Influence
+  desc: Politically involved or connected
+
+- name: Armoursmith
+  type: Crafting
+  desc: Craft metal and other rigid material armours
+
+- name: Cooking
+  type: Activity
+  desc: Preparing all kinds of meals
+
+- name: Deduction
+  type: Activity
+  desc: Discovering clues or information using logic and reason
+
+- name: Explosives
+  type: Crafting
+  desc: Craft bombs, firecrackers, and other combustibles
+
+- name: Fletching
+  type: Crafting
+  desc: Craft non-gun projectile weapons and ammunition
+
+- name: Forgery
+  type: Crafting
+  desc: Craft duplicates of documents, identification, and similar items
+
+- name: Gangland
+  type: Influence
+  desc: Connected to high-level organized crime
+
+- name: Gunsmith
+  type: Crafting
+  desc: Craft guns and their ammunition
+
+- name: Hacking
+  type: Activity
+  desc: Using computers to access devices and collect hidden information
+
+- name: Heal
+  type: Activity
+  desc: Examine health status and apply medical treatments and procedures
+
+- name: Jewelling
+  type: Crafting
+  desc: Craft rings, amulets, bracelets, and other adornments
+
+- name: Medicine
+  type: Crafting
+  desc: Craft medicines, ointments, and bandages
+
+- name: Nobility
+  type: Influence
+  desc: Have a royal position or bloodline
+
+- name: Ordinary
+  type: Influence
+  desc: In touch with mainstream culture
+
+- name: Outsider
+  type: Influence
+  desc: Disconnected from regular society
+
+- name: Patron
+  type: Influence
+  desc: Wealthy or connected to wealth
+
+- name: Sabotage
+  type: Activity
+  desc: Picking locks and disabling mechanical devices
+
+- name: Savage
+  type: Influence
+  desc: From a lesser known remote culture
+
+- name: Search
+  type: Activity
+  desc: Finding hidden objects or creatures # Also increases passive perception?
+
+- name: Sleight
+  type: Activity
+  desc: Concealing objects, picking pockets, cheating at games
+
+- name: Stealth
+  type: Activity
+  desc: Ability to hide and avoid detection
+
+- name: Streetwise
+  type: Influence
+  desc: Connected to low-level petty crime
+
+- name: Tailoring
+  type: Crafting
+  desc: Craft textiles including cloth and leather armours and materials
+
+- name: Tinkering
+  type: Crafting
+  desc: Craft mechanisms, gadgets, and traps, as well as examining and modifying machinery
+
+- name: Tracking
+  type: Activity
+  desc: Examining evidence to track a creature or its behaviours
+
+- name: Weaponsmith
+  type: Crafting
+  desc: Craft melee and throwing weapons
+
+- name: Wetlands
+  type: Environment
+  desc: Swamps, marshes, or any area covered in waterlogged land
+
+- name: Writing
+  type: Crafting
+  desc: Craft books, scrolls, and other written documents
+
+# Shay edits under this line
+
+- name: Woodlands
+  type: Environment
+  desc: Temperate areas covered with trees
+
+- name: Jungle
+  type: Environment
+  desc: Tropical areas filled with dense forest and thick vegetation
+
+- name: Coastal
+  type: Environment
+  desc: Oceans and seas, and the lands bordering them
+
+- name: Freshwater
+  type: Environment
+  desc: Inland bodies of water including lakes, rivers, and springs
+
+- name: Climbing
+  type: Activity
+  desc: Ascending steep walls or cliffs
+
+- name: Convince
+  type: Activity
+  desc: Influencing others to think or act a certain way using logic
+
+- name: Disguise
+  type: Activity
+  desc: Altering one's appearance to conceal one's identity
+
+- name: Dodge
+  type: Activity
+  desc: Defending by evading attacks and directed effects
+
+- name: Driving
+  type: Activity
+  desc: Operating motorized vehicles
+
+- name: Fortitude
+  type: Activity
+  desc: Defending by bracing oneself against physical effects and conditions
+
+- name: Intimidate
+  type: Activity
+  desc: Influencing others to think or act a certain way by threatening them
+
+- name: Jumping
+  type: Activity
+  desc: Leaping vertically or across a distance
+
+- name: Lifting
+  type: Activity
+  desc: Carrying and moving heavy objects
+
+- name: Persuade
+  type: Activity
+  desc: Influencing others to think or act a certain way using emotions
+
+- name: Resistance
+  type: Activity
+  desc: Defending by resisting mental effects and conditions
+
+- name: Riding
+  type: Activity
+  desc: Maneuvering a beast while sitting on its back
+
+- name: Running
+  type: Activity
+  desc: Traveling on foot at a fast pace
+
+- name: Swimming
+  type: Activity
+  desc: Propelling oneself through water
+
+- name: Boreal
+  type: Environment
+  desc: Exceptionally cold areas typically covered in large amounts of snow or ice
+
+- name: Desert
+  type: Environment
+  desc: Large dry areas containing sparse amounts of vegetation and high temperatures
+
+- name: Grasslands
+  type: Environment
+  desc: Large, generally flat areas containing primarily grass or brush
+
+- name: Iron Jungle
+  type: Environment
+  desc: Any area constructed from artificial means (especially metal) with zero visible natural features
+
+- name: Rural
+  type: Environment
+  desc: The countryside, sometimes with rolling hills, typical containing small civilized populations
+
+- name: Mountains
+  type: Environment
+  desc: Rough and rocky areas elevated above the surroundings
+
+- name: Subterranean
+  type: Environment
+  desc: Caves, caverns, tunnels, or any area primarily found underground
+
+- name: Urban
+  type: Environment
+  desc: Areas containing cities or highly populated areas
+
+# Skill proficiencies
+
+- name: Archery
+  type: Combat
+  desc: Slow moving projectile weapons such as bows and throwing weapons
+  
+- name: Finesse
+  type: Combat
+  desc: Small or precise weapons designed to find openings and weak spots
+
+- name: Firearms
+  type: Combat
+  desc: Fast moving projectile weapons that are highly deadly
+
+- name: Martial
+  type: Combat
+  desc: Heavy or broad weapons that strike for consistent damage
+
+- name: Unarmed
+  type: Combat
+  desc: Weaponless combat leveraging the body to deal damage and is often nonlethal
+
+- name: Balance
+  type: Animism
+  desc: The balance between life and death as the duality of nature
+  body: Life and death are two sides of the same coin. Those that seek to control one or the other misrepresent the duality of nature. It is only by recognizing this balance that you can see nature as it truly is.
+
+- name: Cultivation
+  type: Animism
+  desc: Life and its flourishings as the core driving force of nature
+  body: Nature is the universal machine to which all existing things are cogs. This machine cannot exist without its pieces holding it together. It is your mission to maintain all things that exist to satisfy the universal machine.
+
+- name: Entropy
+  type: Animism
+  desc: Recognition of the inevitable end as the driving force of nature
+  body: All things must come to an end; this is the mantra of entropy. You are an agent that represents this notion. Although you do not seek to destroy without cause, you will not hesitate to fulfil the inevitable truth.
+
+# Environment
+# | Aquatic | Any area containing large bodies of water without land like an ocean or sea |
+# | Archipelago | Areas containing lots of small islands with diverse wildlife |
+# | Coastal | Areas next to a body of water, typically connecting to an ocean, sea, lake, river, or beach |
+
+# Knowledge
+# | Anatomy |  |
+# | Anthropology |  |
+# | Archaeology |  |
+# | Archival |  |
+# | Astronomy |  |
+# | Astrophysics |  |
+# | Automatology |  |
+# | Biology |  |
+# | Biotechnology |  |
+# | Botany |  |
+# | Calculus |  |
+# | Cartography |  |
+# | Chemistry |  |
+# | Computers |  |
+# | Criminology |  |
+# | Cryptography |  |
+# | Cybernetics |  |
+# | Ecology |  |
+# | Electrodynamics |  |
+# | Electronics |  |
+# | Folklore |  |
+# | Forensics |  |
+# | Genetics |  |
+# | Geography |  |
+# | Geometry |  |
+# | Harmonics |  |
+# | Horticulture |  |
+# | Hydrology |  |
+# | Immunology |  |
+# | Insectology |  |
+# | Kinematics |  |
+# | Linguistics |  |
+# | Logic |  |
+# | Mathematics |  |
+# | Metallurgy |  |
+# | Metaphysics |  |
+# | Meteorology |  |
+# | Mineralogy |  |
+# | Mycology |  |
+# | Mythology |  |
+# | Navigation |  |
+# | Neuroscience |  |
+# | Oceanology |  |
+# | Optics |  |
+# | Pathology |  |
+# | Petrology |  |
+# | Philosophy |  |
+# | Physics |  |
+# | Politics |  |
+# | Programming |  |
+# | Psychology |  |
+# | Robotics |  |
+# | Taxonomy |  |
+# | Thermodynamics |  |
+# | Toxicology |  |
+# | Virology |  |
+# | Zoology |  |
+
+# Occupation (for reference)
+# Architect
+# Baker
+# Barrister
+# Brewer
+# Butcher
+# Clerk
+# Cook
+# Courtesan
+# Driver
+# Engineer
+# Farmer
+# Fisherman
+# Gambler
+# Gardener
+# Herbalist
+# Innkeeper
+# Librarian
+# Merchant
+# Midwife
+# Miller
+# Miner
+# Porter
+# Sailor
+# Scribe
+# Shepherd
+# Soldier
+# Stable Master
+# Tanner
+# Trapper
+# Woodcutter

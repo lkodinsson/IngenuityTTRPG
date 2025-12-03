@@ -1,0 +1,44 @@
+- name: Bleeding
+  desc: Taking physical damage over time
+
+- name: Blinded
+  desc: Provides disadvantage to all actions that require a target
+
+- name: Bloodied
+  desc: The character has taken damage to their health
+
+- name: Burning
+  desc: Taking fire damage over time
+
+- name: Cover
+  desc: Hiding behind cover. Provides disadvantage to ranged attackers
+
+- name: Crippled
+  desc: Movement speed reduced by half
+
+- name: Encumbered
+  desc: Disadvantage to use strength and dexterity, halved movement speed
+
+- name: Harmed
+  desc: The character has lost at least half of their endurance
+
+- name: Incapacitated
+  desc: Unable to take any actions
+
+- name: Poison
+  desc: Losing health over time
+
+- name: Prone
+  desc: On the ground. Provides disadvantage to ranged attackers, advantage to melee attackers, and advantage to stealth
+
+- name: Sickness
+  desc: Gives a penalty to all tests, can cause loss of health
+
+- name: Stunned
+  desc: Lose an action at the start of next turn. Interrupts actions and breaks concentration
+
+- name: Unconscious
+  desc: Become prone. Incapacitated while unconscious
+
+#| Overencumbered | Like encumbered, but cannot move |
+# Harmed -> Exhausted, Weary, Wounded ?
