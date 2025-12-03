@@ -5,6 +5,7 @@ title: Conditions
 Occasionally characters suffer effects from attacks, traps, or special abilities. These types of effects are called *conditions*.
 
 ##### Table: Conditions
+
 ```mdx-code-block
 import YAMLTable from '@site/src/components/YAMLTable';
 import tableData from '@site/src/components/tables/conditions.yml';

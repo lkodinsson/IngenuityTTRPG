@@ -1,42 +1,42 @@
 - name: First
-  tags: [ tag1, tag2 ]
+  tags: [tag1, tag2]
   summary: Short description for tooltips. Optional.
   desc: |
-    Long detailed description.
-    Intended to have multiple lines.
-    Has tags: tag1, tag2
+      Long detailed description.
+      Intended to have multiple lines.
+      Has tags: tag1, tag2
 
 - name: Second
-  tags: [ tag2, tag3 ]
+  tags: [tag2, tag3]
   desc: |
-    Long detailed description.
-    Intended to have multiple lines.
-    Has tags: tag2, tag3
+      Long detailed description.
+      Intended to have multiple lines.
+      Has tags: tag2, tag3
 
 - name: Third
-  tags: [ tag3, tag4 ]
+  tags: [tag3, tag4]
   desc: |
-    Long detailed description.
-    Intended to have multiple lines.
-    Has tags: tag3, tag4
+      Long detailed description.
+      Intended to have multiple lines.
+      Has tags: tag3, tag4
 
 - name: Fourth
-  tags: [ tag4, tag5 ]
+  tags: [tag4, tag5]
   desc: |
-    Long detailed description.
-    Intended to have multiple lines.
-    Has tags: tag4, tag5
+      Long detailed description.
+      Intended to have multiple lines.
+      Has tags: tag4, tag5
 
 - name: Fifth
-  tags: [ tag5, tag6 ]
+  tags: [tag5, tag6]
   desc: |
-    Long detailed description.
-    Intended to have multiple lines.
-    Has tags: tag5, tag6
+      Long detailed description.
+      Intended to have multiple lines.
+      Has tags: tag5, tag6
 
 - name: First
-  tags: [ tag6, tag7 ]
+  tags: [tag6, tag7]
   desc: |
-    Long detailed description.
-    Intended to have multiple lines.
-    Has tags: tag6, tag7
+      Long detailed description.
+      Intended to have multiple lines.
+      Has tags: tag6, tag7

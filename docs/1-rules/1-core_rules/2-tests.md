@@ -15,6 +15,7 @@ The test results in a value of 8, which the game master determines is enough to 
 :::
 
 ##### Table: Challenge Difficulties
+
 | Difficulty<br/>(Common) | Name | Difficulty<br/>(Rare) | Name |
 |:-:|:-|:-:|:-|
 | - | Trivial | 14 | Demanding |
@@ -59,12 +60,13 @@ If the task has a difficulty of 6 or less, the game master can decide to skip th
 In situations where only one character can perform the task but other characters still want to help, they may instead assist the character performing the task. To do so, they must perform the exact same test using the same attribute, skill, and proficiency (if any). This provides a bonus to that character's test based on the highest threshold that the assisting character's roll meets or exceeds.
 
 ##### Table: Assist Thresholds
-| Threshold | Bonus |
-|:-:|:-:|
-| 4 (Simple) | +1 |
-| 8 (Moderate) | +2 |
-| 12 (Complex) | +3 |
-| 16 (Daunting) | +4 |
+
+|   Threshold   | Bonus |
+| :-----------: | :---: |
+|  4 (Simple)   |  +1   |
+| 8 (Moderate)  |  +2   |
+| 12 (Complex)  |  +3   |
+| 16 (Daunting) |  +4   |
 
 :::info Example
 
@@ -211,7 +213,7 @@ When completing the task is greatly desired, it may be escalated. In this case, 
 
 :::info Example
 
-Priscilla wants to keep climbing the mansion's walls in spite of her lack of ability. She needs to get inside.   
+Priscilla wants to keep climbing the mansion's walls in spite of her lack of ability. She needs to get inside.
 The game master determines that she may keep trying, but with the added risk of falling and receiving injury.
 
 :::

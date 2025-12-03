@@ -13,11 +13,12 @@ Your *archetype* is the core that a character is built from and acts as a starti
 ?
 
 ##### Table: Ancestry Examples
-| Name | Description |
-|:-|:-|
-| Dwarf | ? |
-| Elf | ? |
-| Human | ? |
+
+| Name  | Description |
+| :---- | :---------- |
+| Dwarf | ?           |
+| Elf   | ?           |
+| Human | ?           |
 
 ### Background
 
@@ -34,12 +35,13 @@ Your *archetype* is the core that a character is built from and acts as a starti
 ?
 
 ##### Table: Class Examples
-| Name | Description |
-|:-|:-|
-| Cleric | ? |
-| Fighter | ? |
-| Rogue | ? |
-| Wizard | ? |
+
+| Name    | Description |
+| :------ | :---------- |
+| Cleric  | ?           |
+| Fighter | ?           |
+| Rogue   | ?           |
+| Wizard  | ?           |
 
 :::info Example
 
@@ -64,12 +66,13 @@ Each character will start with two *good* attributes and two *weak* attributes. 
 Each resource is calculated by finding the maximum value of a corresponding attribute.
 
 ##### Table: Resource Calculations
-| Stat | Calculation |
-|:-|:-|
-| Health (HP) | 6 + Maximum STR |
+
+| Stat           | Calculation     |
+| :------------- | :-------------- |
+| Health (HP)    | 6 + Maximum STR |
 | Endurance (ED) | 6 + Maximum RES |
-| Stamina (ST) | 6 + Maximum DEX |
-| Focus (FC) | 6 + Maximum INT |
+| Stamina (ST)   | 6 + Maximum DEX |
+| Focus (FC)     | 6 + Maximum INT |
 
 <!--
 Alternatively:
@@ -88,11 +91,12 @@ FC = Max INT + Max INS
 Additionally, each class starts with one of three *talents* that increases a resource.
 
 ##### Table: Resource Talent Bonus
-| Talent | Bonus |
-|:-|:-|
-| Toughness (+4) | +4 Endurance |
-| Longevity (+4) | +4 Stamina |
-| Mindfulness (+4) | +4 Focus |
+
+| Talent           | Bonus        |
+| :--------------- | :----------- |
+| Toughness (+4)   | +4 Endurance |
+| Longevity (+4)   | +4 Stamina   |
+| Mindfulness (+4) | +4 Focus     |
 
 :::info Example
 
@@ -105,11 +109,12 @@ Additionally, each class starts with one of three *talents* that increases a res
 Each defence stat is a combination of your *passive resolve* and another attribute's passive value. As a reminder, the passive value of a stat is equal to half of its maximum roll.
 
 ##### Table: Defence Calculations
-| Stat | Calculation |
-|:-|:-|
+
+| Stat               | Calculation               |
+| :----------------- | :------------------------ |
 | Constitution (CON) | Passive RES + Passive STR |
-| Evasion (EVA) | Passive RES + Passive DEX |
-| Willpower (WILL) | Passive RES + Passive INT |
+| Evasion (EVA)      | Passive RES + Passive DEX |
+| Willpower (WILL)   | Passive RES + Passive INT |
 
 :::info Example
 
@@ -186,10 +191,11 @@ When a character's ambition has been fulfilled it is usually replaced with a new
 ?
 
 ##### Table: Item Slots Calculations
-| Stat | Calculation |
-|:-|:-|
-| Encumbrance (ENC) | Hands + Size + Passive Strength |
-| Capacity (CAP) | Encumbrance + Passive Athletics + Lifting Proficiency |
+
+| Stat              | Calculation                                           |
+| :---------------- | :---------------------------------------------------- |
+| Encumbrance (ENC) | Hands + Size + Passive Strength                       |
+| Capacity (CAP)    | Encumbrance + Passive Athletics + Lifting Proficiency |
 
 :::info Example
 
@@ -206,9 +212,10 @@ When a character's ambition has been fulfilled it is usually replaced with a new
 ?
 
 ##### Table: Armour Defence Calculations
-| Stat | Calculation |
-|:-|:-|
-| Physical Defense (P.DEF) | Passive RES + Armour Rating (AR) |
+
+| Stat                      | Calculation                      |
+| :------------------------ | :------------------------------- |
+| Physical Defense (P.DEF)  | Passive RES + Armour Rating (AR) |
 | Elemental Defense (E.DEF) | Passive INT + Armour Rating (AR) |
 
 :::info Example

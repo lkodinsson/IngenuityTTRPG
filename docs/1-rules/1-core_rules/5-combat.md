@@ -88,6 +88,7 @@ After the surprise round, normal rounds begin and each team takes their turns as
 Each turn in combat, characters may take *three actions*. Since each round is considered to represent *six seconds* of time passing, each action represents *two seconds*. By default, any action you can take during a turn is considered to take *one action* unless otherwise specified. Some actions will also specify if they require you to spend additional resources like *stamina* or *focus*.
 
 ##### Table: Actions
+
 | Name | Description |
 |:-|:-|
 | Attack | Make an attack against a target with an item or weapon |
@@ -107,6 +108,7 @@ Each turn in combat, characters may take *three actions*. Since each round is co
 During each *round*, characters may also take up to *one reaction*. Reactions can be taken on any character's turn and are recovered at the start of each turn.
 
 ##### Table: Reactions
+
 | Name | Description |
 |:-|:-|
 | Block | Spend 1 stamina to use a shield to redirect incoming damage |
@@ -132,6 +134,7 @@ Actions that are longer than a single turn (more than six seconds or three actio
 Some actions may also be *free actions* or *free reactions*, which do not count against your action and reaction limit per turn.
 
 ##### Table: Free Actions
+
 | Name | Description |
 |:-|:-|
 | Drop Item | Drop any held item onto the ground |
@@ -161,7 +164,6 @@ She rolls 2d6+1, resulting in a 6. The enemy has an evasion of 6, so she *just* 
 :::
 
 The amount of damage dealt by an attack that hits is equal to the result of your test plus the weapon's damage. This damage is then reduced by the target's matching *damage reduction* to a minimum of 1. Damage is first dealt to the target's endurance, with any excess damage being dealt to the target's health.
-
 
 :::info Example
 
@@ -270,6 +272,7 @@ If an item does not have a listed durability and it is made of metal, it has a d
 When a character is hit by an attack, a trap, or by any means, they will usually take *damage*. Damage is separated into multiple categories such as *physical*, *elemental*, and *typeless* damage. Most sources of damage will deal either physical or elemental damage. If a type is not specified, then it can be considered typeless damage. Normally, only physical and elemental damage can be reduced by *deflection*.
 
 ##### Table: Damage Types
+
 | Name &emsp;&emsp;&emsp; | Type | Name &emsp;&emsp;&emsp; | Type |
 |:-|:-|:-|:-|
 | Arcane | Elemental | Psychic | Typeless |

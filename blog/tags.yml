@@ -1,11 +1,11 @@
 community:
-  label: Community
+    label: Community
 
 content:
-  label: Content
+    label: Content
 
 design:
-  label: Game Design
+    label: Game Design
 
 updates:
-  label: Updates
+    label: Updates

@@ -229,7 +229,7 @@
 - name: Archery
   type: Combat
   desc: Slow moving projectile weapons such as bows and throwing weapons
-  
+
 - name: Finesse
   type: Combat
   desc: Small or precise weapons designed to find openings and weak spots
@@ -260,7 +260,6 @@
   type: Animism
   desc: Recognition of the inevitable end as the driving force of nature
   body: All things must come to an end; this is the mantra of entropy. You are an agent that represents this notion. Although you do not seek to destroy without cause, you will not hesitate to fulfil the inevitable truth.
-
 # Environment
 # | Aquatic | Any area containing large bodies of water without land like an ocean or sea |
 # | Archipelago | Areas containing lots of small islands with diverse wildlife |

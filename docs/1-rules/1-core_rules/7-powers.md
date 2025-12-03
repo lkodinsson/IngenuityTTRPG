@@ -5,6 +5,7 @@ title: Powers
 Powers are associated with *supernatural skills*, require spending a resource like *stamina* or *focus*, and must be individually learned before they can be used. They can only be learned by characters with both a matching skill *and* proficiency. Powers are separated into *tiers* and each tier requires a specific rank of a skill and proficiency before they can be learned.
 
 ##### Table: Power Tiers
+
 | Tier | Name | Skill | Proficiency |
 |:-:|:-:|:-:|:-:|
 | 1 | Basic | d6 | +1 |
@@ -47,6 +48,7 @@ All manuevers require a test to determine the degree of their effect and many of
 The type of resource used is determined by the skill providing the power, while the amount of that resource is determined by the power's tier. In order to successfully use a power, the test made to use them must also beat a difficulty based on their tier.
 
 ##### Table: Power Tiers
+
 | Tier | Name | Cost | Difficulty |
 |:-:|:-:|:-:|:-:|
 | 1 | Basic | 1 | 4 (Simple) |
