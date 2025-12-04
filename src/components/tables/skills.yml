@@ -1,0 +1,81 @@
+# Mundane Skills
+
+- name: Agility
+  alias: AGI
+  type: Mundane
+  desc: Activities that require speed, precision, and balance
+
+- name: Athletics
+  alias: ATH
+  type: Mundane
+  desc: Activities that require stability, hardiness, and brute force
+
+- name: Charisma
+  alias: CHA
+  type: Mundane
+  desc: All forms of social interaction, inspiration, and manipulation
+
+- name: Combat
+  alias: CMB
+  type: Mundane
+  desc: Attacking enemies with the body or weaponry
+
+- name: Craft
+  alias: CRA
+  type: Mundane
+  desc: Creating or modifying objects, tools, items, gadgets, and mechanisms
+
+- name: Handling
+  alias: HAN
+  type: Mundane
+  desc: Using the hands to perform precise, subtle, or mechanical activities
+
+- name: Insight
+  alias: INS
+  type: Mundane
+  desc: Recalling knowledge or creating new information from circumstance
+
+- name: Networking
+  alias: NET
+  type: Mundane
+  desc: Navigating social networks to find people and their connections
+
+- name: Perception
+  alias: PER
+  type: Mundane
+  desc: Discovering things and information in the environment using the senses
+
+- name: Taming
+  alias: TAM
+  type: Mundane
+  desc: Communicating with animals and beasts using body language and intent
+
+# Supernatural Skills
+
+- name: Animism
+  type: Supernatural
+  desc: Magic utilizing the forces of nature
+
+- name: Communion
+  type: Supernatural
+  desc: Magic derived from the powers of another entity
+
+- name: Ki
+  type: Supernatural
+  desc: Nonmagic released by manipulating one's own auras
+
+- name: Psionics
+  type: Supernatural
+  desc: Nonmagic projected from within the mind
+
+- name: Sorcery
+  type: Supernatural
+  desc: Magic created from within oneself
+
+- name: Superpowers
+  type: Supernatural
+  desc: Nonmagic extending the limits of the body
+
+- name: Wizardry
+  type: Supernatural
+  desc: Magic mastered through careful study

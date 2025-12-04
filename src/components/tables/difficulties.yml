@@ -1,0 +1,59 @@
+- name: Trivial
+  diff: "-"
+  desc: "A task with no difficulty"
+  body: []
+
+- name: Simple
+  diff: 4
+  desc: "Difficulty: 4, Examples:"
+  body: []
+
+- name: Standard
+  diff: 6
+  desc: "Difficulty: 6, Examples:"
+  body: []
+
+- name: Moderate
+  diff: 8
+  desc: "Difficulty: 8, Examples:"
+  body: []
+
+- name: Challenging
+  diff: 10
+  desc: "Difficulty: 10, Examples:"
+  body: []
+
+- name: Complex
+  diff: 12
+  desc: "Difficulty: 12, Examples:"
+  body: []
+
+- name: Demanding
+  diff: 14
+  desc: "Difficulty: 14, Examples:"
+  body: []
+
+- name: Daunting
+  diff: 16
+  desc: "Difficulty: 16, Examples:"
+  body: []
+
+- name: Arduous
+  diff: 18
+  desc: "Difficulty: 18, Examples:"
+  body: []
+
+- name: Ambitious
+  diff: 20
+  desc: "Difficulty: 20, Examples:"
+  body: []
+
+- name: Absurd
+  diff: 22
+  desc: "Difficulty: 22, Examples:"
+  body: []
+
+- name: Improbable
+  diff: 24
+  desc: "Difficulty: 24, Examples:"
+  body: []

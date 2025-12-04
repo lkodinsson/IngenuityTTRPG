@@ -1,14 +1,16 @@
-- name: Alchemy
-  type: Crafting
-  desc: Craft potions and transmute materials
+#            #
+# < NORMAL > #
+#            #
 
-- name: Aristocrat
-  type: Influence
-  desc: Politically involved or connected
+# Activitiy
 
-- name: Armoursmith
-  type: Crafting
-  desc: Craft metal and other rigid material armours
+- name: Climbing
+  type: Activity
+  desc: Ascending steep walls or cliffs, tiny
+
+- name: Convince
+  type: Activity
+  desc: Influencing others to think or act a certain way using logic
 
 - name: Cooking
   type: Activity
@@ -17,132 +19,6 @@
 - name: Deduction
   type: Activity
   desc: Discovering clues or information using logic and reason
-
-- name: Explosives
-  type: Crafting
-  desc: Craft bombs, firecrackers, and other combustibles
-
-- name: Fletching
-  type: Crafting
-  desc: Craft non-gun projectile weapons and ammunition
-
-- name: Forgery
-  type: Crafting
-  desc: Craft duplicates of documents, identification, and similar items
-
-- name: Gangland
-  type: Influence
-  desc: Connected to high-level organized crime
-
-- name: Gunsmith
-  type: Crafting
-  desc: Craft guns and their ammunition
-
-- name: Hacking
-  type: Activity
-  desc: Using computers to access devices and collect hidden information
-
-- name: Heal
-  type: Activity
-  desc: Examine health status and apply medical treatments and procedures
-
-- name: Jewelling
-  type: Crafting
-  desc: Craft rings, amulets, bracelets, and other adornments
-
-- name: Medicine
-  type: Crafting
-  desc: Craft medicines, ointments, and bandages
-
-- name: Nobility
-  type: Influence
-  desc: Have a royal position or bloodline
-
-- name: Ordinary
-  type: Influence
-  desc: In touch with mainstream culture
-
-- name: Outsider
-  type: Influence
-  desc: Disconnected from regular society
-
-- name: Patron
-  type: Influence
-  desc: Wealthy or connected to wealth
-
-- name: Sabotage
-  type: Activity
-  desc: Picking locks and disabling mechanical devices
-
-- name: Savage
-  type: Influence
-  desc: From a lesser known remote culture
-
-- name: Search
-  type: Activity
-  desc: Finding hidden objects or creatures # Also increases passive perception?
-
-- name: Sleight
-  type: Activity
-  desc: Concealing objects, picking pockets, cheating at games
-
-- name: Stealth
-  type: Activity
-  desc: Ability to hide and avoid detection
-
-- name: Streetwise
-  type: Influence
-  desc: Connected to low-level petty crime
-
-- name: Tailoring
-  type: Crafting
-  desc: Craft textiles including cloth and leather armours and materials
-
-- name: Tinkering
-  type: Crafting
-  desc: Craft mechanisms, gadgets, and traps, as well as examining and modifying machinery
-
-- name: Tracking
-  type: Activity
-  desc: Examining evidence to track a creature or its behaviours
-
-- name: Weaponsmith
-  type: Crafting
-  desc: Craft melee and throwing weapons
-
-- name: Wetlands
-  type: Environment
-  desc: Swamps, marshes, or any area covered in waterlogged land
-
-- name: Writing
-  type: Crafting
-  desc: Craft books, scrolls, and other written documents
-
-# Shay edits under this line
-
-- name: Woodlands
-  type: Environment
-  desc: Temperate areas covered with trees
-
-- name: Jungle
-  type: Environment
-  desc: Tropical areas filled with dense forest and thick vegetation
-
-- name: Coastal
-  type: Environment
-  desc: Oceans and seas, and the lands bordering them
-
-- name: Freshwater
-  type: Environment
-  desc: Inland bodies of water including lakes, rivers, and springs
-
-- name: Climbing
-  type: Activity
-  desc: Ascending steep walls or cliffs
-
-- name: Convince
-  type: Activity
-  desc: Influencing others to think or act a certain way using logic
 
 - name: Disguise
   type: Activity
@@ -154,11 +30,19 @@
 
 - name: Driving
   type: Activity
-  desc: Operating motorized vehicles
+  desc: Operating motorized land vehicles
 
 - name: Fortitude
   type: Activity
   desc: Defending by bracing oneself against physical effects and conditions
+
+- name: Hacking
+  type: Activity
+  desc: Using computers to access devices and collect hidden information
+
+- name: Healing
+  type: Activity
+  desc: Examine health status and apply medical treatments and procedures
 
 - name: Intimidate
   type: Activity
@@ -176,6 +60,10 @@
   type: Activity
   desc: Influencing others to think or act a certain way using emotions
 
+- name: Piloting
+  type: Activity
+  desc: Operating aerial vehicles
+
 - name: Resistance
   type: Activity
   desc: Defending by resisting mental effects and conditions
@@ -188,33 +76,129 @@
   type: Activity
   desc: Traveling on foot at a fast pace
 
+- name: Sabotage
+  type: Activity
+  desc: Picking locks and disabling mechanical devices
+
+- name: Seafaring
+  type: Activity
+  desc: Maintenance and operation of a waterbound vessel
+
+- name: Search
+  type: Activity
+  desc: Finding hidden objects or creatures # Also increases passive perception?
+
+- name: Sleight
+  type: Activity
+  desc: Concealing objects, picking pockets, cheating at games
+
+- name: Stealth
+  type: Activity
+  desc: Ability to hide and avoid detection
+
+- name: Survival
+  type: Activity
+  desc: Resource management and wilderness navigation
+
 - name: Swimming
   type: Activity
   desc: Propelling oneself through water
 
+- name: Tracking
+  type: Activity
+  desc: Examining evidence to track a creature or its behaviours
+
+# Crafting
+
+- name: Alchemy
+  type: Crafting
+  desc: Craft potions and transmute materials
+
+- name: Armoursmith
+  type: Crafting
+  desc: Craft metal and other rigid material armours
+
+- name: Explosives
+  type: Crafting
+  desc: Craft bombs, firecrackers, and other combustibles
+
+- name: Fletching
+  type: Crafting
+  desc: Craft archery weapons and ammunition
+
+- name: Forgery
+  type: Crafting
+  desc: Craft duplicates of documents, identification, and similar items
+
+- name: Gunsmith
+  type: Crafting
+  desc: Craft guns and their ammunition
+
+- name: Jewelling
+  type: Crafting
+  desc: Craft rings, amulets, bracelets, and other adornments
+
+- name: Medicine
+  type: Crafting
+  desc: Craft medicines, ointments, and bandages
+
+- name: Tailoring
+  type: Crafting
+  desc: Craft textiles including cloth and leather armours and materials
+
+- name: Tinkering
+  type: Crafting
+  desc: Craft mechanisms, gadgets, and traps, as well as examining and modifying machinery
+
+- name: Weaponsmith
+  type: Crafting
+  desc: Craft melee and throwing weapons
+
+- name: Writing
+  type: Crafting
+  desc: Craft books, scrolls, and other written documents
+
+# Environment
+
 - name: Boreal
   type: Environment
-  desc: Exceptionally cold areas typically covered in large amounts of snow or ice
+  desc: Exceptionally cold areas typically covered in vast amounts of snow or ice
+
+- name: Coastal
+  type: Environment
+  desc: Oceans and seas, and the lands bordering them
+
+- name: Deepwater
+  type: Environment
+  desc: []
 
 - name: Desert
   type: Environment
-  desc: Large dry areas containing sparse amounts of vegetation and high temperatures
+  desc: Vast dry areas containing sparse amounts of vegetation and high temperatures
+
+- name: Freshwater
+  type: Environment
+  desc: Inland bodies of water including lakes, rivers, and springs
 
 - name: Grasslands
   type: Environment
-  desc: Large, generally flat areas containing primarily grass or brush
+  desc: Wide and generally flat areas containing primarily grass or brush
 
 - name: Iron Jungle
   type: Environment
   desc: Any area constructed from artificial means (especially metal) with zero visible natural features
 
-- name: Rural
+- name: Jungle
   type: Environment
-  desc: The countryside, sometimes with rolling hills, typical containing small civilized populations
+  desc: Tropical areas filled with dense forest and thick vegetation
 
 - name: Mountains
   type: Environment
   desc: Rough and rocky areas elevated above the surroundings
+
+- name: Rural
+  type: Environment
+  desc: The countryside, sometimes with rolling hills, typically with low population density
 
 - name: Subterranean
   type: Environment
@@ -224,48 +208,54 @@
   type: Environment
   desc: Areas containing cities or highly populated areas
 
-# Skill proficiencies
+- name: Wetlands
+  type: Environment
+  desc: Swamps, marshes, or any area covered in waterlogged land
 
-- name: Archery
-  type: Combat
-  desc: Slow moving projectile weapons such as bows and throwing weapons
+- name: Woodlands
+  type: Environment
+  desc: Temperate areas covered with trees
 
-- name: Finesse
-  type: Combat
-  desc: Small or precise weapons designed to find openings and weak spots
+# Influence
 
-- name: Firearms
-  type: Combat
-  desc: Fast moving projectile weapons that are highly deadly
+- name: Aristocrat
+  type: Influence
+  desc: Politically involved or connected
 
-- name: Martial
-  type: Combat
-  desc: Heavy or broad weapons that strike for consistent damage
+- name: Gangland
+  type: Influence
+  desc: Connected to high-level organized crime
 
-- name: Unarmed
-  type: Combat
-  desc: Weaponless combat leveraging the body to deal damage and is often nonlethal
+- name: Nobility
+  type: Influence
+  desc: Have a royal position or bloodline
 
-- name: Balance
-  type: Animism
-  desc: The balance between life and death as the duality of nature
-  body: Life and death are two sides of the same coin. Those that seek to control one or the other misrepresent the duality of nature. It is only by recognizing this balance that you can see nature as it truly is.
+- name: Ordinary
+  type: Influence
+  desc: In touch with mainstream culture
 
-- name: Cultivation
-  type: Animism
-  desc: Life and its flourishings as the core driving force of nature
-  body: Nature is the universal machine to which all existing things are cogs. This machine cannot exist without its pieces holding it together. It is your mission to maintain all things that exist to satisfy the universal machine.
+- name: Outsider
+  type: Influence
+  desc: Disconnected from regular society
 
-- name: Entropy
-  type: Animism
-  desc: Recognition of the inevitable end as the driving force of nature
-  body: All things must come to an end; this is the mantra of entropy. You are an agent that represents this notion. Although you do not seek to destroy without cause, you will not hesitate to fulfil the inevitable truth.
-# Environment
-# | Aquatic | Any area containing large bodies of water without land like an ocean or sea |
-# | Archipelago | Areas containing lots of small islands with diverse wildlife |
-# | Coastal | Areas next to a body of water, typically connecting to an ocean, sea, lake, river, or beach |
+- name: Patron
+  type: Influence
+  desc: Wealthy or connected to wealth
 
-# Knowledge
+- name: Savage
+  type: Influence
+  desc: From a lesser known remote culture
+
+- name: Streetwise
+  type: Influence
+  desc: Connected to low-level petty crime
+
+# Study
+
+- name: Occult
+  type: Study
+  desc: Knowledge of artifacts, cryptids, folklore, and myths
+
 # | Anatomy |  |
 # | Anthropology |  |
 # | Archaeology |  |
@@ -324,7 +314,220 @@
 # | Virology |  |
 # | Zoology |  |
 
+#            #
+# < SKILLS > #
+#            #
+
+# Combat
+
+- name: Archery
+  type: Combat
+  desc: Slow moving projectile weapons such as bows and slings
+
+- name: Finesse
+  type: Combat
+  desc: Precise weapons designed to find openings and weak spots
+
+- name: Firearms #Artillery/Gunnery, Handguns, Heavy Weapons, Rifles
+  type: Combat
+  desc: Fast moving projectile weapons that are highly deadly
+
+- name: Martial
+  type: Combat
+  desc: Heavy or broad weapons that strike for consistent damage
+
+- name: Throwing
+  type: Combat #[Activity, Combat]
+  desc: Ability to throw weapons or objects with accuracy and speed
+
+- name: Unarmed
+  type: Combat
+  desc: Weaponless combat leveraging the body to deal damage and is often nonlethal
+
+# Animism
+
+- name: Balance
+  type: Animism
+  desc: The balance between life and death as the duality of nature
+  body: Life and death are two sides of the same coin. Those that seek to control one or the other misrepresent the duality of nature. It is only by recognizing this balance that you can see nature as it truly is.
+
+- name: Cultivation
+  type: Animism
+  desc: Life and its flourishings as the core leading force of nature
+  body: Nature is the universal machine to which all existing things are cogs. This machine cannot exist without its pieces holding it together. It is your mission to maintain all things that exist to satisfy the universal machine.
+
+- name: Entropy
+  type: Animism
+  desc: Recognition of the inevitable end as the leading force of nature
+  body: All things must come to an end; this is the mantra of entropy. You are an agent that represents this notion. Although you do not seek to destroy without cause, you will not hesitate to fulfil the inevitable truth.
+
+# Communion
+
+- name: Charity
+  type: Communion
+  axes: [Altruism, Impulse, Liberty]
+  desc: []
+  body: []
+
+- name: Community
+  type: Communion
+  axes: [Altruism, Impulse, Authority]
+  desc: []
+  body: []
+
+- name: Peace
+  type: Communion
+  axes: [Altruism, Discipline, Liberty]
+  desc: []
+  body: []
+
+- name: Service
+  type: Communion
+  axes: [Altruism, Discipline, Authority]
+  desc: []
+  body: []
+
+- name: Anarchy
+  type: Communion
+  axes: [Militarism, Impulse, Liberty]
+  desc: []
+  body: []
+
+- name: Tyranny
+  type: Communion
+  axes: [Militarism, Impulse, Authority]
+  desc: []
+  body: []
+
+- name: Justice
+  type: Communion
+  axes: [Militarism, Discipline, Liberty]
+  desc: []
+  body: []
+
+- name: Order
+  type: Communion
+  axes: [Militarism, Discipline, Authority]
+  desc: []
+  body: []
+
+# Ki
+
+- name: Genki
+  #alias: Vigour
+  type: Ki
+  attr: Strength
+  res: Health
+  desc: []
+  body: Control of the body, mastery of strength. Genki is the spirit of flesh and might. This aura can be utilized to increase your combat potential and push your strength beyond the natural limits one might think is possible.
+
+- name: Kiai
+  #alias: Projection
+  type: Ki
+  attr: Dexterity
+  res: Stamina
+  desc: []
+  body: Kiai is the spirit of your movement and the air you breathe, the air that feeds your body and mind. With the use of this aura your movements will become fast and effortless, the air around you will become an extension of your body.
+
+- name: Shouki
+  #alias: Mind
+  type: Ki
+  attr: Intellect
+  res: Focus
+  desc: []
+  body: Mastery of mind allows you to rely on the power of your thoughts and consciousness rather than the strength of your muscles. Your body will act as a mere vessel holding the extending reach of your mind.
+
+- name: Yuuki
+  #alias: Courage
+  type: Ki
+  attr: Resolve
+  res: Endurance
+  desc: []
+  body: This is the spirit that holds your body and mind together to act as a single force. With the embodiment of courage you need not body nor mind alone to prove yourself.
+
+# Psionics
+
+- name: Telekinesis
+  type: Psionics
+  desc: []
+  body: []
+
+- name: Telepathy
+  type: Psionics
+  desc: []
+  body: []
+
+# Sorcery
+
+- name: Aeromancy
+  type: Sorcery
+  desc: []
+  body: Power over air allows you to control the wind itself. Lifting and moving objects become as easy to you as the wind can carry a leaf or feather. Sound and electricity are also associated with air.
+
+- name: Geomancy
+  type: Sorcery
+  desc: []
+  body: Force and stability are the earth's primary strengths. The element of earth is a true testament to force of will. Additionally, this covers the domain of plants.
+
+- name: Pyromancy
+  type: Sorcery
+  desc: []
+  body: If you try hard enough just about anything can be burned. Strong emotions like anger and love are also aspects of fire. Fire is about passion and intensity.
+
+- name: Hydromancy
+  type: Sorcery
+  desc: []
+  body: Water is about more than just getting things wet; water also represents flow and calming energy. Although sound is generally associated with air, you could say that music is also like water. Cold temperatures are also associated with water.
+
+- name: Luxomancy
+  type: Sorcery
+  desc: []
+  body: While illumination is quite literal, and truth is quite philosophical, they are very similar in nature. Light is about revealing what is hidden.
+
+- name: Umbramancy
+  type: Sorcery
+  desc: []
+  body: As a counter to light, darkness is about concealment. Darkness is not simply evil. Some truths are painful to bear, and darkness would rather hide those truths.
+
+- name: Aethermancy
+  type: Sorcery
+  desc: []
+  body: The power of arcane represents the space between space. Many things that one might describe as blatantly magical are more accurately arcane. Arcane is a powerful force that seems to defy the normal rules that might apply to the other elements.
+
+# Wizardry
+
+- name: Abjuration
+  type: Wizardry
+  desc: []
+  body: Abjurors warp both the effects and perceptions of reality. They can protect against magical effects and create illusions that trick the senses but have no real physical interaction.
+
+- name: Conjuration
+  type: Wizardry
+  desc: []
+  body: Conjurors create interactable and solid imitations of reality, usually with limited permanence. These types of effects are primarily limited to things you can sense (see, hear, touch, taste, and smell).
+
+- name: Divination
+  type: Wizardry
+  desc: []
+  body: Diviners are the types of wizards who like to know things and solve complex problems. Divination can be used to collect information from obscure sources or provide reconnaissance.
+
+- name: Enchantment
+  type: Wizardry
+  desc: []
+  body: Enchanting is the process of using magic to alter how things function or improve how they function. This type of magic can be used on both objects and people and usually results in effects that appear obviously supernatural.
+
+- name: Evocation
+  type: Wizardry
+  desc: []
+  body: Evokers are typically known simply for destruction. However, evocation is also capable of eliciting strong emotions, making it useful for motivating, inspiring, and inciting others.
+
+- name: Transmutation
+  type: Wizardry
+  desc: []
+  body: Transmuters can change one thing into something else or repair what is broken. Transmutation focuses on the alteration of physical things and does not necessarily provide results that one would assume are of a magical nature.
+
 # Occupation (for reference)
+
 # Architect
 # Baker
 # Barrister

@@ -1,0 +1,59 @@
+- name: Miniscule
+  size: 1
+  desc: "Size: 1, Examples:"
+  body: [Crow, Garden Snake, Mouse, Rabbit, Squirrel]
+
+- name: Tiny
+  size: 2
+  desc: "Size: 2, Examples:"
+  body: [Badger, Cat, Eagle, Fox, Raccoon, Viper]
+
+- name: Small
+  size: 3
+  desc: "Size: 3, Examples:"
+  body: [Boa, Boar, Dog, Lynx, Python, Wolf]
+
+- name: Medium
+  size: 4
+  desc: "Size: 4, Examples:"
+  body: [Anaconda, Deer, Human, Sun Bear]
+
+- name: Large
+  size: 5
+  desc: "Size: 5, Examples:"
+  body: [Black Bear, Cheetah, Elk, Leopard, Lion, Panda, Pony, Tiger]
+
+- name: Huge
+  size: 6
+  desc: "Size: 6, Examples:"
+  body: [Cow, Grizzly Bear, Horse, Polar Bear]
+
+- name: Gigantic
+  size: 7
+  desc: "Size: 7, Examples:"
+  body: [Bison, Giraffe, Hippo, Rhino]
+
+- name: Enormous
+  size: 8
+  desc: "Size: 8, Examples:"
+  body: [Elephant, Giant Squid, Titanoboa]
+
+- name: Massive
+  size: 9
+  desc: "Size: 9, Examples:"
+  body: [Dragon]
+
+- name: Tremendous
+  size: 10
+  desc: "Size: 10, Examples:"
+  body: [Megalodon]
+
+- name: Colossal
+  size: 11
+  desc: "Size: 11, Examples:"
+  body: [Kraken]
+
+- name: Titanic
+  size: 12
+  desc: "Size: 12, Examples:"
+  body: [Blue Whale]

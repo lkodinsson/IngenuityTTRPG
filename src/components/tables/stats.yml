@@ -1,0 +1,116 @@
+# Attributes
+
+- name: Strength
+  alias: STR
+  sublink: "#attributes"
+  type: Attribute
+  desc: Physical ability of raw force and durability
+
+- name: Dexterity
+  alias: DEX
+  sublink: "#attributes"
+  type: Attribute
+  desc: Physical ability of speed and accuracy
+
+- name: Intellect
+  alias: INT
+  sublink: "#attributes"
+  type: Attribute
+  desc: Mental ability for discovery and memory
+
+- name: Resolve
+  alias: RES
+  sublink: "#attributes"
+  type: Attribute
+  desc: Mental ability to command and resist
+
+# Resources
+
+- name: Health
+  alias: HP
+  sublink: "#resources"
+  type: Resource
+  desc: For lasting injuries that are difficult to heal
+  body: 6 + Maximum STR
+
+- name: Endurance
+  alias: ED
+  sublink: "#resources"
+  type: Resource
+  desc: For superficial injuries that are easy to heal
+  body: 6 + Maximum RES
+
+- name: Stamina
+  alias: ST
+  sublink: "#resources"
+  type: Resource
+  desc: To use physical special abilities
+  body: 6 + Maximum DEX
+
+- name: Focus
+  alias: FC
+  sublink: "#resources"
+  type: Resource
+  desc: To use mental and social special abilities
+  body: 6 + Maximum INT
+
+- name: Fate
+  sublink: "#resources"
+  type: Resource
+  desc: For influencing circumstance and chance
+
+# Defences
+
+- name: Constitution
+  alias: CON
+  sublink: "#defences"
+  type: Defence
+  desc: Passive ability to shrug off effects that would influence the body
+  body: Passive RES + Passive STR
+
+- name: Reflexes
+  alias: REFL
+  sublink: "#defences"
+  type: Defence
+  desc: Passive ability to avoid attacks and effects targeted at the body
+  body: Passive RES + Passive DEX
+
+- name: Willpower
+  alias: WILL
+  sublink: "#defences"
+  type: Defence
+  desc: Passive ability to ignore effects that would influence the mind
+  body: Passive RES + Passive INT
+
+- name: Deflection
+  alias: DEF
+  sublink: "#defences"
+  type: Defence
+  desc: Passive ability to reduce the amount of damage the body takes
+
+# Other Stats
+
+- name: Size
+  alias: SZ
+  sublink: "#other-stats"
+  type: Other
+  desc: Physical space that the body requires
+
+- name: Speed
+  alias: SPD
+  sublink: "#other-stats"
+  type: Other
+  desc: Distance the character can move over a short time
+  body: Size + Passive DEX + Passive AGI + Running
+
+- name: Encumbrance
+  alias: ENC
+  sublink: "#other-stats"
+  type: Other
+  desc: Amount of items that can be carried easily
+
+- name: Capacity
+  alias: CAP
+  sublink: "#other-stats"
+  type: Other
+  desc: Maximum number of items that can be carried

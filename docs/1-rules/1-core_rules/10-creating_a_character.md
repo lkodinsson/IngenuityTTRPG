@@ -2,6 +2,8 @@
 title: Creating a Character
 ---
 
+import statsTable from "@site/src/components/tables/stats.yml";
+
 The process of creating a character is a series of small steps, with each step building a distinct part of your character. No randomization is required during this process<!--, except as an [optional rule](/rules/extended_rules/randomized_characters)-->.
 
 ## Archetype
@@ -67,12 +69,15 @@ Each resource is calculated by finding the maximum value of a corresponding attr
 
 ##### Table: Resource Calculations
 
-| Stat           | Calculation     |
-| :------------- | :-------------- |
-| Health (HP)    | 6 + Maximum STR |
-| Endurance (ED) | 6 + Maximum RES |
-| Stamina (ST)   | 6 + Maximum DEX |
-| Focus (FC)     | 6 + Maximum INT |
+<YAMLTable
+    tableData={statsTable}
+    headers={["Stat","Calculation"]}
+    values={["name","body"]}
+    filters={{
+        "type":["Resource"],
+        "body":[""],
+    }}
+/>
 
 <!--
 Alternatively:
@@ -110,11 +115,15 @@ Each defence stat is a combination of your *passive resolve* and another attribu
 
 ##### Table: Defence Calculations
 
-| Stat               | Calculation               |
-| :----------------- | :------------------------ |
-| Constitution (CON) | Passive RES + Passive STR |
-| Evasion (EVA)      | Passive RES + Passive DEX |
-| Willpower (WILL)   | Passive RES + Passive INT |
+<YAMLTable
+    tableData={statsTable}
+    headers={["Stat","Calculation"]}
+    values={["name","body"]}
+    filters={{
+        "type":["Defence"],
+        "body":[""],
+    }}
+/>
 
 :::info Example
 
@@ -126,9 +135,13 @@ Each defence stat is a combination of your *passive resolve* and another attribu
 
 Your speed is a measurement in *meters* of how fast your character can move in a *single action* (2 seconds). <!--Normally, only the base speed matters. However, other speeds can be calculated if necessary.-->
 
-|  | Calculation |
-|:-|:-|
-| Speed | Size + Passive Dexterity + Passive Agility + Running Proficiency |
+<YAMLTable
+    tableData={statsTable}
+    headers={["Stat","Calculation"]}
+    values={["name","body"]}
+    filters={{"name":["Speed"]}}
+/>
+
 <!--| Long Jump | (Size + Passive Strength + Passive Athletics + Jumping Proficiency) / 3 |
 | Vertical Climb | (Size + Passive Strength + Passive Athletics + Climbing Proficiency) / 4 |
 | Swimming | (Size + Passive Strength + Passive Athletics + Swimming Proficiency) / 6 |
@@ -207,16 +220,16 @@ When a character's ambition has been fulfilled it is usually replaced with a new
 
 ?
 
-### Armour Rating and Protection
+### Armour Defence
 
 ?
 
 ##### Table: Armour Defence Calculations
 
-| Stat                      | Calculation                      |
-| :------------------------ | :------------------------------- |
-| Physical Defense (P.DEF)  | Passive RES + Armour Rating (AR) |
-| Elemental Defense (E.DEF) | Passive INT + Armour Rating (AR) |
+| Stat                         | Calculation                      |
+| :--------------------------- | :------------------------------- |
+| Physical Deflection (P.DEF)  | Passive RES + Armour Rating (AR) |
+| Elemental Deflection (E.DEF) | Passive INT + Armour Rating (AR) |
 
 :::info Example
 

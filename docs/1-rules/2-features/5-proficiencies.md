@@ -7,13 +7,13 @@ import TabItem from '@theme/TabItem';
 import YAMLTable from '@site/src/components/YAMLTable';
 import tableData from '@site/src/components/tables/proficiencies.yml';
 
-Druids have proficiencies like <Tooltip name="cultivation" link="/" />
+Druids have proficiencies like <Tooltip name="cultivation" /> and <Tooltip name="outsider" /> but not <Tooltip name="hydromancy" /> or <Tooltip name="vigour" />
 
 ##### Table: Proficiencies
 
 <Tabs
-    groupId='tables'
-    queryString='tables'
+    groupId='table'
+    queryString='table'
     defaultValue='all'
     values={[
         {value:'all', label:'All'},
@@ -25,9 +25,9 @@ Druids have proficiencies like <Tooltip name="cultivation" link="/" />
         {value:'environment', label:'Environment'},
         {value:'influence', label:'Influence'},
         {value:'ki', label:'Ki'},
-        {value:'knowledge', label:'Knowledge'},
         {value:'psionics', label:'Psionics'},
         {value:'sorcery', label:'Sorcery'},
+        {value:'study', label:'Study'},
         {value:'superpowers', label:'Superpowers'},
         {value:'wizardry', label:'Wizardry'},
     ]}>
@@ -64,7 +64,10 @@ Druids have proficiencies like <Tooltip name="cultivation" link="/" />
 <TabItem value='communion'>
     <YAMLTable
         tableData={tableData}
+        headers={["Name","Ideological Axes","Description"]}
+        values={["name","axes","desc"]}
         filters={{"type":["Communion"]}}
+        sort={null}
     />
 </TabItem>
 
@@ -92,14 +95,9 @@ Druids have proficiencies like <Tooltip name="cultivation" link="/" />
 <TabItem value='ki'>
     <YAMLTable
         tableData={tableData}
+        headers={["Name","Attribute","Resource","Description"]}
+        values={["name","attr","res","desc"]}
         filters={{"type":["Ki"]}}
-    />
-</TabItem>
-
-<TabItem value='knowledge'>
-    <YAMLTable
-        tableData={tableData}
-        filters={{"type":["Knowledge"]}}
     />
 </TabItem>
 
@@ -114,6 +112,14 @@ Druids have proficiencies like <Tooltip name="cultivation" link="/" />
     <YAMLTable
         tableData={tableData}
         filters={{"type":["Sorcery"]}}
+        sort={null}
+    />
+</TabItem>
+
+<TabItem value='study'>
+    <YAMLTable
+        tableData={tableData}
+        filters={{"type":["Study"]}}
     />
 </TabItem>
 

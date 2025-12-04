@@ -1,0 +1,30 @@
+
+- name: Altruism
+  type: Communion
+  desc: []
+  body: When others are in need, it is you who will provide. This ideology spans the providence of both supportive actions and the gifting of material goods. Being altruistic is more than just providing when it is necessary, it is also the search for such opportunities.
+
+- name: Militarism
+  type: Communion
+  desc: []
+  body: While kindness is an option, it is easier to demonstrate the cost of failure with a show of force. Militarism is not solely about violence. It is the drive to demonstrate your ideals even if others do not agree. What people want is not necessarily what people need.
+
+- name: Impulse
+  type: Communion
+  desc: []
+  body: Opportunity is essentially a divine portent. Whenever opportunities arise that align with your goals they must be taken. Any other action is a failure to utilize the divine gift given to you. Searching for opportunities is not necessarily a goal, rather that opportunities are everywhere and just waiting to be taken.
+
+- name: Discipline
+  type: Communion
+  desc: []
+  body: Action itself is less important than recognizing when that action is necessary. Although it may appear as though opportunities are constant, many of which can easily become distractions that prevent you from truly exemplifying your ideals at a better time.
+
+- name: Liberty
+  type: Communion
+  desc: []
+  body: Freedom in all forms matters more to you than any one rule can provide. Although others are free to follow their own paths, if an individual or group's cause stands in the way of the freedom others, then that path is a restriction guised by a mask of freedom.
+
+- name: Authority
+  type: Communion
+  desc: []
+  body: Governance without rule of law can quickly devolve into chaos. Without the guide of authority, actions are easily taken with disregard for consequence. This reckless behaviour can very easily have unintended effects. It is safer to follow law than act without guidance.

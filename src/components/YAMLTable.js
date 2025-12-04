@@ -2,14 +2,6 @@ import reactStringReplace from "react-string-replace";
 import Tooltip from "../components/Tooltip";
 import { allFeatureNamesRegex } from "./tables";
 import tableDataDefault from "./YAMLTable.yml";
-const headersDefault = ["Name", "Description"];
-const valuesDefault = ["name", "desc"];
-const alignDefault = null;
-// align = ["left", "right", "center"]
-const filtersDefault = {};
-// filters = {"tags" : ["tag1", "tag4"]}
-const sortDefault = "name";
-// sort = ["-cost", "name"]
 
 // dynamicSort() and dynamicSortMultiple()
 // credit: https://stackoverflow.com/users/300011/ege-%c3%96zcan
@@ -21,27 +13,23 @@ function dynamicSort(property) {
 		property = property.substr(1);
 	}
 	return function (a, b) {
-		/* next line works with strings and numbers,
-		 * and you may want to customize it to your needs
-		 */
+		// next line works with strings and numbers,
+		// and you may want to customize it to your needs
 		var result = a[property] < b[property] ? -1 : a[property] > b[property] ? 1 : 0;
 		return result * sortOrder;
 	};
 }
 function dynamicSortMultiple() {
-	/*
-	 * save the arguments object as it will be overwritten
-	 * note that arguments object is an array-like object
-	 * consisting of the names of the properties to sort by
-	 */
+	// save the arguments object as it will be overwritten
+	// note that arguments object is an array-like object
+	// consisting of the names of the properties to sort by
 	var props = arguments;
 	return function (obj1, obj2) {
 		var i = 0,
 			result = 0,
 			numberOfProperties = props.length;
-		/* try getting a different result from 0 (equal)
-		 * as long as we have extra properties to compare
-		 */
+		// try getting a different result from 0 (equal)
+		// as long as we have extra properties to compare
 		while (result === 0 && i < numberOfProperties) {
 			result = dynamicSort(props[i])(obj1, obj2);
 			i++;
@@ -82,9 +70,11 @@ function YAMLTableRow({ tableData, values, align, filters, sort }) {
 	}
 	var filteredData = tableData.filter((data) =>
 		Object.keys(filters).every((key) =>
-			data[key].includes
-				? filters[key].some((filter) => data[key].includes(filter))
-				: data[key].includes(filters[key])
+			data[key] && (
+				data[key].includes
+					? filters[key].some((filter) => data[key].includes(filter))
+					: data[key].includes(filters[key])
+			)
 		)
 	);
 	return filteredData.sort(sortRule(sort)).map((data) => (
@@ -98,17 +88,20 @@ function YAMLTableRow({ tableData, values, align, filters, sort }) {
 							"white-space": "pre-wrap",
 						}}
 					>
-						{value === "desc" || value === "body"
+						{value !== "name" // value === "desc" || value === "body" || value == "type" || value === "axes"
 							? reactStringReplace(displayValue, allFeatureNamesRegex, (match, i) =>
-									match.toLowerCase() !== data["name"].toLowerCase() && match !== "driving" ? (
-										<Tooltip key={i} name={match}>
-											{match}
-										</Tooltip>
-									) : (
-										match
-									)
-							  )
-							: displayValue}
+								match.toLowerCase() !== data["name"].toLowerCase() && match !== "driving" ? (
+									<Tooltip key={i} name={match}>
+										{match}
+									</Tooltip>
+								) : (
+									match
+								)
+							)
+							: data.alias
+								? (displayValue + " (" + data.alias + ")")
+								: displayValue
+						}
 					</td>
 				);
 			})}
@@ -118,11 +111,11 @@ function YAMLTableRow({ tableData, values, align, filters, sort }) {
 
 export default function YAMLTable({
 	tableData = tableDataDefault,
-	headers = headersDefault,
-	values = valuesDefault,
-	align = alignDefault,
-	filters = filtersDefault,
-	sort = sortDefault,
+	headers = ["Name", "Description"],
+	values = ["name", "desc"],
+	align = null, // align = ["left", "right", "center"]
+	filters = {}, // filters = {"tags" : ["tag1", "tag4"], "other" : ["foo", "bar"]}
+	sort = "name", // sort = ["-cost", "name"]
 }) {
 	return (
 		<table>
