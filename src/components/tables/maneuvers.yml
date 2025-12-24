@@ -8,14 +8,14 @@
 - name: Alleviate
   skill: [Charisma, Taming]
   prof: [Persuade]
-  cost: 1 FP
+  cost: 1 FC
   desc: Negate a minor negative mental condition on an ally
   body: []
 
 - name: Anatomize
   skill: [Perception]
   prof: [Anatomy]
-  cost: 1 FP
+  cost: 1 FC
   desc: (Free action) Acquire information about a target's conditions and resource stats
   body: []
 
@@ -43,7 +43,7 @@
 - name: Cutting Words
   skill: [Charisma, Taming]
   prof: [Convince, Persuade]
-  cost: 1 FP
+  cost: 1 FC
   desc: Perform an attack by insulting a target
   body: []
 
@@ -57,7 +57,7 @@
 - name: Demoralize
   skill: [Charisma, Taming]
   prof: [Intimidate]
-  cost: 1 FP
+  cost: 1 FC
   desc: Give a penalty to a target's next test
   body: []
 
@@ -71,7 +71,7 @@
 - name: Distract
   skill: [Charisma, Taming]
   prof: [Convince, Persuade]
-  cost: 1 FP
+  cost: 1 FC
   desc: Break a target's concentration
   body: []
 
@@ -85,15 +85,15 @@
 - name: Diversion
   skill: [Handling]
   prof: [Sleight]
-  cost: 1 FP
-  desc: Redirect a target's attention away from you and/or allies and toward a target
+  cost: 1 FC
+  desc: Redirect a target's attention toward a target or direction
   body: []
 
 - name: Double Shot
   skill: [Combat]
   prof: [Archery, Firearms]
   cost: 1 ST
-  desc: (Two actions) Perform two ranged attacks at once with a reduced penaltyESC
+  desc: (Two actions) Perform two ranged attacks at once with a reduced penalty
   body: []
 
 - name: Escape
@@ -106,7 +106,7 @@
 - name: Feint
   skill: [Charisma, Taming]
   prof: [Convince]
-  cost: 1 FP
+  cost: 1 FC
   desc: Mislead an opponent to give yourself a bonus to your next attack against them
   body: []
 
@@ -148,13 +148,13 @@
 - name: Inspire
   skill: [Charisma, Taming]
   prof: [Convince, Persuade]
-  cost: 2 FP
+  cost: 2 FC
   desc: Give a bonus to a target ally's next test
   body: []
 
 - name: Intercepting Attack
   skill: [Combat]
-  prof: [[Archery, Finesse, Firearms, Martial, Throwing, Unarmed]]
+  prof: [Archery, Finesse, Firearms, Martial, Throwing, Unarmed]
   cost: 1 ST
   desc: (Reaction) Give an ally a defensive bonus by performing an attack against their attacker
   body: []
@@ -183,7 +183,7 @@
 - name: Mimic Action
   skill: [Insight]
   prof: [Any]
-  cost: 2 FP
+  cost: 2 FC
   desc: Repeat an action that you recently witnessed but with a bonus
   body: []
 
@@ -204,7 +204,7 @@
 - name: Percussive Maintenance
   skill: [Craft]
   prof: [Tinkering]
-  cost: 1 FP
+  cost: 1 FC
   desc: Fix a mechanical issue by beating the machine into submission
   body: []
 
@@ -225,7 +225,7 @@
 - name: Provoke
   skill: [Charisma, Taming]
   prof: [Convince, Persuade]
-  cost: 1 FP
+  cost: 1 FC
   desc: Direct a target's attention toward you, allowing others to sneak attack or escape
   body: []
 
@@ -239,7 +239,7 @@
 - name: Rally
   skill: [Charisma]
   prof: [Persuade]
-  cost: 2 FP
+  cost: 2 FC
   desc: Give a bonus to all nearby allies for their next offensive or defensive test
   body: []
 
@@ -295,14 +295,14 @@
 - name: Stupefy
   skill: [Insight]
   prof: [Any]
-  cost: 2 FP
+  cost: 2 FC
   desc: Once each target, disadvantage, stun, or break concentration by doing or saying something stupid
   body: []
 
 - name: Superficial Treatment
   skill: [Handling]
-  prof: [Heal]
-  cost: 1 FP
+  prof: [Healing]
+  cost: 1 FC
   desc: Recover a limited amount of endurance to a target
   body: []
 
@@ -323,7 +323,7 @@
 - name: Taunt
   skill: [Charisma, Taming]
   prof: [Intimidate]
-  cost: 1 FP
+  cost: 1 FC
   desc: Direct a target's attention toward you, giving them a disadvantage when targeting others
   body: []
 

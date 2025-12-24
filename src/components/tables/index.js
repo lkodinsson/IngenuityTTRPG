@@ -49,7 +49,7 @@ function buildMap(
 export const conditions = buildMap(conditionsTable, "Condition", "/rules/core_rules/conditions");
 export const difficulties = buildMap(difficultiesTable, "Difficulty", "/rules/core_rules/tests", "#table-challenge-difficulties");
 export const ideologies = buildMap(ideologiesTable, "Ideology");
-export const maneuvers = buildMap(maneuversTable, "Maneuvers");
+export const maneuvers = buildMap(maneuversTable, "Maneuvers", "rules/core_rules/maneuvers");
 export const proficiencies = buildMap(proficienciesTable, "Proficiency", "/rules/core_rules/characters", "#proficiencies");
 export const sizes = buildMap(sizesTable, "Size", "/rules/core_rules/characters", "#table-sizes");
 export const skills = buildMap(skillsTable, "Skill", "/rules/core_rules/characters", "#skills");
