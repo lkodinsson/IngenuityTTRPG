@@ -1,6 +1,7 @@
 import conditionsTable from "@site/src/components/tables/conditions.yml";
 import difficultiesTable from "@site/src/components/tables/difficulties.yml";
 import ideologiesTable from "@site/src/components/tables/ideologies.yml";
+import maneuversTable from "@site/src/components/tables/maneuvers.yml";
 import proficienciesTable from "@site/src/components/tables/proficiencies.yml";
 import sizesTable from "@site/src/components/tables/sizes.yml";
 import skillsTable from "@site/src/components/tables/skills.yml";
@@ -11,6 +12,7 @@ export {
 	conditionsTable,
 	difficultiesTable,
 	ideologiesTable,
+	maneuversTable,
 	proficienciesTable,
 	sizesTable,
 	skillsTable,
@@ -47,6 +49,7 @@ function buildMap(
 export const conditions = buildMap(conditionsTable, "Condition", "/rules/core_rules/conditions");
 export const difficulties = buildMap(difficultiesTable, "Difficulty", "/rules/core_rules/tests", "#table-challenge-difficulties");
 export const ideologies = buildMap(ideologiesTable, "Ideology");
+export const maneuvers = buildMap(maneuversTable, "Maneuvers");
 export const proficiencies = buildMap(proficienciesTable, "Proficiency", "/rules/core_rules/characters", "#proficiencies");
 export const sizes = buildMap(sizesTable, "Size", "/rules/core_rules/characters", "#table-sizes");
 export const skills = buildMap(skillsTable, "Skill", "/rules/core_rules/characters", "#skills");
@@ -56,6 +59,7 @@ export const allFeatures = {
 	...conditions,
 	...difficulties,
 	...ideologies,
+	...maneuvers,
 	...proficiencies,
 	...sizes,
 	...skills,

@@ -10,7 +10,7 @@
 | Crippling Attack | Combat | Any | 2 ST | Give a penalty to a target's next test by performing an attack |
 | Crushing Strike | Combat | Martial, Unarmed | 1 ST | Perform a melee attack with increased damage and a luck bonus if it would miss |
 | Cutting Words | Charisma, Taming | Convince, Persuade | 1 FP | Perform an attack by insulting a target |
-| Dancing Strike | Combat | Finesse, Unarmed | 1 ST | Trade places with a target by performing a melee attack
+| Dancing Strike | Combat | Finesse, Unarmed | 1 ST | Trade places with a target by performing a melee attack |
 | Demoralize | Charisma, Taming | Intimidate | 1 FP | Give a penalty to a target's next test |
 | Disarm | Athletics, Handling | Sleight | 1 ST | Give a penalty to a target to use a held item. Disarm twice to steal it |
 | Distract | Charisma, Taming | Convince, Persuade | 1 FP | Break a target's concentration |

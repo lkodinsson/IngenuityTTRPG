@@ -13,7 +13,7 @@ Overview of character features here
 
 ## Stats
 
-Stats are any measurable property belonging to a character, typically represented by *dice* or a *number*. Some stats, like *resources* and *defences* are derived from other stats, like *attributes*. They can vary in scope, meaning they can be very broad or very specific.
+Stats are any measurable property belonging to a character, typically represented by *dice* or a *number*. Some stats, like *resources* and *defences* are derived from other features, like *attributes*. They can vary in scope, meaning they can be very broad or very specific.
 
 ### Attributes
 
@@ -104,13 +104,13 @@ Most tasks are handled by the *mundane* skills. These represent groups of normal
 
 <YAMLTable tableData={skillsTable} filters={{"type":["Mundane"]}}/>
 
-Other types of tasks that are beyond the normal space of interaction are handled by the *supernatural* skills. This includes abilities both of a magical and nonmagical origin.
+Other types of tasks that are beyond the normal space of interaction are handled by the *supernatural* skills. Supernatural skills are primarily for using *powers*, which includes abilities of both a magical and nonmagical origin.
 
 ##### Table: Supernatural Skills
 
 <YAMLTable tableData={skillsTable} filters={{"type":["Supernatural"]}}/>
 
-### Proficiencies
+## Proficiencies
 
 *Proficiencies* are more precise forms of expertise that a character can learn, like a type of knowledge, specific activity, or familiar environment. Unlike attributes and skills, they are not represented by dice, instead they are represented by a number as a bonus ranging from +1 to +4.
 
@@ -150,7 +150,7 @@ A character can have a proficiency in more or less anything that a player can im
     }}
 />
 
-Proficiencies are not exclusive, meaning that any other reasonable substitute for a proficiency can be used in the same circumstance. This applies to *all* dice rolls that use proficiencies.
+Proficiencies are not exclusive, meaning that any other reasonable substitute for a proficiency can be used in the same circumstance.
 
 :::info Examples
 
@@ -159,9 +159,30 @@ A character attempting to *track an animal in the woods* could use a proficiency
 
 :::
 
-The languages that a character can speak are also a type of proficiency and are acquired and represented the same way. Characters are considered *masters* of their native languages and characters who have mastery in a language never need to roll dice to use it. To simplify language use, all characters are typically considered to share a *common* language.
+### Languages
 
-## Character Archetypes
+The languages that a character can speak are also a type of proficiency and are acquired and represented the same way. Characters are considered *masters* of their native languages and characters who have mastery in a language never need to roll dice to use it.
+
+:::note
+
+To simplify language use, all characters are typically considered to share a *common* language.
+
+:::
+
+### Stats Proficiencies
+
+Some specific proficiencies also modify certain character stats in addition to being useful for performing various activities like normal proficiencies.
+
+##### Table: Stats Proficiencies
+
+<YAMLTable
+    tableData={proficienciesTable}
+    headers={["Name","Stat","Description"]}
+    values={["name","stat","desc"]}
+    filters={{"stat":[""]}}
+/>
+
+## Archetypes
 
 Your *archetype* is built from three parts that work together to provide a rough summary of who your character is.
 
@@ -184,5 +205,9 @@ Crowley is a British scholar and investigator.
 Each part of an archetype also provides other small bonuses that help define your character mechanically, like which skills and proficiencies they are trained in.
 
 ### Talents and Traits
+
+?
+
+### Maneuvers and Powers
 
 ?

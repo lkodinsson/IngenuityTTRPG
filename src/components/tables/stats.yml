@@ -92,7 +92,7 @@
 
 - name: Size
   alias: SZ
-  sublink: "#other-stats"
+  sublink: "#table-sizes"
   type: Other
   desc: Physical space that the body requires
 
@@ -108,9 +108,11 @@
   sublink: "#other-stats"
   type: Other
   desc: Amount of items that can be carried easily
+  body: Hands + Size + Passive STR
 
 - name: Capacity
   alias: CAP
   sublink: "#other-stats"
   type: Other
   desc: Maximum number of items that can be carried
+  body: ENC + Passive ATH + Lifting

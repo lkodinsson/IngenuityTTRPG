@@ -6,6 +6,7 @@ import {
 	conditions,
 	difficulties,
 	ideologies,
+	maneuvers,
 	proficiencies,
 	sizes,
 	skills,
@@ -24,6 +25,7 @@ export default function Tooltip({
 		if (source.toString().toLowerCase() === "conditions") { source = conditions; }
 		if (source.toString().toLowerCase() === "difficulties") { source = difficulties; }
 		if (source.toString().toLowerCase() === "ideologies") { source = ideologies; }
+		if (source.toString().toLowerCase() === "maneuvers") { source = maneuvers; }
 		if (source.toString().toLowerCase() === "proficiencies") { source = proficiencies; }
 		if (source.toString().toLowerCase() === "sizes") { source = sizes; }
 		if (source.toString().toLowerCase() === "skills") { source = skills; }
@@ -69,27 +71,23 @@ export default function Tooltip({
 							maxWidth: "min(80vw, 40em)",
 						}}
 					>
-						<div style={{ display: "flex", "justify-content": "space-between", "align-items": "baseline" }}>
-							<h3>{
+						<div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginBottom: "0.5em" }}>
+							<h3 style={{ display: "flex", alignItems: "center", marginBottom: "0" }}>{
 								link
 									? <a href={link + sublink}>{data.name}</a>
 									: data.name
-								//: data.link
-								//	? <a href={data.link}>{data.name}</a>
-								//	: data.name
 							}
-								{data.alias && <span style={{ "white-space": "pre-wrap", "font-size": "80%", "font-weight": "normal" }}> ({data.alias})</span>}
+								{data.alias && <span style={{ whiteSpace: "pre-wrap", fontSize: "80%", fontWeight: "normal" }}> ({data.alias})</span>}
 							</h3>
-							<span>&emsp;</span>
-							{
+							<span style={{ marginLeft: "auto", paddingLeft: "1em" }}>{
 								(data.source !== "Glossary") &&
 									data.type
-									? <span>({data.type} {data.source})</span>
-									: <span>({data.source})</span>
-							}
+									? `${data.type} ${data.source}`
+									: `${data.source}`
+							}</span>
 						</div>
-						{data.desc && <div style={{ "white-space": "pre-wrap" }}>{data.desc}</div>}
-						{data.body && <div style={{ "white-space": "pre-wrap" }}>{
+						{data.desc && <div style={{ whiteSpace: "pre-wrap", marginBottom: "0.5em" }}>{data.desc}</div>}
+						{data.body && <div style={{ whiteSpace: "pre-wrap" }}>{
 							Array.isArray(data.body)
 								? data.body.join(", ")
 								: data.body

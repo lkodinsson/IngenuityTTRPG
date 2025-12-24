@@ -6,7 +6,7 @@
 
 - name: Climbing
   type: Activity
-  desc: Ascending steep walls or cliffs, tiny
+  desc: Ascending steep walls or cliffs
 
 - name: Convince
   type: Activity
@@ -26,6 +26,7 @@
 
 - name: Dodge
   type: Activity
+  stat: Reflexes
   desc: Defending by evading attacks and directed effects
 
 - name: Driving
@@ -34,6 +35,7 @@
 
 - name: Fortitude
   type: Activity
+  stat: Constitution
   desc: Defending by bracing oneself against physical effects and conditions
 
 - name: Hacking
@@ -54,6 +56,7 @@
 
 - name: Lifting
   type: Activity
+  stat: Capacity
   desc: Carrying and moving heavy objects
 
 - name: Persuade
@@ -66,6 +69,7 @@
 
 - name: Resistance
   type: Activity
+  stat: Willpower
   desc: Defending by resisting mental effects and conditions
 
 - name: Riding
@@ -74,6 +78,7 @@
 
 - name: Running
   type: Activity
+  stat: Speed
   desc: Traveling on foot at a fast pace
 
 - name: Sabotage
@@ -86,7 +91,8 @@
 
 - name: Search
   type: Activity
-  desc: Finding hidden objects or creatures # Also increases passive perception?
+  stat: Passive Perception
+  desc: Finding hidden objects or creatures
 
 - name: Sleight
   type: Activity
@@ -138,9 +144,17 @@
   type: Crafting
   desc: Craft rings, amulets, bracelets, and other adornments
 
+- name: Masonry
+  type: Crafting
+  desc: Craft stonework structures and sculptures
+
 - name: Medicine
   type: Crafting
   desc: Craft medicines, ointments, and bandages
+
+- name: Pottery
+  type: Crafting
+  desc: Craft clay vessels and ornaments
 
 - name: Tailoring
   type: Crafting
@@ -153,6 +167,10 @@
 - name: Weaponsmith
   type: Crafting
   desc: Craft melee and throwing weapons
+
+- name: Woodworking
+  type: Crafting
+  desc: Craft wooden objects, tools, and basic wooden weapons
 
 - name: Writing
   type: Crafting
@@ -338,7 +356,7 @@
 
 - name: Throwing
   type: Combat #[Activity, Combat]
-  desc: Ability to throw weapons or objects with accuracy and speed
+  desc: Ability to throw weapons or objects with deadly precision
 
 - name: Unarmed
   type: Combat
@@ -525,7 +543,6 @@
   type: Wizardry
   desc: []
   body: Transmuters can change one thing into something else or repair what is broken. Transmutation focuses on the alteration of physical things and does not necessarily provide results that one would assume are of a magical nature.
-
 # Occupation (for reference)
 
 # Architect

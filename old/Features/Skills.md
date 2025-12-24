@@ -380,7 +380,7 @@ In the wild, many animals are unfriendly or fearful towards the majority of peop
 
 #### Animism (RES)
 
-Nature is a fundamental force that governs reality and animism allows you to connect to that force. Animists, often called *druids*, do not require any special items to use powers as nature itself is the conduit. Powers used by animism are considered *magical*, are often called *spells*, and require *focus* to use. Animism has three proficiencies which represent different ideological connections to nature:
+Nature is a fundamental force that governs reality and animism allows you to connect to that force. Animists, often called *druids*, do not require any special items to use powers as nature itself is the conduit. Powers used by animism are considered *magical*, are often called *spells*, and require *focus* to use. Animism has three proficiencies which represent different ideological connections to nature.
 
 ##### Table: Animism Proficiencies
 | Name | Description |

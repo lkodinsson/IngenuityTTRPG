@@ -7,8 +7,6 @@ import TabItem from '@theme/TabItem';
 import YAMLTable from '@site/src/components/YAMLTable';
 import tableData from '@site/src/components/tables/proficiencies.yml';
 
-Druids have proficiencies like <Tooltip name="cultivation" /> and <Tooltip name="outsider" /> but not <Tooltip name="hydromancy" /> or <Tooltip name="vigour" />
-
 ##### Table: Proficiencies
 
 <Tabs

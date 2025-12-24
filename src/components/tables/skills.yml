@@ -4,78 +4,95 @@
   alias: AGI
   type: Mundane
   desc: Activities that require speed, precision, and balance
+  body: Light and fast movement are the work of agility. This skill allows you to perform dives, flips, walk silently, hide in dark areas, and squeeze into tight spaces.
 
 - name: Athletics
   alias: ATH
   type: Mundane
   desc: Activities that require stability, hardiness, and brute force
+  body: You use the strength of your body to manipulate the world around you and move within it. This includes lifting, climbing, swimming, and jumping, among other physical activities.
 
 - name: Charisma
   alias: CHA
   type: Mundane
   desc: All forms of social interaction, inspiration, and manipulation
+  body: The capacity to influence others to follow your lead, whether that means through intimidation (using strength), convincing (using intelligence), or persuading (using resolve). Different types of people will react differently to influence depending on their disposition and desires. While most of the time charisma is used to apply influence upon others, it can also be used to discover intent through either knowledge (using intelligence) or social cues (using resolve).
 
 - name: Combat
   alias: CMB
   type: Mundane
   desc: Attacking enemies with the body or weaponry
+  body: []
 
 - name: Craft
   alias: CRA
   type: Mundane
   desc: Creating or modifying objects, tools, items, gadgets, and mechanisms
+  body: Adventurers may often find themselves in unexpected situations. Crafting can allow for the improvisational construction of traps and tools, for tying strong knots, and even the repair of damaged items. While not necessarily a craft itself, it can even be used to appraise the quality of goods and equipment, or learn how to use unrecognizable equipment.
 
 - name: Handling
   alias: HAN
   type: Mundane
   desc: Using the hands to perform precise, subtle, or mechanical activities
+  body: This skill is important for anyone who wants to do work with their hands. This includes but is not limited to hacking, sleight of hand, disabling devices, and performing tricks (using dexterity) or application of medicines and treatments (using intelligence). For tasks that involve modifying or creating complex devices, machinery, or medicines, the craft skill should be used instead.
 
 - name: Insight
   alias: INS
   type: Mundane
   desc: Recalling knowledge or creating new information from circumstance
+  body: Insight represents your ability to recall information and work with information. It can be anything from the widely available to the potentially unknown, such as historical events, people, organizations, secret societies, or the occult. This skill can also be used to make effective work studying new topics, with difficulty depending on your level of familiarity or the complexity of the material.
 
 - name: Networking
   alias: NET
   type: Mundane
   desc: Navigating social networks to find people and their connections
+  body: []
 
 - name: Perception
   alias: PER
   type: Mundane
   desc: Discovering things and information in the environment using the senses
+  body: Perception is used to search with the senses (using dexterity) or apply existing information with deduction (using intelligence) to discover things in the immediate surroundings or current situation. This can mean tracking creatures, detecting stealthy individuals, or finding hidden secrets or traps. If one or more of your senses are limited or unavailable, perception can be used to detect things with your remaining senses.
 
 - name: Taming
   alias: TAM
   type: Mundane
   desc: Communicating with animals and beasts using body language and intent
+  body: In the wild, many animals are unfriendly or fearful towards the majority of people. This skill allows you to speak to and calm down such animals. It can also be used to convince certain animals, like guard dogs, that you are friendly much in the same way you could use charisma to intimidate or persuade someone. While this skill does not provide the ability to understand animals directly, it does provide the ability to share in confidence and trust, and to form an emotional bond with animals. Some animals that spend lots of time around people, like cats and dogs, are also capable of responding to very simple spoken requests once this trust is assured. The types of animals that do not respond to commands might instead respond to simple gestures that can signal basic requests. This includes directing domesticated animals like cattle and horses.
 
 # Supernatural Skills
 
 - name: Animism
   type: Supernatural
-  desc: Magic utilizing the forces of nature
+  desc: Magic powers utilizing the forces of nature
+  body: Nature is a fundamental force that governs reality and animism allows you to connect to that force. Animists, often called *druids*, do not require any special items to use powers as nature itself is the conduit. Powers used by animism are considered *magical*, are often called *spells*, and require *focus* to use. Animism has three proficiencies which represent different ideological connections to nature.
 
 - name: Communion
   type: Supernatural
-  desc: Magic derived from the powers of another entity
+  desc: Magic powers derived from the powers of another entity
+  body: The power of communion is derived from an external entity that bestows its powers to a character. Individuals who follow in a lifestyle connected to an entity are often called *clerics* or *warlocks* depending on the public image of that entity. Powers used by communion are considered *magical*, are often called *spells*, and require *focus* to use. Communion proficiencies are built from three different ideological axes. *Altruism* vs *militarism*, *impulse* vs *discipline*, and *liberty* vs *authority*.
 
 - name: Ki
   type: Supernatural
-  desc: Nonmagic released by manipulating one's own auras
+  desc: Nonmagic powers released by manipulating one's own auras
+  body: All things have some form of spirit and ki is a manifestation of spirit in the form of an aura. Control over ki is control over one's own auras. Typically this form of magic is performed by those who meditate on the deeper parts of themselves. Those who can control their auras are often known as *sōhei* or *monks*. Powers used by ki are considered *nonmagical* and each ki proficiency uses a different resource and attribute. Ki has four different proficiencies to choose from which are the four auras.
 
 - name: Psionics
   type: Supernatural
-  desc: Nonmagic projected from within the mind
+  desc: Nonmagic powers projected from within the mind
+  body: []
 
 - name: Sorcery
   type: Supernatural
-  desc: Magic created from within oneself
+  desc: Magic powers created from within oneself
+  body: Sorcery is the natural style of spellcasting. Powers used by sorcery are considered *magical*, are often called *spells*, and require *focus* to use. It has seven proficiencies of a philosophical or classical nature.
 
 - name: Superpowers
   type: Supernatural
-  desc: Nonmagic extending the limits of the body
+  desc: Nonmagic powers extending the limits of the body
+  body: []
 
 - name: Wizardry
   type: Supernatural
-  desc: Magic mastered through careful study
+  desc: Magic powers mastered through careful study
+  body: Wizardry is the educated style of spellcasting. Powers used by sorcery are considered *magical*, are often called *spells*, and require *focus* to use. It has six different proficiencies which are the six schools of magic.
